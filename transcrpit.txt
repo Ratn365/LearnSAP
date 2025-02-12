@@ -1,0 +1,771 @@
+ this lecture, I will give you an introduction to SAP Activate methodology.
+
+So what is SAP Activate methodology.
+
+It is a methodology which is used in SAP s four HANA implementation projects.
+
+This methodology is a successor of a SAP or accelerated SAP methodology which is used in SAP ERP implementation
+
+projects.
+
+That is the business suite before SAP s four HANA.
+
+It is a combination of best practices or ready to run processes with documentation, what is best practices.
+
+So basically best practices provide the baseline configurations which enable ready to run processes
+
+with documentation guided configuration that is prescriptive step by step deployment guidance for project
+
+teams.
+
+The SAP activate methodology itself powerful integrated tools for configuration deployment and run stages
+
+powered by SAP Cloud Application Lifecycle management.
+
+That is the key.
+
+Noted improvements in this methodology are agile project delivery and what is Agile project delivery?
+
+Agile is a method is another methodology which is a way to manage a project by breaking it up into several
+
+phases.
+
+It involves constant collaboration with stakeholders and continuous improvement at every stage.
+
+Once the work begins, all the teams cycle through a process of planning, executing and evaluating
+
+further.
+
+Agile methodology can be applied to both cloud and on premise editions.
+
+It also provides you with out of box migration content and new implementation scenario in the cloud,
+
+as I mentioned, as guided configuration.
+
+Reduced project life cycle with four phases only.
+
+That is, prepare, explore, realize, and deploy.
+
+And we can also compare the phases of SAP, activate methodology with SAP methodology.
+
+So in SAP methodology roadmap, there were.
+
+Five different phases project preparation, business blueprint, realization, final preparation and
+
+then go live and support.
+
+While in SAP activate roadmap, we have Discover phase.
+
+Then we have prepare, explore, realize, deploy and then we have run phase.
+
+So discover and run phases are the ones where the customers have to work and prepare, explore, realize
+
+and deploy are the ones where we as consultants have to work.
+
+Blueprint Documentation activities replaced with solution fit or gap workshops.
+
+I will demonstrate you the link of SAP Activate Roadmap viewer where SAP has already provided the templates
+
+for solution fit gap.
+
+It is a complete package which helps customers and partners implement SAP s four HANA smoothly.
+
+Further.
+
+He has introduced this as a solution landscape, which is comprised of tools and resources that meets
+
+customers expectations and demands, whether in the cloud, hybrid or mobile, such as to roll out functionality
+
+in phases, managing the changes by region or department instead of all at once.
+
+This enables them to uncover and address potential issues early before they become actual problems to
+
+help them jump start their success and maintain momentum to be more focused on once that feature incremental
+
+implementations scheduled over multiple releases to reduce implementation costs and accelerate return
+
+on investment through shorter deployment times to deploy projects faster by reducing their deployment
+
+cycles from years to months.
+
+As SAP activate, Methodology works for the following types of projects Greenfield Implementation Project
+
+or new implementation.
+
+Roll out Implementation project.
+
+Brownfield Implementation Project.
+
+Or we can also call it as a landscape transformation or system conversion support project and selective
+
+data transition.
+
+And you can watch the last lecture where I have explained the following types of projects.
+
+And here is the link to SAP Roadmap Viewer, which SAP has provided and SAP Best practice Explorer through
+
+this link.
+
+And this link can be used by the customer and in order to use this best practice explorer as user ID
+
+is required and you have s user ID when you book a certification exam with SAP or you work for an organization
+
+which uses SAP, or when you have the subscription to SAP learning library, then you have as user ID.
+
+So let's navigate to SAP Roadmap viewer by clicking on this link.
+
+And the following page will start loading.
+
+And you do not need an user ID In order to open this roadmap viewer, we can choose this option.
+
+No access anonymously.
+
+And we will be landed on this main page where we can see the roadmap viewer.
+
+And we have four options to navigate.
+
+Overview How to Use Learn more.
+
+SAP Cloud Application Lifecycle Management.
+
+And you also have the fifth option.
+
+That is to explore all roadmaps and you can navigate each link to display its description, such as
+
+the overview will show you the Roadmap viewer offer, and we can also navigate how to use where you
+
+can watch this video.
+
+And then you have the third navigation as Learn more.
+
+And then the fourth one is application lifecycle management, where you can click each link to learn
+
+about SAP cloud.
+
+So let's click on this, explore all roadmaps, and here we can see links to the roadmaps related to
+
+cloud specific methodology on premise, specific methodology, upgrade methodology and general methodology.
+
+So let's navigate to on premise specific methodology.
+
+We can also click this star icon to add this roadmap to Favorites folder.
+
+So SAP activate methodology for transition to SAP s four.
+
+HANA and I have added this to my favorites folder so we can also close this.
+
+And now we can see under my favorite roadmaps as SAP activate methodology for transition to SAP s four
+
+HANA.
+
+Let's navigate to this.
+
+And you will be landed on this page showing you the overview of this methodology and if you scroll down.
+
+So it will also.
+
+Give you the overview of each phase of SAP activate methodology such as the first phase is Discover,
+
+and second phase is prepare so you can read through each phase to understand what activities you have
+
+to perform in each phase of SAP Activate Methodology.
+
+And here you can see, realize and deploy.
+
+And then run.
+
+And now if we navigate to the second link that is content.
+
+So if we filter the content by selecting the box against each phase, for example, if we click on this
+
+check box Discover, so it will show us the links under the discover.
+
+So what is Discover phase?
+
+It helps customers to get familiar with SAP s four HANA before starting a project to implement SAP.
+
+As for HANA, during this phase, customers can apply for a free trial solution if applicable, and
+
+try it out for themselves to check the features and functionalities of the solution which helps to understand
+
+the business value and benefit of SAP s four HANA for the organization and to determine SAP implementation
+
+strategy.
+
+This phase also enables the business users to prepare the business case for implementing SAP s four
+
+HANA, as well as preparing the deployment roadmap of the Digital Transformation Journey.
+
+SAP Best Practices Explorer can be accessed via this link, but this will require as user ID by the
+
+end of this phase.
+
+Customers finalize to go ahead with the required SAP solution and move to the next phase in their implementation
+
+life cycle.
+
+So let's navigate to this link for SAP Best Practices Explorer.
+
+I will click on this link.
+
+And the following page will open which will ask you to log in with your user ID.
+
+And once you log in, if you have any dialog box, you can click okay to continue and you can see the
+
+best Practices Explorer through this screen where you can navigate to the links to explore best practices.
+
+For example, if we click on this link SAP s four Hana.
+
+And then navigate to on premise.
+
+And.
+
+Now we will go to the solution packages.
+
+SAP Best practices for SAP.
+
+As for HANA.
+
+And here you can.
+
+Go to overview, solution information and solution requirements so you can go through it and also you
+
+can go through the software requirements.
+
+So let's navigate to sourcing and procurement and then operational procurement.
+
+And under that we will navigate to.
+
+Procurement of direct materials.
+
+So you can navigate to details.
+
+And here SAP has already provided process flow.
+
+So if we click on it.
+
+So we can see the process flow of procurement, of direct materials.
+
+And in this process flow you can see the roles and responsibilities of that role.
+
+For example, purchaser role.
+
+Can create a purchase requisition.
+
+Then he can also convert purchase requisition to purchase orders or automatic conversion of purchase
+
+requisition to purchase order.
+
+Then a purchasing manager can approve a purchase order and similarly, warehouse clerk can post goods
+
+issue and also can reverse goods receipt if necessary.
+
+An inventory manager can analyze the stock overview.
+
+So this is the process flow for procurement of direct materials.
+
+So similarly, SAP has also provided the test script as a template which we can view if we click on
+
+it, so we can download this word document.
+
+And you can also go through this test script.
+
+And further we have process flow, which is a zip file and also the test script that is a template for
+
+manually uploading the test script as test case in SAP cloud.
+
+So if we click on it, an Excel document will be downloaded and here you can see the test cases as well.
+
+For example, activity title activity, target name activity, target URL and further columns related
+
+to action.
+
+So you can use this as a template for test script.
+
+SAP has also provided the task tutorials which customers can use to check and test how a function functionality
+
+on SAP.
+
+As for HANA business suite works before they decide to go for SAP s four HANA implementation.
+
+So click on this.
+
+And we have this screen open where we can start the interactive session, for example.
+
+I will create purchase order by using this interactive section and then click Start tutorial.
+
+Click next.
+
+So we have to open the app, select the manage purchase order so we have instruction in this dialog
+
+box which we can follow.
+
+So the customer will do the same in order to understand a process into SAP HANA business suite that
+
+how it can be done.
+
+So let's go through this process so that you have an idea that how this task tutorials work.
+
+So let's enter the supplier number which it has mentioned in this dialog box and then go to delivery
+
+and invoice tab and then enter the payment terms as 0003 and then go to choose notes.
+
+And here we will enter the header text as PO for testing, press enter and then go to choose items and
+
+then choose create.
+
+And then in the material field we will enter this number.
+
+Press Enter.
+
+And then plant will be 1710.
+
+And then order quantity will be 200 pieces.
+
+And to display the details, select the item.
+
+And now we will choose process control, and then we'll mark the checkbox for goods, receipt based
+
+invoice verification, and then choose delivery details and storage location will be 1718.
+
+Press Enter.
+
+And then choose schedule lines.
+
+And after that we will click this button and it says The delivery date must be in the future for this
+
+example.
+
+May 26th, 2022 is selected, as you can see on the screen.
+
+Click next and then choose Apply.
+
+And then in order to save the purchase.
+
+Order.
+
+Choose.
+
+Order!
+
+So the purchase order is created, the purchase order number is displayed, which you can see here.
+
+Click next.
+
+And in order to return to the launch pad, choose SCP and then you have successfully created a purchase
+
+order manually.
+
+This concludes the interactive tutorial.
+
+Click next.
+
+And you have successfully used the interactive session to create the purchase order.
+
+You can also open a PDF document with the same screenshots which we followed in that interactive session.
+
+As you can see on my screen.
+
+That the same screenshots we have in this PDF document go back and this is all under Best Practices
+
+Explorer.
+
+Now I will go back to Roadmap viewer and where we can also click on the link that is strategy, strategic
+
+planning and can.
+
+Choose one of the link.
+
+Such as create an innovation strategy and a high level roadmap.
+
+So if we click on this and then scroll down so we can go through this.
+
+Information and you can also filter the information through the work streams such as analytics, application
+
+design and configuration integration and further work streams you can use to filter down the information.
+
+You can also filter the information by marking the checkbox if it is a new implementation or if it is
+
+a system conversion or selective data transition.
+
+Further, you have option to show or hide filters, or you can also share the information by clicking
+
+on this button through email and other social platforms.
+
+And also under the accelerators.
+
+We can see different files which SAP has provided as a template.
+
+For example, we can click on best practice documents.
+
+Elements for Designing a Transition Roadmap to SAP s four Hana.
+
+Public.
+
+So if we click on this.
+
+So this has opened a PDF document which we can go through to understand this task under the.
+
+Discovery phase.
+
+Similarly, you can view other documents which SAP has provided as a template.
+
+So your project manager will give you more information on that.
+
+Now go back to discovery phase and further you can navigate to other links such as application value
+
+and scoping.
+
+And under each link, SAP has provided a template which you can view.
+
+And this is the trial system provisioning.
+
+Provide a trial system and you can go through this information that how the customers can apply for
+
+SAP trial.
+
+And this is all in the Discover phase.
+
+Now go back and the next phase is prepare.
+
+So I will click on prepare phase and this will now show me the links under this prepare phase.
+
+So what is prepare phase In this phase, Activate is mainly focused on planning and preparation, initial
+
+project plan, project goal, scope of the project implementation plan and rollout strategy are identified
+
+and defined.
+
+Project standards and governance roles and responsibilities and management plans for running the project
+
+are also defined in this phase.
+
+This phase is crucial to both customers and partners as key activities that are crucial to the success
+
+of the project are completed with mutual consent.
+
+The SAP environment, such as Sandbox, is set up with SAP best practices for ready to run processes.
+
+The system is provisioned to the customer post signing of the contract with SAP and the partner.
+
+Simultaneously, key resources are identified from the partner side in terms of the SAP consultants
+
+getting onboarded and enabled from the customer side, business process owners are identified to provide
+
+the right requirements to the consultants implementing the project.
+
+During this phase, an initial level of requirement is already collected when the business process owners
+
+fill in the business driven configuration assessment questionnaire.
+
+This is a readily available document for the project team that can be downloaded and used to fasten
+
+the project.
+
+Deliver based on the answers obtained from the assessment.
+
+Consultants need to plan for the next and probably most important phase of the SAP activate methodology
+
+that is the explore phase.
+
+So as an example, you can see the key resources through this diagram.
+
+For example, project manager, team leaders.
+
+Technical consultants.
+
+Which are a B&B consultants basis consultants, and we have also functional consultants and the business
+
+team.
+
+So the requirements gathering sessions are held in between financial consultants and business team,
+
+and further functional consultants also deliver the requirements to the technical consultants if the
+
+enhancement is required in SAP system.
+
+So let's click one of the link under the project, such as Project Kick off and Onboarding.
+
+So if we expand this link project, kick off and onboarding and then go to onboard project team.
+
+And we can see a file under accelerators.
+
+So if we click on this so this has downloaded a PowerPoint template and you can see that this is a PowerPoint.
+
+Slides, which you can go through.
+
+And SAP has already provided this PowerPoint slides.
+
+As Agile Management introduction.
+
+Go back.
+
+And similarly, you can go through other links in this phase that is prepared.
+
+Now we will go to the next phase, that is explore.
+
+And you can see.
+
+In this phase that we have fit to standard workshops and documentation.
+
+So what is explore phase?
+
+The business users explore the best practices and standard business processes to ensure that those meet
+
+business needs and all backlogs are captured.
+
+Sample data provided by company is also available to enable business users to run the end to end processes
+
+to evaluate how closely a standard solution meet meets the company's business needs.
+
+The business users and the consulting firm agree on the configurable objects required for the company
+
+and the same will be captured in that is key data structure or key design structure and that is business
+
+process.
+
+Document fit and gap analysis is done to identify the configuration and extensions that best meet the
+
+customer's requirements to identify the gaps that the standard sap s four HANA is unable to offer that
+
+is rice of objects.
+
+So the question is what are gaps and what are rice objects?
+
+In order to understand the gap, first we have to understand the fit to standard.
+
+For example, you can see this diagram that this is the enterprise structure and this is SAP mapping.
+
+It means that, for example, if an organization gives us the requirements of its enterprise structure
+
+hierarchy at a high level, as you can see, then we can map it into SAP by using different objects
+
+in SAP system such as client represents, enterprise, company code represents subsidiary or company
+
+plant represents factory.
+
+And similarly distribution channel refers to selling channel sales organization to sales department
+
+and sales group refers to salespersons or sales team and storage location refers to storage, location
+
+or warehouse.
+
+So we can say that this is fit to standard.
+
+Process or fit with process.
+
+In other words, these requirements.
+
+Can be met with the standard functionality of SAP system.
+
+Now, if any organization's business requirement cannot be met with the standard functionality of SAP
+
+system, then it will be a gap.
+
+And gap analysis is usually documented with the reference of receive elements, which stands for Workflow
+
+reports, Interfaces, Conversions, Enhancements and forms.
+
+And further, you can see the example of interfaces such as Idocs conversions.
+
+LSM or BDC enhancements refer to user exits.
+
+And SAP has already provided the template for fit to standard workshops and documentation.
+
+So if we expand this link and then go under fit to standard workshop documentation.
+
+And then scroll down and under accelerators, you can see how to approach fit to standard analysis design
+
+on premise.
+
+So if we click on this and the following document will be downloaded, which we can open.
+
+And this is the PowerPoint document which SAP has provided.
+
+Which you can go through.
+
+And can understand each phase as well.
+
+Similarly we can navigate.
+
+Other employee documents which has provided such as fit to standard workshops, execution.
+
+And here we can click on fit to standard functional design templates.
+
+So if we click on it.
+
+A zip folder will be downloaded, which we can open.
+
+And you can see the following word documents which SAP has provided for the receive elements such as
+
+conversion enhancement, form, interface report and workflow.
+
+So if it is a report which you have created in SAP system, so you can write functional specification
+
+on that.
+
+So you can view this template which SAP has provided.
+
+So it has all the necessary.
+
+Information which you need to fill in order to complete this functional specification document.
+
+And further, you can also see.
+
+The review checklist.
+
+Similarly you can.
+
+Navigate to other documents or links under this explore phase, such as we can view the design document.
+
+By clicking on.
+
+Functional specs public or fit to standard functional design templates.
+
+So.
+
+Let's click on Functional specs public and this is another.
+
+Zip folder, which we can open and also we can see the.
+
+Conversion enhancement interfaces, print forms, reports and workflows.
+
+So let's click on the reports.
+
+And.
+
+This is a template for functional specification and this is for custom development.
+
+So if customer custom development has been done by the ABAP consultants, then they can.
+
+Update the information by using this template.
+
+By entering the table.
+
+Name field name format The default value.
+
+And similarly, we can also view fit to standard functional design templates.
+
+And these are the same documents which I showed you earlier.
+
+Now we can go back and then navigate to the next phase.
+
+That is real.
+
+So if we click on it so we can see the links under this phase and then can navigate to one of the links
+
+by expanding this and.
+
+We can view the information under each link which has been provided by SAP.
+
+And what is realized face.
+
+In the realized phase, the focus is on tailored solutions, in short and timeboxed sprints.
+
+The project team build test and validate the business scenarios and processes identified in the previous
+
+phase along with end users.
+
+End users training is also planned so that relevant end users can be engaged at the right time and be
+
+trained only in their specific areas of working.
+
+Multiple levels of testing, such as unit testing, string testing, integration testing and users acceptance
+
+testing is performed to ensure that SAP system is configured according to the customer requirements
+
+provided by the business process owners.
+
+Data migration testing is also done to ensure the data filled in by the business.
+
+Users are in the correct format and ready to import to the brand new SAP system.
+
+A cut over plan is made to move the configurations of objects and master and transactional data to the
+
+production system, which will be the system used by the business in real time.
+
+This signifies the end of the realized phase, and remember that our training will be based on this
+
+phase that is realized phase where I will show you the configuration related to sourcing and procurement
+
+or materials management module, and then we will execute that process as an end user activity or business
+
+user activity.
+
+Once its configuration is done.
+
+So our training is based on realize phase.
+
+Now the next phase is deploy.
+
+And we can also see its links and can view the templates related to the phase deploy.
+
+So what is deploy phase?
+
+In the deploy phase.
+
+The project team prepares the system for production release and conducts the go live.
+
+The business faces a temporary downtime as the new SAP system is deployed for usage to the business
+
+users.
+
+This is typically done during a weekend to ensure that customers have little to no effect due to the
+
+downtime.
+
+The cutover is a process that sometimes gives consultants sleepless nights as this is the culmination
+
+of all their hard work being moved into the SAP system for the usage of an entire organization.
+
+Once the cut over is done successfully and checked by the partner and the customer, the business users
+
+are supported by the consultants and the users who now form the first line of support in case users
+
+have doubts or face an issue.
+
+And this is known as hyper care period support.
+
+The customers and partners can now relish the success of the project through an intense time filled
+
+with dedication and hard work from all stakeholders involved.
+
+So we can navigate each link under this phase to understand this better.
+
+Now I will proceed to the next phase that is run, which is the last phase in SAP activate methodology
+
+and we can also see the links under this run phase.
+
+So what is run phase in SAP activate methodology.
+
+Business is live with new implementation and any issues, errors or incorrect entries that may have
+
+occurred during the first few days of SAP.
+
+As for HANA, going live are quickly corrected and support is provided accordingly.
+
+The run phase signifies the end of the customer's life cycle from identifying a solution for their business
+
+need to finally implement the solution and running their business process on the same.
+
+The key activities in this phase can be monitoring systems, alerting analysis and administration of
+
+the solution, small enhancements and fixes and optimization.
+
+So this is all about SAP Activate methodology.
+
+If you are a SAP consultant working for SAP partner, you should use SAP, Activate methodology as your
+
+main methodology when working as project manager.
+
+Implementing SAP Solutions.
+
+This does not mean that you have to use always SAP activate.
+
+There are projects where where SAP activate is not suitable considering the scope available resources,
+
+deadlines.
+
+ET cetera.
+
+So I will proceed to the next activity.

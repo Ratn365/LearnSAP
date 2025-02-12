@@ -1,0 +1,5 @@
+Analyze the provided YouTube video transcript and generate a concise, structured summary of the Transcript.  Format:    [Section Title]: [Brief description of the section][Sub-section 1]: [Detailed explanation with relevant timestamps from the transcript]  [Sub-section 2]: [Detailed explanation with relevant timestamps from the transcript]  ...  [Next Section Title]: [Brief description of the section][Sub-section 1]: [Detailed explanation with relevant timestamps from the transcript]  [Sub-section 2]: [Detailed explanation with relevant timestamps from the transcript]   Focus on clear and concise language with a professional tone. for faster processing divide transcripts in to smaller sections for eg of 5 mins
+
+gpt
+
+I am learning SAP/S4 Hana sourcing and procurement. Pleas make important points and mind map for given text
