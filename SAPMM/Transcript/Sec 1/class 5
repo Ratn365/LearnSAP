@@ -1,0 +1,231 @@
+ you install the SAP GUI?
+
+Your access provider will give you a dump of the SAP guy.
+
+It's just a piece of software that you use to connect to SAP.
+
+Think of it like a browser browser to the internet is what the sap gui is to sap.
+
+Just open that folder.
+
+Double click on it.
+
+Go to this folder.
+
+Go to GUI windows.
+
+32.
+
+Then click setup.
+
+Click next.
+
+For practicing Sapm.
+
+All you need is the sap GUI.
+
+Click next.
+
+If you satisfied with the location, click next again.
+
+And it's going to take a while and it should be done in like five minutes.
+
+Close this.
+
+And your sap guy is ready.
+
+So the next step is you want to get connected to ASAP.
+
+So it's like clicking your browser, opening it, and then typing in an address, right?
+
+Like Gmail or whatever.
+
+So the service that you want to connect to will be entered in the browser, right?
+
+So similarly open the GUI and click on this new icon.
+
+Click next.
+
+This is the screen where you specify the address of the service or the server that you want to connect
+
+to.
+
+For example.
+
+For example, I want to connect to an EC server, so just name it as EC and the application server is
+
+the exact location that you want to connect to.
+
+For example, if you want to connect to Gmail, you connect Mail.google.com.
+
+Or if you want to connect to CNN, you say W ww dot CNN.com, right?
+
+So if you want to connect to your SAP server, you can either use a domain or an IP address.
+
+Example In my case, I'm going to connect to a domain EC six.
+
+Dot domain.com.
+
+This is just an example.
+
+So your service provider is going to give you the exact IP address of the domain.
+
+And you have to enter an instance number.
+
+And that will be given by your provider.
+
+The ID will also be given by your provider.
+
+So you need to enter these three pieces.
+
+ID number and an address.
+
+Click next.
+
+Next and finish.
+
+This is the simplest way to connect to SAP.
+
+So click on login.
+
+You put your user ID here and you put your password here.
+
+So that's my user ID and that's my password.
+
+Hit enter or click the green check mark.
+
+Okay, we are now logged on to SAP.
+
+Think of it.
+
+I don't want you to really understand everything about the SAP GUI at this point.
+
+As we start doing transactions, we'll start know more about subtle things.
+
+Think of it like a browser.
+
+You move forward and backward in browser, right?
+
+You move forward in SAP GUI using transactions.
+
+If you want to go back, there's a back button.
+
+The menu over here is very much like your Gmail list of links.
+
+You go to Gmail.
+
+And say click on circles anything with a hierarchical menu.
+
+So under circles, I have my family, friends, acquaintances and following.
+
+If you want to.
+
+If you want to see my circle of friends, what do I do?
+
+I go to circles, and then inside that I click on Friends.
+
+Right.
+
+Simple.
+
+In the same way if you want to look at a transaction.
+
+So this section here is called the menu path, and it's hierarchical, just like the way you have seen
+
+circles in Gmail.
+
+So if you want to execute a transaction, you got to first select what you're trying to do.
+
+See if you want to create a purchase order.
+
+If you want to look at your circle of friends, you go to circles and then friends, right?
+
+So if you want to execute a purchase order, you want to go to logistics material management.
+
+Then go to purchasing purchase order and then create.
+
+So this is the transaction that you execute.
+
+It's just that there are more levels of hierarchy, nothing different.
+
+And don't worry about understanding all the levels right away.
+
+It's just not possible.
+
+You'll just see a pattern when you start doing things.
+
+Now, if you go here, click on Extras and click on Settings, You'll see that each one of these transactions,
+
+for example, vendor supplying plan known for creation of purchase order.
+
+There is a technical name associated with it.
+
+It's also called as a transaction code.
+
+If you want to enable it, you go here and check on this option.
+
+So this is how you enable transaction codes?
+
+T codes.
+
+So check on that, click okay.
+
+And everything is going to collapse.
+
+And you start expanding the menu.
+
+Three.
+
+And you're going to see the transaction codes.
+
+You see the transaction code here.
+
+M e 21 n.
+
+So the transaction to execute purchase order creation is m e 21 n.
+
+So this is an example of a transaction code or T code.
+
+So if you want to create a purchase order, there are two ways to do it.
+
+One is double click on this in the menu.
+
+The system will start to create the purchase order.
+
+You enter some details here.
+
+Another way to do the same thing is to go to this field over here.
+
+It's called the command field and enter the transaction code there.
+
+What is the transaction code for this?
+
+M A 21 N Right.
+
+So this window is where you're going to enter the transaction code.
+
+I'm going to enter m e 21 n here.
+
+Put your cursor there.
+
+Type in m e 21 n.
+
+Hit.
+
+Okay.
+
+Same thing.
+
+Right?
+
+Yet again taken to the purchase order screen.
+
+So two ways to execute a transaction, one via the menu path and another via the transaction code.
+
+If you keep continuing to use the transaction again and again and again, you can drag the transaction
+
+to the favorites section.
+
+There are some other things that you need to know about the GUI, but we can learn about them as we
+
+go through the rest of the classes.

@@ -1,0 +1,1 @@
+ for /L %%i in (18,1,37) do mkdir Sec%%i 

@@ -1,0 +1,227 @@
+xt thing that I want you to understand is the perspective that you should be taken when you're
+
+learning.
+
+SAP.
+
+Typically, there are two different kinds of ways.
+
+Business transactions can happen.
+
+One is B2B.
+
+None other is B2C.
+
+B2B stands for Business to business.
+
+B to C stands for business to consumer or customer.
+
+Let me give you some examples.
+
+If you're trying to buy coffee beans for the coffee grinder at your home.
+
+Or you need some flour at home.
+
+What do you do?
+
+Go to Amazon.com.
+
+Say.
+
+Or Walmart is select your products.
+
+Then you pay.
+
+Take the bag of coffee.
+
+Put it in your truck and go home.
+
+Simple.
+
+So the process of buying coffee beans for home or for retail consumption generally is pretty simple.
+
+Imagine the same scenario happening in our coffee shop.
+
+My coffee shop, although small, is still an example of a B2B transaction.
+
+How does it happen?
+
+So there's this shop, there is a plant where pastry is being manufactured.
+
+So this is the factory.
+
+And right next to it, there is a storage location where I store the coffee beans and whatnot.
+
+This, of course, is the coffee shop.
+
+Somebody from the stores who's managing the inventory.
+
+So the store manager observes that the store is running out of coffee beans.
+
+Say by the next three days.
+
+And he informs the shop floor manager.
+
+The shop floor manager is responsible for the overall operations, let's say.
+
+And and he says we are going to run out of coffee shop floor manager raises this to the general manager
+
+of the store.
+
+Right And the general manager is going to raise a purchase order and this is going to go to the vendor.
+
+The vendor is going to send the goods later.
+
+An invoice.
+
+And somebody in finance is going to pay the vendor.
+
+Right.
+
+So if you want to buy coffee beans, the process is just not that simple.
+
+This is just in a single coffee shop.
+
+So in contrast to B2C.
+
+B2B is complex.
+
+If buying coffee for a simple coffee store is as complex as this, imagine Starbucks buying £100,000
+
+of coffee.
+
+So this Starbucks.
+
+And they want to buy £100,000 of coffee.
+
+What happens now?
+
+That's that's.
+
+That's probably like $1 million, right?
+
+So step number one, Starbucks is going to create a purchase order.
+
+Step number two, probably there is a vendor screening process that happens or pre-screened.
+
+So there's a process of vendor selection.
+
+And then step number three is.
+
+Budget.
+
+Somebody higher up in the chain is going to approve the budget.
+
+Number four.
+
+Place the order.
+
+Number five is received.
+
+Number six, quality inspection is done.
+
+And finally.
+
+Coffee is stored in the stores or in the warehouse.
+
+Then if one of the stores needs some coffee, then coffee beans is issued.
+
+To that store.
+
+Just say the store on Michigan Avenue.
+
+The process of doing all of this is complicated.
+
+There's a long decision making process.
+
+Whereas if you want to buy the same coffee for yourself, it's very simple, right?
+
+You are the approver.
+
+You are the QA.
+
+You go inspect the coffee for smell.
+
+You're the logistics provider.
+
+Meaning you take the coffee, put it in your truck or car and you drive home.
+
+Right.
+
+You are everything.
+
+You do all of that.
+
+In a B2B scenario, though, there are different sets of people doing different sets of things.
+
+All to make this purchase happen.
+
+Another difference is.
+
+In a, B to B scenario, goods are paid.
+
+After delivery, Right.
+
+You know, the process is raised to the vendor.
+
+The vendor sends the goods.
+
+The vendor sends the invoice.
+
+Invoice is paid.
+
+So there are four steps.
+
+So the goods are delivered that step number two and step number 3 or 4 is paid.
+
+But in a B to C scenario, you pay before delivery.
+
+This is the A typical case, right?
+
+Example Amazon.com, Walmart.
+
+Swipe your card, put your card in, take the goods, and before you take the goods, you're already
+
+paying for it.
+
+There are some occasional usage based scenarios in B2C like Comcast or any kind of service where, you
+
+know they won't know how much to charge upfront.
+
+In that case, you pay after.
+
+So in such kind of situations, you sent a bill later after usage.
+
+Except for those usage kind of scenarios, for regular scenarios where the price is fixed, you almost
+
+always pay before delivery.
+
+So what's the point I'm trying to make?
+
+The point I'm trying to make is if you want to learn SAP or any other ERP system, think from the perspective
+
+of B to B, because that's what these softwares are built for.
+
+B to C.
+
+Is served by a different class of software.
+
+ERP software typically deals with B2B, and we'll talk about some of the scenarios where SAP plays a
+
+role in B2C situations.
+
+For the most part, if you want to learn SAP, think from the mindset or perspective of a B2B.
+
+So what are the things that we have covered here?
+
+We have understood that B2B scenarios are complex.
+
+They're not.
+
+They're not as simple as buying coffee from Walmart.
+
+So it's a long decision making process takes time.
+
+There are people identifying the need, there are approvers and there is a whole logistics chain and
+
+finance involved to pay the goods and typically you pay your goods after you receive the goods.

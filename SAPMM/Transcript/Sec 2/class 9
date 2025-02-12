@@ -1,0 +1,46 @@
+
+Lecture thumbnail
+1:21 / 1:23
+We need some kind of a centralized software.
+
+So there's going to be some kind of a computer maybe in one of the main stores that every store manager
+
+is a store one.
+
+We have store to store.
+
+Three.
+
+Everybody should be able to log in to my server, just like you log in to Gmail and access it from anywhere.
+
+Right?
+
+So each of these store managers should be able to log in to the server and update the stock situation.
+
+Like how much of stock is there at hand and what has been delivered.
+
+So for example, if any time I want to know what is the stock situation in store two, I should be able
+
+to know it.
+
+Just go look up store two.
+
+Maybe there's a separate folder for that on the server and get an idea.
+
+This is the centralized software that we're trying to learn here.
+
+Very simple.
+
+Think of this as SAP.
+
+I know it doesn't make sense to do SAP for three stores.
+
+But imagine Starbucks.
+
+It has thousands of stores and it's just an extension.
+
+One store to store, three store, 100 stores, 1000 stores.
+
+They are going to have some kind of an ERP and we are going to learn SAP with just three stores or two
+
+stores.
