@@ -1,86 +1,33 @@
- 
-So the first question is, can you create a service line item without a cost element?
+Below are suggested answers to the exercise questions:
 
-Well, so far we have not created a service line item without a cost element.
+1. **Can you create a service line item without a cost element?**  
+   No. In our examples, every service line item required an account assignment (typically a cost center) to capture the cost. Without a cost element, you cannot create a valid service line item.
 
-We have always used Kay and admin as a cost center, but can we create a service line item without a
+2. **Which item category is used for service materials?**  
+   The item category for service materials is **D**.
 
-cost element?
+3. **What must be set at the line item level in the purchase order to allow additional service items in the service entry sheet?**  
+   You must set an overall service limit (using the Limits tab in the purchase order). This limit defines the maximum value (or hours) for which additional, unplanned service items can be entered.
 
-I want you to try it and see.
+4. **For service items, when does accounting occur – during goods receipt or during the service entry sheet?**  
+   Accounting for service items happens during the **service entry sheet** process—not during a goods receipt.
 
-The item category for service is which one of these is A, D, b, s or SV?
+5. **What is the transaction code for ServiceMaster?**  
+   The transaction code for ServiceMaster is **AC03**.
 
-Well, I can rule this out.
+6. **What is the transaction code for the Service Entry Sheet?**  
+   The transaction code for the Service Entry Sheet is **ML81N**.
 
-Because item categories are just single character, but between D and S, what is an item category for
+7. **What are the disadvantages of using an analog material (e.g., a non-stock material) for procuring services?**  
+   This topic wasn’t covered in depth in the chapter. However, generally, using an analog material for services can be disadvantageous because it does not capture service-specific attributes (like detailed labor hours, service phases, or approval processes) and may lead to less precise cost tracking compared to using dedicated service master data.
 
-service?
+8. **Which of the following combinations are possible to maintain service material prices?**  
+   There are three ways:  
+   - Maintaining a **base price** for the service.  
+   - Maintaining prices by **vendor** (different vendors may offer different rates).  
+   - Maintaining prices by **vendor and plant** (allowing for location-specific pricing).
 
-The third question is which of the following is necessary to enter additional line items in service
+9. **There is no need for the user to create a material document for service materials. Is this true?**  
+   Yes, that is true. For service materials, you do not create a separate material document because the service entry sheet serves as the official record for the services rendered.
 
-entry sheet?
-
-Well in the service entry sheet.
-
-When we wanted to add additional line items, something has to be set at the line item level in the
-
-purchase order.
-
-Which of these had to be set?
-
-Number four for service items.
-
-Accounting happens when during goods receipt or service entry sheet.
-
-Number five.
-
-Transaction code for ServiceMaster is.
-
-Which one of these?
-
-Number six Transaction code for service entry sheet.
-
-Well, I don't want you to really remember these transactions.
-
-The real reason I'm asking these questions here in the exercise is so that you can go and refer back
-
-to your SAP system, go to the service entry sheet and see the transaction yourself.
-
-It just ensures that you are really in touch with your IDs system.
-
-Number seven.
-
-What are the disadvantages of using analog material for procuring services?
-
-Well, we have tried to procure a service using an lagg material.
-
-Right.
-
-And then we can do it for some reason.
-
-So why?
-
-Well, this is something we have not covered in the chapter so far.
-
-So don't worry about this question and these questions, too.
-
-Number 11, which following combination are possible in standard to maintain service material prices.
-
-So there were three ways in which you could maintain prices for service materials.
-
-Which of these combinations represent those three ways in which you can maintain prices?
-
-Number 12.
-
-There is no need for the user to create a micro transaction for service materials.
-
-Is this true?
-
-And we have seen material documents.
-
-Right.
-
-How were they created?
-
-So did we have to create them or not?
+Feel free to refer back to your SAP system and verify these details directly within your transaction screens!
