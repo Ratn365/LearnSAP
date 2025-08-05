@@ -1,0 +1,993 @@
+Okay, We are going to discuss about vendor master data.
+
+Yesterday, we discussed the master data.
+
+So today we are going to discuss about the vendor data.
+
+What is the vendor data?
+
+It contains the information about vendor for which the company or plant can procure.
+
+For example, let me give you a small example so that I can understand.
+
+Let me give you some.
+
+If you want to buy a product from Amazon, let's assume it's a e-commerce store.
+
+What we do is simply go to the website and choose the product which you want to purchase, and then
+
+you place the order.
+
+After that, the Amazon will send the goods to you.
+
+Along with that, he will give you one invoice, which is nothing, but you need to pay a bill to the
+
+sum amount of the Amazon file by choosing the product.
+
+Right?
+
+So here Amazon is the vendor.
+
+And also you will be the customer here and you are placing an order to the atmosphere that some material
+
+acts you're buying.
+
+And after that, John sends you nothing but the product is delivered to you right after that.
+
+Along with that, he will give you some invoices if you need to pay that amount to the Amazon site.
+
+So here Amazon will be the.
+
+Window if he is selling his own product.
+
+Otherwise, what happens?
+
+Some other people are also maintaining their products in e-commerce too, and they will sell their products
+
+right in Amazon store itself.
+
+So what happens?
+
+Amazon will be the.
+
+My main vendor here, but actually we're ordering to the seller who is selling the product.
+
+Amazon is the ecommerce tool we are ordering through the Amazon, but here good supplier will be not
+
+Amazon here because some people like some seller will maintain their products in the e-commerce store.
+
+Whenever we wanted the product in Amazon, it will be sent to the actual vendor, actual seller.
+
+After that he will send a cross through the Amazon transportation.
+
+Or can we buy his own transportation along with the invoice which will be sent by the Amazon?
+
+You understand the example, right?
+
+Amazon is selling his own products.
+
+And also what are the sellers people?
+
+Outsiders also put their products in Amazon website and they will sell their own products.
+
+So here what we had is, for example, in this example, Amazon is selling his own product.
+
+Let's assume like this.
+
+So Amazon will be the vendor ordering X or women's ordering at this.
+
+Convicted on the
+
+discarded necklace.
+
+It says they are purchasing the Amazon product only.
+
+Then Amazon will be done ordering goods supply.
+
+And I think what she is will be.
+
+Second
+
+vice president.
+
+Okay.
+
+So it's mostly presented by Amazon because you are purchasing from the Amazon and also the seller also
+
+being Amazon, but you are buying some product here.
+
+The ordering at this may be changes, the supplier maybe changes, the invoice represented, maybe changes
+
+the same Amazon if you just if you whenever you order some product it will be go to some bank location
+
+headquarters let's say Amazon and Curtis's bank that says okay whenever you order it will go to the
+
+Amazon address, but goods will not be goes up.
+
+There can be Amazon or else some other person.
+
+Okay,
+
+same concept.
+
+Let me take the same concept.
+
+We want some metallics product.
+
+We order.
+
+When you place your order, it will go to the some ordering address.
+
+It will go to some Amazon address.
+
+Let's say that says let me take down.
+
+Northampton.
+
+Okay.
+
+We ordered two Honda motors.
+
+Some metal acts like some piston or something you ordered.
+
+Okay.
+
+But the Honda is not a good supplier.
+
+It can be using some other distributor like Warren Motors or something.
+
+The good supplier can be Warren Motors and also invoice represent.
+
+They can be Warren Motors or else on the motors.
+
+And also the vendor will be on demand.
+
+It can be possible.
+
+Right.
+
+So this is how we maintain in my vendor master data, these are nothing but partner functions.
+
+We call it is it partner functions?
+
+Look, Joseph, you understand?
+
+Do you have any questions here?
+
+Yeah.
+
+So we are all rising in order to the sum vendor and he is having some ordering address.
+
+You need to order to that address only.
+
+And then the product can be delivered from the same address or else it can be delivered from some other
+
+plant.
+
+It can be located either a the bank or something.
+
+So which is nothing but a good supplier who is supplying the product to the customer, which is nothing
+
+but a good supplier.
+
+And also invoice represented.
+
+I mean along with good supplier, he can be good supplier can be the invoice given to us or us.
+
+Some other person can be.
+
+Send an invoice to the company
+
+on their inventory match data.
+
+What are the type of data we maintain in middle market data?
+
+What are the data we want and basic data?
+
+One Purchasing data.
+
+Some accounting data like metal price.
+
+All these data we maintain as the same way in vendor market data.
+
+Also, we have some types of data we maintain.
+
+What are the types of data?
+
+General data.
+
+Which one is gender data?
+
+Like in general?
+
+What we maintain is name, name of the vendor address, door number, his postal code.
+
+What is the address of the vendor?
+
+We need to maintain that.
+
+And that's.
+
+And if you're just having any facts, duties on details, all details we will maintain
+
+in general it.
+
+The next data is.
+
+The company coded
+
+in company code data.
+
+It is related to finance related data, like we maintain like bank account details, bank account details
+
+and payment details.
+
+On the general ledger account details.
+
+Acceptably maintaining company data.
+
+It will be maintained by a few people.
+
+Don't worry about it.
+
+These data will be maintained by their consultants.
+
+The next data I use, but choose the data.
+
+This data we maintain like payment terms.
+
+Okay.
+
+Don't like in good times,
+
+like some minimum.
+
+Minimum order value.
+
+What other countries
+
+would maintain this data.
+
+I will explain that once we create the during the creation of randomized data, I will explain each
+
+and every field.
+
+So this is the type of data we maintain in the data.
+
+And what are the types of vendors available in, as you see the first types of vendors?
+
+Okay, First one is Fixer Window.
+
+Fixing the maze for certain materials, company will be procured from ifixit vendors.
+
+Those vendors are known as nothing but fixer vendor.
+
+For example, some we have some pistons or bolts are not available.
+
+Those matters only we only procure from these vendors.
+
+Do not procure these metals from any other vendor.
+
+Nothing but Ifixit event.
+
+The next one is one time vendors.
+
+One time vendors.
+
+There.
+
+We use it to order for a certain period, like once a month or once a year.
+
+We procured the materials from the vendors who are nothing but one time vendors we told them is one
+
+time vendors.
+
+The next vendor is service vendors.
+
+So that means whenever we request any services like painting the office buildings or cleaning the building
+
+or these kind of like gardening every month and maintenance of the building, like cleaning of machinery,
+
+parts, missionaries, this kind of services we procure from some vendors, right?
+
+We are nothing but service vendors.
+
+We procure these kind of services from the service vendors and the regular vendors.
+
+It is like a daily basis procurement.
+
+We procure the goods every day for the business, day to day transactions we use to procure the materials
+
+from the regular vendors.
+
+So these are the types of vendors we are using.
+
+So now coming to configuration.
+
+Here.
+
+We need to define do.
+
+Okay.
+
+When I grew up.
+
+And we need to assign the second group to number range, whether it is actually number range or internal
+
+number.
+
+We need to assign that account group to.
+
+Number three, this is the configuration we need to do.
+
+And also we need to do some partner functions configuration as well.
+
+I will show you that in a step.
+
+You understand the data part, right?
+
+Do you have any questions here?
+
+Joseph and I need any questions.
+
+Yeah.
+
+Okay.
+
+One more time with that.
+
+So these are called partner functions.
+
+Whether like this partner functions like vendor or supplier and invoice representation will be the same
+
+person.
+
+Orders to multiple persons based on their business.
+
+Maintain whatever the vendor is maintained.
+
+Their partner functions will need to maintain those vendor matching data and types of data.
+
+In these types of data we have, we need to maintain three types of data.
+
+One is general data, then company core data and purchasing data.
+
+I'm coming to types of vendors.
+
+We have featured vendors for metals we procure only from those vendors is nothing but fixer vendors.
+
+One time vendors, we procure the materials from once a month or once or six months or once a year is
+
+nothing but a one time vendors, service vendors like we have some kind of services like painting,
+
+cleaning of the building, These kind of services we procure from the service vendors, the regular
+
+vendors, regular vendors is nothing.
+
+But every day we buy the metal from the vendors and come to configuration part.
+
+Now we are going to SFP and I will show you that recipe.
+
+Conflagration gold SPRO transaction since I And you.
+
+And.
+
+Then we need to go for vendor.
+
+First, we need to define the vendor Akan Group.
+
+Okay, So the financial accounting group will be defined by finance people.
+
+Okay.
+
+Number ranges will be defined by us.
+
+Financial accounting.
+
+And go to account receivable and account payable.
+
+And then go to their accounts, master data, and then go to preparation of creating vendor master data.
+
+Here we need to define icon groups with screen layout.
+
+Here you can see define icon with screen layout, click on Execute.
+
+Here begins with some standard groups available, like vendors, see suppliers and invoice represented
+
+by See we can maintain these partner functions as a different vendor sells, but then we use the multiple
+
+vendors.
+
+See ordering address is different and the supply is different.
+
+Then we need to go with different account groups.
+
+C ordering at this.
+
+This is a standard econ group vendors supplier invoice represented by ordering entries.
+
+See.
+
+Under the mining order defined by the users.
+
+Let us go and create one new account group.
+
+Let me copy this and let me put some.
+
+Z.
+
+Is.
+
+That is.
+
+One vendor.
+
+When the window.
+
+St.
+
+If you're creating a one time window, then you need to put the checkbox here.
+
+And coming here you can see general data on record data purchasing data.
+
+Just double click on it.
+
+And here you can see at this communication control, these are call selections.
+
+Like I'll tell you that which field is mandatory, which field is optional.
+
+You can maintain that after creation of and I will show you this how we can maintain this required field
+
+option in display after creation of randomized data.
+
+You can understand it better.
+
+Okay, I created one vendor account.
+
+Now we are going to define the number.
+
+See here you can see create number range for vendor accounts.
+
+We can execute.
+
+Let me see the intervals.
+
+These are the intervals were created by the system.
+
+So let's create one new.
+
+Click on this so that it will show us the list of numbers that we sorted out.
+
+This is the last number range was used by some other person.
+
+Let me take it from here.
+
+Steve from Sound City 2000.
+
+Total consumer control button.
+
+I knew entry in supply.
+
+Let me put some number here.
+
+Cities I would maintain a ZB.
+
+Orders.
+
+You can put that.
+
+It's not a problem.
+
+Let me put that.
+
+Folsom.
+
+2000 and.
+
+So number range was defined.
+
+Now we need to assign the account group to number range
+
+itself, having a same number range to render account groups to connect.
+
+What is our vendor account group?
+
+The competition.
+
+ZB Right.
+
+BONDER When I found this and put our contact number range.
+
+ZB
+
+So we define the group and we assign the number range to it.
+
+Now we need to do some other configuration because this financial accounting now go to metals management.
+
+We need to define the partner functions, the ordering address to supply.
+
+These are standard partner functions, but we need to assign that to our.
+
+See that confrontation go to chasing.
+
+And.
+
+See here.
+
+Partner determination.
+
+You can see here, partner determination.
+
+Go to this partner.
+
+Determination.
+
+Go to partner, Rose.
+
+Here you can see defined partner roles.
+
+Click on expert.
+
+We already had this standard partner roles.
+
+Question is VM is the partner function C VM vendor.
+
+It is assigned to Ally.
+
+LA is nothing but a vendor.
+
+What type of partner type it is?
+
+It is a partner.
+
+Type two vendor.
+
+And.
+
+Ordering address.
+
+It is a partner type of end randomized data.
+
+Right.
+
+And next one is is good supplier who is the supplier goods?
+
+Sequencer player is a panda.
+
+Prototype is then and second one is inversely presented by.
+
+It is also related to when it does the standard configuration but not disturb anything.
+
+And then define permissible partner roles per icon group.
+
+We can execute.
+
+So here we defined one action group, our vendor recon group vision.
+
+And what is our recon group?
+
+Z is.
+
+The entry is not available.
+
+You need to create a new entry.
+
+Click on new entries.
+
+What are the partner functions we are using being.
+
+Would suppliers get this invoice represented?
+
+What is our group?
+
+XV is.
+
+We need to assign this group.
+
+Do department functions.
+
+And this.
+
+And this and.
+
+And so it was a sign.
+
+Now, see.
+
+So what we have done, we define the partner roles.
+
+It is having a some standard configuration set up, so it is assigned to our closest partner roles.
+
+Now go to partner settings in vendor master record.
+
+Here we have some partner schema which connects your defined partner schema.
+
+Here we have a standard partner schema.
+
+L1 vendor is the standard partner schema selected one partner functions in procedure can have a small
+
+folder, click on it.
+
+Here you can see the partner schema ordering address vendor and also some other partner functions also
+
+available.
+
+We use these for on vision vendor ordering Address IP invoice represented by Angie's cool supplier OC.
+
+And if you want to define a new partner schema, you want to make changes in it thing to it.
+
+You can do that also.
+
+Let us go with the standard or else if we want to create a new partner schema, also, we can do that.
+
+And also, I will tell you that no change and mandatory.
+
+Mandatory means.
+
+If you check this box to vendor, it means the vendor master vision is automatically assigned during
+
+the creation of randomized data.
+
+There is no manual entry.
+
+It is a mandatory partner function and coming to no change means if you check this box then.
+
+The number will be assigned automatically.
+
+It can't be interchangeable more.
+
+It is in display more.
+
+During the creation, I will show you that how these controls work.
+
+Let's assume it is only checked for vendor.
+
+Let me do one thing.
+
+I will check for good suppliers and also must be presented.
+
+And I'm checking this.
+
+Okay, Sam.
+
+11 partners came.
+
+I will assign to our vendor control assignment of partner schema to account.
+
+What is our account group XV A-Z.
+
+Here you need to assign the partner scheme.
+
+Disband the new ascendant.
+
+Okay, so the configuration part is completed.
+
+Now let us create the data.
+
+So for data, we have a transaction codes.
+
+But creation, The code is executable.
+
+But change The code is exit zero.
+
+For display.
+
+The default is x zero for the list of windows.
+
+The default is empty.
+
+Visit pen is a central creation.
+
+That means I already told you that we have three types of data.
+
+One is general data.
+
+Second one is complicated data.
+
+One is purchasing data.
+
+Gender data will be defined by us or else Finance department company core data will be filled by finance
+
+department, but using data will be defined.
+
+But.
+
+Our job consultant.
+
+So that is the reason we have a multiple transactions here.
+
+Zero one is first and I'm consultants.
+
+Yes.
+
+Zero one is for finance consultants to maintain individual.
+
+Let's see if people want to maintain only company code data, then they will use this transaction that
+
+can determine if people want to maintain only purchasing data, then they will use and if board wants
+
+to maintain, then they will go with text, digital CRM and.
+
+Yeah.
+
+See.
+
+I told you that, like, General Data will be a reference to both finance consultant and consultant.
+
+Okay, so.
+
+It can be defined by I mean the data will be entered by a consultant or else finance consultant.
+
+The company core data will be.
+
+Maintain by consultants and purchasing data will be maintained among consultants.
+
+So if they want to maintain individual data among consultants, we will go with zero one and have a
+
+consultant equal with them.
+
+That's the reason we're having multiple transactions for the vendor data and.
+
+Whenever we create both the data, then we will go with zero one.
+
+No, let us be it.
+
+The vendor Master Data.
+
+Now let us create the event to record the transaction we use x01 and this is the initial screen of creation
+
+window here.
+
+We need to put the company code.
+
+What is our company code?
+
+It's Mark Quantum Motors Limited.
+
+Right.
+
+And then purchasing organization.
+
+History people.
+
+And I can't group the tree.
+
+Is it?
+
+I about.
+
+I can't.
+
+Okay.
+
+No, We are using the internal number, so the number will be assigned automatically.
+
+Do not maintain any number here.
+
+Now click on Enter.
+
+So sorry.
+
+Not busy and.
+
+Because an internal number, once we created the number, will be assigned automatically.
+
+Let me put as some domestic vendor.
+
+I'm giving some name here.
+
+What, Marcus?
+
+I it's a company c c
+
+support.
+
+Quite a bad country.
+
+Isn't.
+
+Isn't.
+
+It's nothing but estate and English.
+
+Some telephone number.
+
+This is address details and that.
+
+Stamatis.
+
+Let me some.
+
+The same solar.
+
+And this data will be maintained by the people like bank account details and all of the things we don't
+
+require to maintain and which is also maintained by the peoples.
+
+Well, here it is a mandatory piece without maintaining this data.
+
+The system won't allow you to create the amendments that will be required in the reconciliation account
+
+as domestic
+
+table.
+
+Domestic.
+
+Let's take this and pull the cash management group.
+
+As domestic.
+
+Because we are buying from the local vendors.
+
+So we need to put as domestic and payment terms, payment terms.
+
+What do you mean by these payment terms?
+
+Payment terms means vendors will give you some discount on or before we done a payment of deadline of
+
+the actual payment date.
+
+I see.
+
+Because the vendor is giving us some discount, like.
+
+If you pay the amount of the goods to the company, if you pay the amount within one month, I will
+
+give you some 1% discount.
+
+If you pay within 15 days, I will give you some 3% discount.
+
+If you pay within five days, I will give you some 5% discount like that.
+
+He will tell some payment downs because the company will procure in bulk and payment will be done in
+
+after one month or after two months.
+
+That is the reason the vendor will put some payment context to date.
+
+See here, if I click this button it will show some payment terms.
+
+See it is immediate payment.
+
+So you commit to this.
+
+If you pay within 14 days, I will give you 3% cash discount to pay.
+
+Within 30 days I will give you 2% cash discount like that.
+
+The vendor will give you some discount.
+
+That is nothing but a payment.
+
+So let me take some standard double one, please check this check double check invoice.
+
+I will tell you what is the functionality of it during the creation of invoice receipt.
+
+I will tell you that.
+
+Just check this box.
+
+Enter.
+
+Because it is used for the check, is used for duplication.
+
+It will control the duplication of documents.
+
+I will tell you once we create the invoice receipts.
+
+And see, this is a position that it is very important to us, see our currency.
+
+What is a vendor, our currency.
+
+He's a local vendor.
+
+Then you need to put all the currencies and if it is the other countries vendor like he is from us or
+
+something and put the other currency that used the same terms of payments here.
+
+What does it all mean?
+
+In terms, what do you mean being what it is mostly used in import procurement.
+
+And also local vendors also put some important conditions.
+
+For example, let me give you a small example.
+
+Like they may say, like, for example, they miss the vendor will say like he will transport the goods
+
+near to the port area.
+
+After that, the company will need to take care of the remaining transportation like that.
+
+The vendor will tell you some transportation related terms and conditions, which is nothing but incorrect
+
+and no more value like how much minimum order you want to procure.
+
+You need to maintain that schema.
+
+Group Vendor It is using pricing processes.
+
+We have a some pricing procedure concept during that.
+
+Topic.
+
+I will explain that this came up at in group on the remaining features of the salesperson.
+
+If the vendor is having any sales person, we can maintain that here.
+
+And telephone number is telephone number.
+
+Please take this chair based I.D. and that clause is required.
+
+And now click on Enter.
+
+Now, see, these are called partner functions.
+
+Ordering address vendor invoice presented by and we define right.
+
+See, the number is automatically assigned here.
+
+It can't be changeable.
+
+See?
+
+Can be changeable.
+
+Right.
+
+See all our Vern models.
+
+Okay.
+
+Why?
+
+Because in configuration.
+
+We put.
+
+There's no change, Right?
+
+That is the reason why.
+
+It can be changeable.
+
+Let me create another window.
+
+Then you will be understanding better.
+
+Let me save this window.
+
+See the randomizer has created.
+
+Okay.
+
+Splash ten x kit 032 display isn't the same in the number.
+
+Address details, photos.
+
+All this has all the data and see this is the vendor we created.
+
+This is the vendor number.
+
+See you reconciliation on terms of payment data and partner functions.
+
+Now, let us do one thing.
+
+Here's the vendor, right?
+
+Now let us go and do the second one.
+
+We've done this one in this part is completed because all these same vendors let us go and create Honda
+
+motors.
+
+I mean, Warren Motors is the good supplier.
+
+What we do is we all define the modern models, right?
+
+That says I'm very is the.
+
+Sublet.
+
+Sublet.

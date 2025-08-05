@@ -1,0 +1,817 @@
+Today we are going to discuss a boat purchase acquisition.
+
+So what is purchase acquisition?
+
+It is a request to be made to the purchasing organization by any department, whether it is a production
+
+department or any other department to procure certain list of materials on this scheduled date is nothing
+
+but purchase requisition.
+
+So a any department, if they required any materials, they will request to be made to the purchasing
+
+nation.
+
+What is a purchasing organization?
+
+It is a responsible department to procure the materials from external sources.
+
+Right.
+
+So we call it a purchase requisition.
+
+So in this purchase equation, what we do is from prospective we will define one document and we assign
+
+one number range to it.
+
+Whenever a user will create a particular question with respect to that document.
+
+The unit number will be assigned to the purchase requisition.
+
+I will show you that configuration.
+
+First, we need to define one document, the standard document type for purchase equations and.
+
+And with the standard document type, this document type will be assigned to one number range.
+
+Whenever we create a question with respect to this document, when a unique number will be assigned
+
+to the particular creation every time.
+
+Let me take you to a safe system.
+
+So let me show you the configuration and then we will create the recreation.
+
+Configuration or the transaction per we use SPR.
+
+Friends are angry.
+
+And then we need to go for materials management.
+
+Here it is.
+
+Go to metals management and then go to purchasing.
+
+In this effort we define partizan for record.
+
+And so right now we are going to do the configuration for purchase requisition.
+
+And that is participation.
+
+We have two options like define the number ranges and then define document types.
+
+Okay.
+
+First of all, let's create one number range and then we will assign that number range to this document.
+
+First, let me create one number range.
+
+Click on execute if you want to see the list of number ranges.
+
+You can either you can go with the display and it will show you the intervals.
+
+These are the intervals I'm number ranges was created by the users.
+
+But in real time these many number ranges are not available, but few number ranges because it is a
+
+test server.
+
+So many users was created.
+
+So many number ranges.
+
+And let me go to the overview.
+
+I mean, again, see how what are the numbering is available, I think for this is not used.
+
+Let's take the four series number.
+
+If you want to see a detailed view, like in ascending order, go to this overview button so that it
+
+will show you the number ranges.
+
+Select from one from number range and click on ascending order.
+
+It will show you in ascending order based on that.
+
+Also, you can pick the number range.
+
+I can go with the after this number in like eight series, 900 orders.
+
+We do not have any force.
+
+It is number range.
+
+So I will go and create it for series number range.
+
+You can't benchmark button change intervals.
+
+And here you need to give some serial number.
+
+Here you can give the character like we have.
+
+It is Honda motors or something.
+
+But this you can go with the numerical.
+
+I will go with the numerical.
+
+After zero eight, you can take the zero nine.
+
+I think four cities is not used for cities.
+
+DEADLINE.
+
+Let's save this number.
+
+I defined one number.
+
+It is an internal number.
+
+Okay.
+
+I didn't check this.
+
+That means it is an internal number range.
+
+If you check this box, then means it is an actual number.
+
+You need to give the participation number manually during the creation of.
+
+And then you need to go for document types.
+
+We have a standard document already existed in the system, but we do not do any changes to the I mean,
+
+you do not use the standard one because it is just a test server.
+
+So we need to copy this document and we will make it as in some customers document like Z and B, and
+
+we need to change these number in the server.
+
+But in real time we use the standard document, but it is a test server.
+
+That's the reason we do not use the standard, because we do not affect the standard functionality because
+
+it is used by so many users.
+
+We do not disturb anything.
+
+And also in real time we use customization document types as well if business requires.
+
+Then select this document type and click copy as I'm copying the new document type to.
+
+I told you that if you copy anything, if you do any customization, put Z in front of it.
+
+Right?
+
+You need to put the Z in front of it.
+
+And I'm doing this internal and external number ranges.
+
+I'm using only internal.
+
+What is our internal number?
+
+Range.
+
+Number.
+
+What else?
+
+If you do not know number, if you forget it, just click on this button so that it will show you the
+
+number in this.
+
+Okay, select our number.
+
+We do not use any actual number.
+
+Let's leave it.
+
+And this is a free field selection screen layout.
+
+We have a sum required field on the optional field.
+
+We already discussed about if that field selection reference can be assigned here.
+
+I will show you that as well.
+
+Now click on Enter.
+
+Copy on.
+
+Click on copy so that it will copy all the entries.
+
+Continue.
+
+So that then we document as copy to Z and we document that.
+
+Now click on.
+
+So we defined one number range and we assign our number range to the document.
+
+Let me change the description as well.
+
+It is
+
+on the.
+
+But choosing a good.
+
+I changed the description as well so that you can identify easily go back.
+
+So the configuration was completed.
+
+I told you that.
+
+Screenplay Fields reference.
+
+Right.
+
+See Field selection key.
+
+It is for Zn be the standard for selection keys and VB.
+
+Let's go and see.
+
+See if I'm screen layout at document type double click on execute party sees field selection key and
+
+B right.
+
+And maybe select the dnb and go to details.
+
+These are the views selection screens.
+
+See where we can maintain the required entry or optional or display entry where if you want to purchase,
+
+has mandatory field here.
+
+If you can't enter the purchasing group, the system won't allow you to create the purchase requisition.
+
+If you may want to maintain storage location with this field, one you want to maintain as required
+
+or optional or display you can maintain here.
+
+Supplying plan to mining next.
+
+I mean, different types of field labels on the field label, different kind of fields will be available,
+
+which will be one domain then as required or option you can maintain here under this.
+
+And maybe
+
+now let us create the participation.
+
+Creation.
+
+We use the transaction code 51 for change.
+
+52 for display and 63.
+
+And if you want to see the list of purchase requisitions.
+
+An MI5 report where we can see the list of bills.
+
+Let us create what we shall now.
+
+And we 51 And.
+
+See, this is a great participation scheme in participation.
+
+We are having three types of data.
+
+One is header data.
+
+Second one is item value data and third one is item details Data.
+
+What are the entries you maintain an item of you that details will be reflected into this item.
+
+Request data as.
+
+Just dropped on this button.
+
+I mean, you can see dropdowns, right?
+
+If you click on it, it will drop down the details.
+
+See?
+
+Okay.
+
+And here you need to enter the material number.
+
+How much do you required?
+
+I mean, delivering it when will be required and what is the plan and for which plan You require this
+
+material under which story, location, who is the person is responsible to procure this material?
+
+And the questioner means who wants this material arising?
+
+This requisition is nothing but requisition.
+
+And if you know the vendor, you can maintain vendor number here or else if you're having any fixed
+
+vendor to this material, you can maintain here.
+
+Right now.
+
+Let's assume we do not know the vendor.
+
+Okay.
+
+And then we need to maintain the patches patches organization so that we maintain the material.
+
+See here you can see here our document.
+
+What is our document Z and B on the purchasing requisition.
+
+Maintain this purchase requisition.
+
+Okay.
+
+Now select Limited.
+
+Click on this button so that it will show you the selection parameters like let us go with the Z parameters
+
+while our middle type is zero.
+
+No.
+
+Let's take a question.
+
+I had acquired some 100 quantity and brandies HP on the plant one So the location is one one and purchasing
+
+group is HPG.
+
+And the acquisition let's assume Joseph needs is an estimate area.
+
+When let's assume we do not know the vendor right now because we raise the request for quotation and
+
+quotation and comparisons.
+
+We will do that.
+
+So let's say then we do not know the vendor.
+
+And here the purchasing organization HDPE.
+
+These are purchasing organization reminding details like short text material group.
+
+These details will be captured from the middle March data.
+
+We already maintain the master data.
+
+It will capture from that.
+
+And also the price will be taken from the metal.
+
+Massive C and then click on enter.
+
+The Remain data will be pulled from the master data.
+
+C unit of measure pulled from our data hub group Honda Maxx.
+
+Items will be captured from Metal Master Data.
+
+See here.
+
+When I click on Enter, then following details will be reflected in the item details.
+
+It will show you details, complete details of the material.
+
+This item details.
+
+See what is the matter number?
+
+What is the short tag?
+
+So what is the metal group and go to quantities.
+
+How much quantity you ordered?
+
+100 quantity.
+
+Okay.
+
+What is the delivery date?
+
+We pick six, five, 20, 22.
+
+Let's take it as taken by the system.
+
+Let's take this.
+
+Seven 11th of May.
+
+And then.
+
+Valuation.
+
+If we go to valuation, we can see the price.
+
+2000.
+
+We didn't maintain any valuation price in this particular question, but it automatically assigned how
+
+it is assigned because it's taken from the master data.
+
+You want to see that?
+
+Just click on the material.
+
+Then it will take you to the master data.
+
+Go to accounting view.
+
+It will show you the price since 2000 will be captured from Master Data.
+
+That's the reason we are maintaining always the master data.
+
+And source of supply because we do not have the we do not know the vendor.
+
+So we do not have seen anything here.
+
+And contact person.
+
+It will be taken from the requisition and created by banker.
+
+This is the user related to banker.
+
+So when it is assigned here.
+
+And this is a telephone number coming from.
+
+Now a partisan group.
+
+Partisan group.
+
+We maintain the telephone number.
+
+So from there it is looking.
+
+And if you want to maintain any text and if you want to give any instructions to this material, you
+
+can maintain here and deliver this.
+
+What is the delivery?
+
+This is the plan.
+
+Read plan.
+
+This will be sent here.
+
+See the manufacturing plan?
+
+That is sheet.
+
+What is that?
+
+Status will be captured here.
+
+And then let's assume the same request.
+
+Joe, Joseph needs to materials so we can maintain.
+
+We need to maintain new second line item level.
+
+And is our materials right?
+
+Let us take like.
+
+Distributor or distributor and required 200 quantity of this material.
+
+And at this same plant, one store, the location is one one.
+
+And it is also required to Joseph.
+
+Stupid.
+
+Okay.
+
+See, the entitlement scheme can see the details will be captured from the international data.
+
+And if you go if you want to see the second line item details, either you can click on this and select
+
+the second item or else you can use this button.
+
+See, if you click on the next item, it will take you to the next item, see parameters before item,
+
+so it will show you the details of second item 20.
+
+And how much can be ordered to 120.
+
+It's a valuation price will be taken from the metal master data and status.
+
+If you come in after this Creation Opportunity Commission, if you create any purchase order with reference
+
+to this participation patient, the status will be updated here.
+
+How much can quantity order?
+
+And this is called status.
+
+We have some concept called release strategy.
+
+Like whenever you order this purchase equation rather than recreate the creation, that aspect to other
+
+person will needs to be approved this document.
+
+So during that point of time, the status will show an end in release and if you release, the status
+
+will be changed.
+
+We will discuss this option later.
+
+Okay.
+
+Now click on check.
+
+That means it will check whether it is having any issues with the system or any errors during the creation
+
+of participation or not.
+
+If not so, no messages should during check.
+
+That means the document is good to save.
+
+So let me save this purchase recreation now.
+
+But this requisition was created.
+
+The transaction code of 51.
+
+If you want to display.
+
+Emmy 53 and.
+
+Orders if you want to drive.
+
+Recreate it right in the screen.
+
+At one end just now, we created we on to display immediately just click on this button then the.
+
+We will be captured automatically.
+
+You can enter so that it will display automatically in the same transaction or else you can go with
+
+me 53 and down section and you can open it here.
+
+In both ways.
+
+You can do that, but change models so you can use 52 and transaction or else in the display itself
+
+you have some option called display to change.
+
+When you click on this button, it will take you to the change mode.
+
+You are in this same transaction.
+
+Move to an end.
+
+You can display, you can change it, or else you can use the other transaction server.
+
+52.
+
+N 53.
+
+There's a perverse dysfunctionality and I want to change.
+
+Like, for example, I want not to 102 continued.
+
+I will change this to 50.
+
+And if we go to the valuation, it will show you the price changed.
+
+See.
+
+So it is a first line item, second line at 215 to 400.
+
+Equal to one
+
+seat is 2102 2002.
+
+If you change it to 200, the value will be changed because the quantity and the total value price will
+
+be reflected here.
+
+See, it will go into change to four.
+
+Sea change.
+
+It will be calculated by quantity into valuation.
+
+Let me save this.
+
+So that our data will change.
+
+People's education got changed.
+
+And if you want to see the list of patches, requisitions have a transaction code called MI five.
+
+This is the report.
+
+You can display the list of parts of the equations.
+
+We can use the plan.
+
+Or else you want to go with purchasing group or material.
+
+We want to use the date, the acquisition date, document date.
+
+You can go with that.
+
+Let me put this plan and click on Execute.
+
+So it will show you the watch list.
+
+See, this is the number for zero is it is having two line items C 1020.
+
+Disappear number.
+
+And this is the material number piston distributor or.
+
+Okay.
+
+You can see it like this.
+
+And also.
+
+We created this part of the equation.
+
+Right.
+
+See, next time.
+
+Also, you want to create the same parties requisition with the same materials.
+
+You want to create the same data again.
+
+Again, that Joseph requires the piston and distribution order.
+
+Again, if you have the participation number, then you can create with reference to dispatches or question
+
+number.
+
+Again, the same details will be fetched automatically without any manual work.
+
+See how it works.
+
+You can have some document already button here.
+
+Right.
+
+Click on this document already button.
+
+Here you can see small symbol, like a button on one button is available, right.
+
+Here you can see the small arrow symbol.
+
+Click on the status symbol.
+
+So that will show you some options here.
+
+Here we can have like, equations and my particular equations.
+
+My particular equations means.
+
+Water pouches.
+
+Locations we created will be displayed.
+
+If you click on this purchase, my participation, if you click on this purchase requisition means if
+
+you want to use others, other users created paths, you can go with this option.
+
+Because I'm using I use it to create.
+
+My participation.
+
+So let me click on this my participation.
+
+It will display the purchase equations, whatever you create it.
+
+See?
+
+See it issuing dispatches requisition because we created it.
+
+My purchase requisition.
+
+Let me click on this create button.
+
+I mean, it will take you to the new creation window.
+
+Okay, let me select the document type on the purchase requisition.
+
+Okay.
+
+Now I want to create the line items.
+
+Earlier, we created the same here.
+
+I want to create.
+
+Just click on this.
+
+And here you can see I'm selected here.
+
+Here you can see the adopt button.
+
+If you click on this add up button, what are the items available under this?
+
+We are having two line items.
+
+So these two line items will be copied here.
+
+See, you got this button.
+
+See the scheme details.
+
+The same details were captured.
+
+Okay.
+
+This morning.
+
+The delivery date is in the past, so that's the reason why changing it warning messages was disruptive.
+
+See, the same details was copied here and if you want to make any changes, you can do the changes
+
+and you can see.
+
+Okay.
+
+This is how we can create with reference to the old participation.
+
+And also, if you want to, if you do not want both materials, if you want only one material, if you
+
+want to copy only one line item, then do not select this particular creation directly.
+
+Select which line item unit.
+
+For example, I want to create with reference to this second line item.
+
+So select this line item, second line item and you can click on add up.
+
+So that equals copy the whatever data available in second line.
+
+See?
+
+Well, one item will be copied.
+
+C Distribute loading is the second line item.
+
+It is copied here.
+
+If I want to make any changes, make the changes and let me take.
+
+It's to make any changes, do the changes and save.
+
+And we can't check so that it will check the if the person having an address it will display or else
+
+it will show us like no message should during the check.
+
+And now.
+
+I'm saving this purchase requisition.
+
+Okay.
+
+See, the regression was created.
+
+Now let us see.
+
+Complete this stuff that makes good again.
+
+See, it is having three personal four kids.
+
+Four kids.
+
+One.
+
+For series one, having to measure two line items or series having two line items, but four e.g. for
+
+series two, having only one line item.
+
+And from here on, so you can directly go open the the equation.
+
+Okay.
+
+If you double click on this purchase number, it will take you to the purchase efficiency, double click
+
+on it.
+
+It will open the purchase equation.
+
+If you want to open this part of the equation, double click on the purchase creation number so that
+
+it will take you to the display of the purchase.
+
+Okay, Joseph, do you understand how we how the users are creating the equation?
+
+Do you have any questions?
+
+No, no, no.
+
+Okay.

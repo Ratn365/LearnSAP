@@ -1,0 +1,807 @@
+I given the character values less than Article 50.
+
+Okay.
+
+One character.
+
+And under the values I'm giving greater than 50000 to 1 lakh.
+
+And then.
+
+One.
+
+One.
+
+Okay, Enter.
+
+10,000.
+
+Okay.
+
+Less than 50 k.
+
+There are 1050 to 1 lakh and greater than one lakh.
+
+Okay.
+
+Now let us click on Step.
+
+What I copied to do so that I find characters stockman type.
+
+And.
+
+Find another thing called your doctor.
+
+Okay people document type and let's create plant also.
+
+Concrete.
+
+The additional data.
+
+I discovered that.
+
+INSKEEP Phil Black, let.
+
+Right.
+
+And this.
+
+And so our standards.
+
+These are standards.
+
+We take only these values
+
+and values.
+
+What is our plant?
+
+Deep, yellow and red, if it is applicable for the plant.
+
+Also, we can maintain it here.
+
+Click on the.
+
+I think I'll go to maintain the description of the plant.
+
+Okay, We created three characters.
+
+If you want.
+
+If we want, we can create remaining characters.
+
+Okay, let's take only three.
+
+Okay.
+
+These three, we created characteristics that are assigned to one class.
+
+Go to class.
+
+Like fish underscore just.
+
+Why does Gloucester?
+
+The
+
+last I.
+
+Release, but release strategy.
+
+See 032, Release Strategy.
+
+Click on Create.
+
+Skip the name.
+
+Tell Cross.
+
+Moto characters.
+
+The characters with different.
+
+Item three.
+
+Right.
+
+This.
+
+And.
+
+People argue.
+
+Thanks, Brian.
+
+And that's.
+
+One is called Duckman, the second one.
+
+And I'm sorry.
+
+The last one is called.
+
+Not can't sell.
+
+The class was defined.
+
+Okay.
+
+We defined one class.
+
+What is the next step?
+
+They won't release pressure purchase orders that can execute at least group.
+
+On the list.
+
+Reporters select this one, and if you click on Choose it is take you this and click on new entries.
+
+It has created a new group.
+
+Delfi release group.
+
+Something like Let's give Daisy as release group, Delphi group.
+
+Class.
+
+It's a class.
+
+And it.
+
+Here it is, right?
+
+Are three plus
+
+cell.
+
+And also, please see like this if we are if having any other groups.
+
+This deleted.
+
+Let me go back.
+
+Let me show you that how that is going to go to new entries.
+
+Daisy.
+
+Class is our class, then.
+
+Class the concept.
+
+Candidate.
+
+One group was created.
+
+Okay, go back.
+
+It's it it will be showing some longevity.
+
+What is that message?
+
+Please take check this class's release group or risk group.
+
+It is only applicable for only one thing, but actually we define to release groups, right?
+
+That's why it is showing some error messages.
+
+So that's why we need to delete the release group, which was defined earlier.
+
+So let's do this G1 release group.
+
+But in real time we will create only one religious group.
+
+You go back now.
+
+It will not show the warning.
+
+Now we need to define the release.
+
+Okay.
+
+On new entries.
+
+What is our release group?
+
+DC Right.
+
+DC DS And when to give the release code, Let us give 01020.
+
+I'm giving three approvals here.
+
+The first chapter was
+
+assistant manager and one manager.
+
+But isn't.
+
+But isn't.
+
+And.
+
+They defined the group.
+
+And in that group we are saying we are creating these three responsible persons to approve the release
+
+strategy.
+
+Click on sale.
+
+You can see, right.
+
+Descriptions.
+
+Go back.
+
+We defined one religious group and we say we saying one class and we defined the religious groups and
+
+we send it to the religious group.
+
+Both cases were completed and released in the quarter with no need to define anything.
+
+It's a standard functionality.
+
+BLOCK okay.
+
+And the report released.
+
+Persistent failures and reasonable changes.
+
+Someone had a meeting of this.
+
+It's a standard.
+
+It is also configured.
+
+Okay.
+
+Do not change anything.
+
+Okay, let's.
+
+Maintain as it is.
+
+Go back.
+
+And also, I will tell you what is this changeable means, which is having different kind of options.
+
+Okay.
+
+If I tell you right now, it will be a little bit confusing for you.
+
+I will explain you this later.
+
+Okay.
+
+Let's go back.
+
+Both release strategies.
+
+Here.
+
+We need to define these strategies.
+
+Okay.
+
+Click on new entries.
+
+What is the release group?
+
+Daisy.
+
+Wright.
+
+Daisy.
+
+Please group
+
+this class.
+
+I think I need to finish the description.
+
+It's okay.
+
+It's going great.
+
+Now.
+
+Star status.
+
+Click on new entries and give the release group.
+
+Strategy one.
+
+Let's give the chorus S1
+
+four.
+
+Strategy one.
+
+Give the description like this.
+
+Question What is the description?
+
+Let's give it as less than a record to.
+
+Care.
+
+Listen.
+
+Who is responsible for less than or equal to zero one only zero one assistant manager only.
+
+Okay.
+
+I don't understand it.
+
+They love
+
+the love they have.
+
+Any doubts are clear, right?
+
+Hey, Hasbro, Hasbro.
+
+So we are defining now the release strategy.
+
+This is most important.
+
+Okay.
+
+We need to give the release group.
+
+What is the release strategy you want to create?
+
+I'm giving the release strategy name as less than 50 K, but less than 50 K What the responsible person
+
+to approve.
+
+I'm giving us really Assistant manager only not adhere to consider four buttons.
+
+Right.
+
+Question is release pre request.
+
+Click on it.
+
+If it is one person, no need to do anything here.
+
+If it is a multiple persons, then we need to do some configuration here.
+
+I will show you that next shot.
+
+Okay.
+
+Click on.
+
+Continue.
+
+Click on release chart.
+
+This one is called BLOCK.
+
+Secondary is called.
+
+Release BLOCK.
+
+Continue.
+
+Next, click on classification.
+
+At.
+
+Yep, we need to assign the values.
+
+But it is this really.
+
+What is the document type?
+
+B and B, right.
+
+Well, we can go for this.
+
+How many documents we define?
+
+Only one, right?
+
+We assigned it.
+
+What is the net value?
+
+It is not.
+
+We're just not taking.
+
+Please select intervals also allowed.
+
+Okay.
+
+If I tell you, please click the interval several.
+
+Consider.
+
+You go back and come again.
+
+Yeah.
+
+Okay.
+
+Yeah.
+
+Okay.
+
+Um, classification.
+
+We need to assign the document and select this document.
+
+Continue.
+
+No total value underclass.
+
+We are saying the characteristics, these three characteristics, right.
+
+And that's why it's game for these three characters only.
+
+And in character, total net order value, we assign three values.
+
+One is called less than or equal to 550 K and remain two values also came up, but we are creating the
+
+strategy for less than 50 k.
+
+So I'm asking all these values continue and plant
+
+plant once I say.
+
+I'll go back.
+
+The concept.
+
+The process and applicant simulation.
+
+It is just firstly taking part.
+
+The concern is that the person is released, then it will be their release will be affected by this.
+
+Okay.
+
+This is just for testing purposes.
+
+Let us create this second strategy we define for strategy.
+
+Let us create.
+
+Second, start the easy one.
+
+Right?
+
+Let us give strategy to.
+
+Released to description and released to.
+
+And it is.
+
+Younger than 52.
+
+One.
+
+But this there are two approvals.
+
+One is assistant manager.
+
+Second person is purchasing manager.
+
+Click on Release Prerequisite.
+
+Here.
+
+They need to check this second checkbox.
+
+Okay.
+
+How it is going to react.
+
+Let me show you that.
+
+Continue.
+
+The display is exquisite.
+
+If you check theory, it is pretty great for like this.
+
+If first person and second person is not approved, then it is still in block or state.
+
+If first person is approved, second person is not approved.
+
+Still it is in block or state.
+
+The first person and second person is approved.
+
+Then it is in release state.
+
+Okay, you got it.
+
+It is called release Prerequisite.
+
+First person.
+
+After the second person, you check this second checkbox instead of this, it will be in reversal mode.
+
+Let's see how it is going to see if have a second person then only for spell it is referring to first
+
+for second person, which is not the character where it.
+
+So that's why we need to check it here.
+
+Not here.
+
+Let's see.
+
+This is like reconfiguring.
+
+Go to classification.
+
+That select document to be.
+
+Just 50 to 1.
+
+Below.
+
+Back.
+
+Sue it.
+
+The less innovation the military is less checking, but the first person is really a double take on
+
+it.
+
+Still, it isn't blockbuster.
+
+Double click on second one.
+
+But then it is turned into released.
+
+Okay.
+
+Go back.
+
+We created two strategies.
+
+Let us create another strategy.
+
+Easy street.
+
+Under these three.
+
+Rather than one.
+
+But this the proof.
+
+All three.
+
+First approach needs to be done.
+
+Message to manage the second purchase manager approval higher authority person who is purchasing head
+
+needs to be approved.
+
+Then only this document will be approved for purchasing from external vendors.
+
+We can't release prerequisites that sell below.
+
+CheckBoxes continue to list status.
+
+Three did not approve.
+
+Then it is in lock step.
+
+We want a one April blockbuster blockbuster.
+
+If all the persons approve approved, then it is introduced.
+
+Continue.
+
+Occupation.
+
+And I sent the document type.
+
+First of all.
+
+Since then.
+
+One lack.
+
+Sandpoint.
+
+Go back and save it.
+
+It's going to be a simulation, but that's not how it works.
+
+The first person is a approved.
+
+Well, I could start.
+
+Second person is a third person.
+
+It is in the least.
+
+Is working perfectly.
+
+Go back.
+
+So the configuration was completed.
+
+You got it Right now the.
+
+So now let us create a document how it is working.
+
+Let's see it.
+
+Okay.
+
+Slash enemy on day one and to create a purchase order.
+
+I'm creating manually.
+
+So.
+
+Bloodless surrender.
+
+They do.
+
+Beta.
+
+Let us take off.
+
+Grant the.
+
+Listen.
+
+The bill.
+
+One plank seems to be the location.
+
+10,300.
+
+How much?
+
+But let's.
+
+Satellites.
+
+Which means it is greater than one like, right?
+
+Yeah.
+
+Let's see.
+
+The new tab disappeared.
+
+Right.
+
+In addition to the tab greater than one, that means who are the pros here?
+
+Also.
+
+Right.
+
+Let's see how many eyebrows trigger for the start.
+
+Plus temporary assistant manager's second place manager role is another person who is purchasing.
+
+What is the risk group here?
+
+Delphi Strategies Applied Strategy 300 is indicated.
+
+It is in state, local, state, though it cannot be seen if we save it, but the fuel form will not
+
+be sent to the vendor whenever the PBO is approved then only to be opened or else if it is a made then
+
+only recourse to the vendor.
+
+Okay, let's save it.
+
+Now we consider.
+
+Stuart.
+
+Let's see.
+
+See 3%.
+
+Got it.
+
+So when we created people, the mail will be triggered through workflow to the assistant manager.
+
+Okay.
+
+How it got there.
+
+Actually, we have a user editor and a user 50 and actually in real time we are having shaker below
+
+us like that.
+
+The user will be okay.
+
+It will be triggered to respect to email ID, so then they will see the email mail then.
+
+So this is a poll we need to approve.
+
+Then they will go to a API and they will approve how we are, who the responsible person will approve.
+
+Let's see, there is a decode called.
+
+Amit, 29 and.
+
+Okay.
+
+And me.
+
+And is that the code we use to approve it?
+
+You can enter.
+
+The release standard article.
+
+We need to approve this document.
+
+Right.
+
+But McCain's.
+
+People took auto relish sexy.
+
+You can see the small release symbol.
+
+You can see right here that says Zoom, I'm the assistant manager.
+
+I'm open this purchase order and improving.
+
+You can't release.
+
+That it is effective.
+
+Let's save it.
+
+C first person was an assistant manager was April.
+
+Let's refresh it here.
+
+C assistant manager was at the scene where the purchasing manager, as well as purchasing had also will
+
+be approved.
+
+By using this transaction, you can see that.
+
+Then Partizan was released.
+
+The status from B, It's changed.
+
+You can see this.
+
+This is how the other people will be approved.
+
+The purchasing documents.
+
+You got it right.
+
+Is.
+
+Adeline D'Amico.
+
+As if many questions.
+
+It is called federal level approval, because if it is having 100 line items, also the same person
+
+will be assigned to the approval for in the participation.
+
+The top level right per item will be triggered at item level.
+
+At this point.
+
+They got it.
+
+Okay.
+
+Tomorrow I will show you the item level approval for purchase requisition.
+
+Okay.
+
+Today, let's practice this scenario.

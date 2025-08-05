@@ -1,0 +1,1421 @@
+Today we are going to discuss about the pricing procedure.
+
+We created so many purchase orders, right.
+
+Like the.
+
+So under the purchase order.
+
+Let me share my screen.
+
+Let me show you that.
+
+Okay.
+
+I remember the famous game.
+
+Yeah, yeah, yeah.
+
+Hello?
+
+So let me show you the.
+
+But.
+
+Thank.
+
+See.
+
+We have taken so many purchase orders for each item.
+
+We maintain some net present based on info record or we can maintain annually.
+
+So if you see an item details, we have a condition tab here.
+
+See, we can see PB double zero means it's a gross price.
+
+It's Katy, which means it's a cash discount.
+
+Like that.
+
+We can see that.
+
+Yeah, that amount is ₹80.
+
+Net price.
+
+₹80.
+
+So if the vendor is having not only price, if he having any taxes or any such charges, but any discounts
+
+that he may have giving us some discounts.
+
+Right.
+
+So at that point of time, we need to define some condition types.
+
+And those conditions will be assigned to some kind of procedure, pricing procedure, which is nothing
+
+but pricing procedure.
+
+Pricing.
+
+It's a concept called pricing procedure.
+
+Where we maintain all the condition which was given by the vendor.
+
+Okay.
+
+They have a standard procedure called item four zeros.
+
+See, let me show you that.
+
+Click on analysis.
+
+This is the pricing procedure.
+
+Name of the pricing.
+
+There is room for standard price increases.
+
+Under this, we are having these many condition types.
+
+One gross price, double zero means automatic price determination.
+
+PBX means manual price determination.
+
+And also, we are having discounts.
+
+When the discounts, surcharges and freight.
+
+If a vendor is delivering to our plant, he will charge some transportation charges.
+
+Right.
+
+So that is not right.
+
+Customs.
+
+If you're procuring from other countries, we need to pay some customs charges, right?
+
+Some.
+
+If you are doing any import procurement activity, we need to pay some.
+
+We need to clear some customs charges.
+
+And like that we have in so many conditions.
+
+So if they're having any input tax, if you if you procuring any material, if the metal having any
+
+tax, you need to pay.
+
+We have a tax condition type is used like that we will have in some kind of condition types here.
+
+It's a standard pricing procedure item for use.
+
+How the configuration is done, I will show you that.
+
+Pricing pressure, as we discussed about output type determination, what is the configuration we do?
+
+We need to have a condition table access sequence, right sequence.
+
+This same way, if you want to define the pricing pressure, we need to have some condition tables,
+
+access sequence.
+
+I will show you that.
+
+Go to Sparco SFP Reference AMG.
+
+Go to metal management.
+
+But choosing.
+
+Conditions last time.
+
+We go for messages, right?
+
+Messages.
+
+So now we are going to create a pricing pressure.
+
+So we need to go to conditions.
+
+At this, you need to go to different price determination process.
+
+See, you need to have a access sequence.
+
+You need to have a condition type.
+
+And we need to maintain condition tables.
+
+Like that, We need to do some configuration activity.
+
+Initially, we need to have some condition table set, go to maintain condition table.
+
+If we want to go for create a new table, we can create.
+
+If you want to see the existing standard tables, click on this button.
+
+You see, these are the list of standard condition tables.
+
+See if you want to go for a.
+
+Send us.
+
+We are having parties in coordination, and that is the combination.
+
+So each table having different kinds of fields.
+
+Where if you want to use those combinations, we can use it.
+
+Okay.
+
+These are the different types of combinations available.
+
+Let's see how the standard configuration has configured.
+
+Let us see.
+
+Go to access sequence.
+
+Define access sequence.
+
+0002 is the standard access sequence selected go to accesses.
+
+See, these are the different types of tables assigned to 0002.
+
+Okay.
+
+Go back.
+
+I mean, if you want to see the fields also that select anyone, go to fields.
+
+Here you can see different kinds of is this vendor is assigned material is assigned purchasing organization
+
+is assigned in full category.
+
+And so the code category was assigned.
+
+These are called access sequences.
+
+And condition types, different condition type.
+
+See, these are the list of condition types available.
+
+Bbwaa is the standard for a grasp and base price of the material, and PBC is also grass praise.
+
+These two are similar for each other, but it is an item.
+
+Debatable determines if the price caught automatically without the manual entry.
+
+Bbwaa will be taken by the SABR system and if the price is not maintained.
+
+So we need to maintain manually rate at that point of time bbwaa will be required.
+
+Okay.
+
+If you want to try to just for even.
+
+We have a different type of standard.
+
+41 is the right charges for even for transportation charges.
+
+Okay, Go back.
+
+These are the list of condition types for standard.
+
+And let us see the fine conflation schema.
+
+Item for Judas, the purchasing document Standard pricing procedure.
+
+To control data.
+
+Let us see.
+
+See how they were maintained.
+
+These are lists of standard condition type assigned to this pricing procedure.
+
+See?
+
+Copy values to comp.
+
+These are the standard configuration, actually.
+
+Okay.
+
+Like if you go for a table, if you know the table interest, so then you can understand it better.
+
+So let's kind this lets you consider this as a standard pricing processor.
+
+Okay.
+
+See if you see it is a print x, actually we have a output determination, right?
+
+If you maintain X on it, then the price will be print in the pure form.
+
+Otherwise it will not print in the pure form.
+
+We define the output type determination, Right.
+
+In the output of determination what we define.
+
+A print form, right?
+
+So in the print from if the price needs to be printed, it needs to be X.
+
+Okay, let me.
+
+Sure you don't ask for.
+
+But in preview.
+
+See?
+
+The press will be printing right here ₹4,080 and the quantity is 50 boxes, right?
+
+When you multiply it, the price will be printing that how it is printing.
+
+If you put X in pricing processor, then only it will be printed in form.
+
+Otherwise it will not print.
+
+Okay.
+
+And this calculations schema.
+
+If it needs to be triggered during the purchase order creation, you need to do some other configuration.
+
+Also, we need to define some schema group vendor and schema purchasing organization and assignment
+
+of schema group to purchasing organization.
+
+Then only this pricing process will trigger here.
+
+This is all about the standard pricing procedure.
+
+Let us go and create a new pricing procedure.
+
+Let us go with the initial steps.
+
+What is the things we do?
+
+First, we need to have a condition payable.
+
+Right.
+
+Then access sequence.
+
+Condition table access sequence.
+
+Then.
+
+What we need to do.
+
+We need to have a condition types.
+
+Then we need to have a cultivation schema.
+
+After that, we need to define schema and schema determination process.
+
+Okay, let us go and see this configuration first.
+
+Initially, we need to have a condition table, right?
+
+At the stake condition table.
+
+To go on and then condition tables.
+
+Create one condition table.
+
+If you want to create a condition table, we can create from here.
+
+Let's take C 0 to 500 is the standard tables.
+
+Okay?
+
+If we want to create a new one, we need to go from 501 to 999.
+
+So let us give anything by 61 or something.
+
+If I 61 table is not available here.
+
+What are the different types of combinations we give?
+
+Like a vendor?
+
+Let us go with vendor.
+
+There is the vendor.
+
+Company could.
+
+Let's go with the company called.
+
+Company could.
+
+One of the things we can give.
+
+Plant.
+
+Okay.
+
+Plant.
+
+And.
+
+It is a window.
+
+I want to go with purchasing automation.
+
+You can give purchasing automation.
+
+Then again, this combination is ideal as a table.
+
+Now click on Generate.
+
+Yes.
+
+Based on local object.
+
+What?
+
+It was generated by 61 paper.
+
+Go back.
+
+Let us display.
+
+Basically, even within the population, is a company called plan Purchasing automation.
+
+And this is the table we define if you want to go another combination.
+
+Also, we can go plan purchasing automation as in another C, let us create another table.
+
+551.
+
+Let us go and create another table call.
+
+562.
+
+Okay.
+
+They give the plant and purchasing organization as another combination.
+
+Plant.
+
+Partisan isn't.
+
+And click on changed.
+
+Plus.
+
+So 561 and 562.
+
+We defined two tables.
+
+So now go and create an access sequence.
+
+Okay.
+
+Let us create a new access sequence, new entries.
+
+So.
+
+Let us give the tables and says, okay, let us take all the combinations of standards and we add the
+
+new entries.
+
+Okay.
+
+Let us take a.
+
+Zero two.
+
+Click on Copy that to stake Delphi Access sequence.
+
+Okay.
+
+And.
+
+And just copy all.
+
+All the indices copying what other tables are available.
+
+It is copying.
+
+Keep on and.
+
+These are available in standard acoustic and
+
+bottle entries were copied selected to access this.
+
+See here these many active sequence tables are assigned here in this access sequence.
+
+I mean, we copied from standard zero right to zero two.
+
+So in table zero two, these many tables were assigned.
+
+We will assign our tables so that here, let us take you and grace so easy.
+
+Number one and two is missing.
+
+Let us give one and two as our tables.
+
+Endless.
+
+One
+
+of the tables we define.
+
+5616562.
+
+And this.
+
+This endless sea.
+
+Company call plant purchasing automation vendor and plant and purchasing automation is the combination
+
+selected go to fields.
+
+And this.
+
+And.
+
+See if it is a green colour means it is good to see the fields automatically taken by the system.
+
+Now go back.
+
+Select seconds will see it is grade or no first table was assigned for them for stable fields.
+
+For now, select second one and go to fields.
+
+And that's.
+
+The plant and purchasing automation also asset.
+
+So it is in green color, the status is green, also in status is green.
+
+So it is good now saved.
+
+So let's say we're doing okay.
+
+Look, it's got.
+
+So now we created a new sequence called the Ask, right?
+
+So what you can
+
+see in real time, we use most of the cases 95%.
+
+We use standard on it.
+
+Okay.
+
+Okay.
+
+Define coefficient schema.
+
+I want I want you to know about how we do these configuration about the pricing.
+
+That's the reason why I'm creating new one.
+
+But in real time we use mostly 95%.
+
+We use standard standard pricing versus.
+
+Let us select I mean, before pricing procedure, we have a condition type, different condition type.
+
+The standard pricing procedure is PB 00c selective.
+
+Go to details can see different kinds of procedures are available.
+
+I mean, controls are available.
+
+These are different kinds of.
+
+If you think someone has changed here.
+
+See someone is changing the standard on.
+
+In the standard standard.
+
+Go back.
+
+It is also standard.
+
+Go back.
+
+To the axis, you contribute zero towards a soundbite.
+
+So in the same way, we need to send our access sequence.
+
+But is this standard right?
+
+So that is the reason why we do not ascend directly to the standard processor here.
+
+So let's copy this condition type.
+
+Copy.
+
+See how we are doing a new configuration.
+
+I will show you.
+
+So you let us take DB double zero.
+
+Okay.
+
+Here.
+
+I can do a selfie.
+
+Cross press.
+
+And what is our exit sequence?
+
+The ask you write.
+
+In fact, the sequence to go check benefactor sequence the concept.
+
+Likewise, we will define different pricing procedures here, and DB is a gross price.
+
+And if you want to create a new flight conditional so we can select it, I can click on copy, I can
+
+give here the pricing new pricing condition type.
+
+No need to create all these things.
+
+Let us go.
+
+With the single condition remaining.
+
+We can take care of the standard ones.
+
+Yeah.
+
+Totally different condition type of sequence.
+
+Now.
+
+Great competitions came up just like this.
+
+Motor control data.
+
+Here you can see the standard condition type sample.
+
+Let's take the same procedure and we will assign our pricing pressures came up.
+
+Click on copy.
+
+You go back once, select the pricing producer and click on copy as we can give.
+
+BMW, something like Delphi pricing procedures.
+
+The.
+
+But isn't.
+
+KOPPEL So all the interests will be copied.
+
+Coleman anticipates having the Coleman entries will be copied, just copied to DM W, now selected and
+
+controlled.
+
+Go to control data.
+
+See here P zero.
+
+Right.
+
+Let us take it as a DB double zero.
+
+We defined a new one, right?
+
+DPW as the LP cross press.
+
+So reminding all our standard.
+
+But in real time.
+
+Also, these can be also maybe going to customers.
+
+They will use Z BW.
+
+They will go with Z, not dock.
+
+So and taken be actually in real time.
+
+If you want to customize anything, you need to go with Z or we do not take any other alphabet.
+
+If it is starting a Z, we need to change the remaining words, but do not use any alphabet other than
+
+Z over.
+
+Let save it.
+
+Go back.
+
+So BMW, as I said, but it needs to be assigned somewhere then only we will get the displacing processor
+
+file.
+
+So go to define schema group.
+
+We need to define one schema vendor.
+
+Schema.
+
+Vendor.
+
+And it needs to be assigned to our regular one.
+
+And we need to define schema organization.
+
+Schema purchasing organization, and we need to ascend to our standard purchasing organization.
+
+And then we need to ascend the schema vendor schema purchasing organization to our cultivation scale.
+
+Okay, then then the pricing processor will automatically determine during the creation of purchase.
+
+Let's see, I'm creating one schema vendor entry I'm in for standard pricing process.
+
+They will give it as a blank here.
+
+If it is a blank, then the price increases are automatically determined.
+
+Okay, standard one because they did not assign anything to any vendor.
+
+That's the reason why in standard price in Brazil, they keep it is a blank.
+
+It is a blank means.
+
+The standard pricing procedure will apply.
+
+Let me show you that.
+
+Also, click on new entries.
+
+Let us create one schema vendor.
+
+LC dv.
+
+Let's take a DV.
+
+Okay.
+
+Then she and.
+
+Go back.
+
+Schema for purchasing organization.
+
+See, we created a schema and right now we need to define schema purchasing
+
+C schema purchasing.
+
+So blank C standard.
+
+So the schema vendor is plan.
+
+This came up in coordination on blank, blank, this blank, this blank and this calculation schema
+
+is assigned then for standard process.
+
+If we are not assigning to any vendor, also the standard pricing processes will apply automatically.
+
+That is the reason why we do not any configuration.
+
+Right.
+
+But how this is determined because for standard pricing processor they will keep it as a blank.
+
+So that is the reason why this pricing procedure is automatically applied.
+
+Whenever we do individually, then only those pricing prices will apply.
+
+Okay.
+
+Okay.
+
+Now we need to define a new.
+
+But using our right click on new entries.
+
+Take.
+
+The.
+
+Yes.
+
+The schema purchasing arc.
+
+Schema.
+
+Baptism and
+
+the gospel.
+
+And it is the baby, right?
+
+Next
+
+assignment.
+
+Now what is our purchasing organization standard purchasing of?
+
+BD LP will benefit purchasing a standard standard or not a schema purchasing organization.
+
+See here.
+
+This schema purchasing dog will be assigned to standard purchasing automation.
+
+So this DSP one needs to be assigned to DLP DLP.
+
+So we need to send these people now as these people enter.
+
+So this assignment was completed.
+
+This assignment needs to be done right.
+
+So if you want to do the configuration, we need to go to zero change vendor.
+
+Or let's stick to purchasing data and what is D LP right and let others enter.
+
+Here you can see schema glue vendor right?
+
+Yeah.
+
+See here we do not maintain anything.
+
+Blank So it's taken as a standard procedure vendor.
+
+See.
+
+You can see, right.
+
+It is a blank automatically taken.
+
+Standard procedure.
+
+We wondered how it is taken because in vendor C, if it is a blank, it means standard procedure vendor.
+
+Right.
+
+That is the reason why in purchase order, the pricing procedure is determined automatically if it is
+
+a blank.
+
+Okay, got it.
+
+Read how the standard pricing procedure works.
+
+Now let us give our schema vendor DV.
+
+See Delphi Vendor Ascend save.
+
+So now this assignment also completed schema went to our end.
+
+Now this calculation schema needs to be assigned to this particular.
+
+Plus, is that right?
+
+So that's the reason why we have a configuration.
+
+Close this window.
+
+Define schema determination.
+
+Detriment calculations came after standard purchasing organizations.
+
+Go for it.
+
+You can see blank blank equal to standard pricing for C schema, but isn't a blank blankness.
+
+It automatically determines standard price.
+
+That's the reason why it is determined automatically.
+
+Now go with the new entries.
+
+What is our schema group purchasing organization, DSP and schema vendor DV, DV.
+
+So DSP and DV do what we define them for.
+
+Zero sprite.
+
+Yeah.
+
+The LP purchasing document.
+
+Click on sale
+
+now.
+
+The configuration was completed.
+
+No.
+
+I have an output determination.
+
+We define a condition record set among zero for the day.
+
+Remember aman zero for.
+
+So then zero four here we had given some new and we maintain some something like combinations, Right.
+
+Did you do you remember.
+
+If.
+
+Yeah, yeah, yeah.
+
+At the same way
+
+here, we defend for record rate for prices.
+
+Vendor price.
+
+We have a pricing pressure concept.
+
+It is also a vendor base.
+
+If info record is not required, then we can use this pricing pressure as a condition record.
+
+See here, I will show you that we have a transaction code called me.
+
+Now.
+
+Mikaela and Mikaela.
+
+See.
+
+Create condition records.
+
+What is the condition type?
+
+We define.
+
+BMW.
+
+D.
+
+W.
+
+DB w.
+
+Bbwaa the standard rate bbwaa is our system and.
+
+Now, here you can see it is a combination game as company called plan partisan coordination Vendor
+
+C 561 We defined a one table, right?
+
+We assigned it.
+
+Yes, yes.
+
+And part plan and budget information.
+
+See, these are the combination tables we have sent.
+
+Let us go with the company code, plant purchasing automation and vendor.
+
+What is the company called?
+
+Demote Limos?
+
+What is our plan?
+
+VP L1 and Delfi DLP zero one.
+
+Bilal What is the Bilal
+
+State seven series one Password rescue here?
+
+It's just not good.
+
+The vendor
+
+is asking.
+
+Which is the unit that each.
+
+Okay.
+
+So I think we need to take material because it's in our record, right?
+
+So we must have a material.
+
+Because we need to maintain the material price, Right?
+
+So let us take where is the material combination available?
+
+So I forgot to mention the material, actually.
+
+If it is a vendor, let us take a material.
+
+Let us take this material.
+
+What is this?
+
+Look at the rest.
+
+Let us create one material combination.
+
+Okay.
+
+Selection.
+
+And even though.
+
+Across the Atlas a reference AMG.
+
+Middle management.
+
+But choosing.
+
+Conditions.
+
+Conditions.
+
+Conditions.
+
+Different price.
+
+Condition Devils.
+
+Right now let's create a new condition.
+
+Table five, six, three.
+
+And this.
+
+Let us give.
+
+Yeah, he had material.
+
+Material?
+
+Plant.
+
+Then we decide,
+
+okay, I can go to all these combinations.
+
+Execute.
+
+See material plant under the table 363 already defined with this aim.
+
+It is telling all these three combinations.
+
+We already have a table 363.
+
+It is showing.
+
+You understand.
+
+Okay, let's take that standard.
+
+Table 363.
+
+Why do we continue to display that table?
+
+Three 1633 right.
+
+Llandrindod Wells Independent.
+
+Let us ascend this table.
+
+An access sequence to access sequence.
+
+What is our access?
+
+You can see the queue right to enter.
+
+So what are the accesses we maintain here?
+
+There is no table entry.
+
+363.
+
+Serial number one two.
+
+What is missing?
+
+Three, Red.
+
+Let us give it three.
+
+3363.
+
+Enter and selected.
+
+Click on fields and see.
+
+It has taken all three fields.
+
+Now save it.
+
+Go back.
+
+Now let us create the conditions.
+
+Slash and
+
+slash for me.
+
+Gave Kayla.
+
+Under the drastic plan to handle material combination.
+
+See for repricing, you must have a material number.
+
+So that it is easy for us.
+
+Okay, let's take one sport.
+
+Okay.
+
+What is the current status?
+
+But that's not how much it is.
+
+₹80, right?
+
+Bilal is maintaining ₹80 in for a record.
+
+Does give ₹75.
+
+The young.
+
+That one box.
+
+It is telling.
+
+Per one box.
+
+Only five of.
+
+Per one box.
+
+It is unfair.
+
+Why?
+
+Because.
+
+Because in Metro Master we maintained ordinate unit as box.
+
+But.
+
+So that is the reason why per one box it is telling sound of.
+
+Sound therapists.
+
+So how much it was that we maintained one box equal to ten inches.
+
+Okay, so that means.
+
+For ten inch bowls, the prices on therapies the vendor is telling.
+
+So let us go with this sound therapy's condition Record sale.
+
+Now let us create.
+
+They purchased.
+
+21 ends.
+
+Mr. Surrender.
+
+Was skilled materials.
+
+See all of this and other info already available, but we created on condition record how the system
+
+is behaving we can see now.
+
+Give me a minute.
+
+Six.
+
+Well.
+
+Wow.
+
+Let us try it another time.
+
+We don't do.
+
+They are one steep hill
+
+and it is under not included sources because the material master data.
+
+We maintain socialist activation, but in source list we did not maintain the any.
+
+Then those.
+
+So let us go for zero one so solution
+
+material plant and.
+
+See.
+
+For Bella, what is the law state here?
+
+And.
+
+C 19 first month 19 is the last date, but the validity was expired, right?
+
+That's the reason why it is showing some evidences.
+
+It is not included in this list where you are creating have this material.
+
+So let us make this three.
+
+Save it.
+
+No, this won't create.
+
+EPL one.
+
+Okay.
+
+Just could not see
+
+See, the ACP recommendation is first its preferences condition record.
+
+If conditions record is not maintained, then the second step the system will do is is there any info
+
+record?
+
+If the info record is also not available, is there any price maintaining metal master data?
+
+It will take it last data and that's one thing.
+
+If info record is not available, is there any last purchase or price available?
+
+It is checking last people place.
+
+Then if the last purchase orders are not available, then only it will go for material price.
+
+That's the system recommendation.
+
+Okay.
+
+First thing is condition record.
+
+Okay.
+
+If condition record is not met there, then it will go for info record.
+
+If the info record is also not maintained, then it will go to.
+
+Lost, but lost people lost purchase order price.
+
+If large purchases are also not available, then it will go to metal price.
+
+Okay, That's the sequence order of price capturing purchase order.
+
+Okay.
+
+This is how we maintain pricing pressure.
+
+If the vendor is having any freight charges.
+
+41.
+
+Guardiola.
+
+Okay.
+
+How much percent is Let's take 5% of.
+
+Prior charges was charging by vendor.
+
+So how much cash we need to pay?
+
+₹3,000.
+
+We need to pay to the vendor along with this price.
+
+75,000.
+
+We need to pay to vendor.
+
+And if we skip giving any discounts, if we are paying any discounts, we can make a discount.
+
+Also, let's see what other standard discount.
+
+See.
+
+For example, let's take a auditable zero.
+
+Okay.
+
+Discount percent is on.
+
+Let's.
+
+He is giving 3% of discount.
+
+See, it will be minus right from December 22 will be minus because it is a discount.
+
+Right.
+
+We know we're getting some discount.
+
+So like that we can maintain so many condition types here.
+
+What are the vendors?
+
+Is giving any discount if we need to pay any taxes.
+
+Also way we are having different condition types.
+
+What taxes us input tax.
+
+We can how to create an input tax also.
+
+And also, I mean, the input tax we give it under.
+
+We need to define in here tax code for having any taxes.
+
+We have a concept called tax procedure.
+
+We will discuss about the tax related activities during the tax process.
+
+Standard.
+
+See here.
+
+This is called manual check.
+
+If you want manual entry, you can check here.
+
+If you want to automatic, you need to check.
+
+That's the control here.
+
+Okay.
+
+And you can see right from one, too.
+
+It is for calculation.
+
+It is for calculation purposes.
+
+What is the discount on?
+
+GROSS is calculating.
+
+It is calculating from one.
+
+Right.
+
+Which is calculating for one.
+
+What is the one means here?
+
+Grasp.
+
+Right.
+
+Grasp not count.
+
+Count.
+
+It is taken one.
+
+One means this.
+
+One grasp.
+
+This one grasp is it is taking graph discount on this gross price.
+
+Okay.
+
+And if they want to calculate, let me show you also, is there any other from one to available see
+
+see here.
+
+Net includes a tax is calculating from 21 to 22 from this to.
+
+This.
+
+It is calculating nothing closer task.
+
+It is a calculation, but from one domains, it's a manual entry.
+
+It is required if you maintain it as a required, it is a mandatory field that is means it is a mandated
+
+condition type.
+
+We thought you are entering the condition type here.
+
+The people will not be saved.
+
+You got it.
+
+And it is a statistical indicator.
+
+It is for some other calculation purpose we use.
+
+This is a body I want to enter.
+
+If you want to enter manually, we need to inject it and check there.
+
+If you want to automate it.
+
+See, we have is coming automatically every time.
+
+Right?
+
+Okay.
+
+That's good people.
+
+Yeah.
+
+It is unchecked.
+
+So that is the reason why it is getting that we have some other options also is called it is how it
+
+is determined here.
+
+If you want to see what is the price increase, it is up.
+
+Click on analysis.
+
+So then it will show you which price increase.
+
+There is a player.
+
+BMW.
+
+Got it.
+
+If we create for any other vendor.
+
+Other than Bilal, if you create too, has the pricing pressure deemed forgeries will not be applied
+
+because we do not assigned it to vendor master record, right?
+
+Yeah.
+
+So let me show you that.
+
+Let me take it.
+
+See it is a bit of a zero.
+
+To see which price is right because we do not send anything to other if it is a blank, it is called
+
+standard pricing procedure, Right.
+
+That's the reason why he's not picking for the Folgers.
+
+You got it now.
+
+This is the configuration where pricing pressure.

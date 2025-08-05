@@ -1,0 +1,711 @@
+Today we are going to discuss about the Scales concept of.
+
+Do you remember the record?
+
+What is the use of record
+
+for record?
+
+We maintain a validated date of the price.
+
+Yeah, it's right.
+
+Vendor Given giving some price to the material, which we are preparing the material.
+
+So in the record also we can maintain some scales over into the record actually recognition as
+
+are able to see screen.
+
+This is a little
+
+sample material for example somewhere
+
+make a simple example so that we can understand better it.
+
+No, I don't know.
+
+What about that?
+
+Could you please unmute over voices, please?
+
+Has it?
+
+Yeah.
+
+Yeah.
+
+Would you please mute?
+
+Yeah.
+
+See, something like the last little stick, but at least the window is up for when the price is ₹100
+
+for material X, for example.
+
+Actually, that's.
+
+And.
+
+We maintained the import record.
+
+But hundreds of.
+
+But in full record.
+
+We maintain this ₹100.
+
+No vendor is saying like this.
+
+If he order.
+
+Quantity.
+
+Thousand rupees.
+
+Then the price will be.
+
+And that would be.
+
+Something like up to ₹2,000.
+
+It is ₹100 up to, let's say.
+
+Okay.
+
+And.
+
+The same quantity from ₹1,000 onwards.
+
+I mean, like 2000 onwards, if you order from 1,001.3 onwards, the price will be ₹90.
+
+And if you order.
+
+Greater than 2000.
+
+The price will be something like a piece.
+
+Okay.
+
+That says if we order.
+
+Rather than £3,000, the price will be a two.
+
+The vendor is saying the terms and conditions like this, they will be giving some price discount based
+
+on the quantity so that this based on the sales concept, we can maintain these prices in any vertical.
+
+Okay.
+
+You understand right.
+
+How the scales is using or the vertical based on the quantity.
+
+If you buy a bulk quantity in any regular shops we get this on discount right in are buying in bulk
+
+quantity.
+
+Not okay, you're not buying thousands actually if it's 10,000.
+
+Maybe it's from 2000.
+
+Let's take it.
+
+Okay.
+
+Up to 10,000.
+
+The cost is ₹100 if it is greater than 10,001.
+
+I mean, if it is greater than 10,000, then the price will be ₹90.
+
+It is greater than 20,000.
+
+It will be 85.
+
+If it is greater than 30,000.
+
+It will be ₹80.
+
+Okay, we got it now.
+
+Any questions?
+
+No, no, no, no, no.
+
+Let me show you this concept in space.
+
+Okay.
+
+Let me log into a subsystem quickly.
+
+That may create new material.
+
+Where.
+
+It's one days later to.
+
+But Jason.
+
+Third location.
+
+One location.
+
+Tokyo Counting.
+
+So you can like.
+
+Let's take a shot.
+
+Each day in the metro group as mechanical.
+
+And it's a pace that Casey and Casey.
+
+But we need to maintain.
+
+But group.
+
+It.
+
+So it.
+
+The classes.
+
+3000.
+
+It says it's ₹5,000.
+
+Okay.
+
+The matter was created.
+
+We.
+
+Let's make it one new one.
+
+Click here.
+
+So a could be not helpful if a group.
+
+Let's take.
+
+It's.
+
+20.
+
+Some say it.
+
+It was too cold.
+
+I said that.
+
+Yeah.
+
+The page.
+
+Italian telephone number registered at.
+
+And that's.
+
+The cancellation account is good and comes with a lot of currency in terms of payment having an auto
+
+number.
+
+Grand certification.
+
+I remember quite a lot of people.
+
+So Darwin was created.
+
+Don't.
+
+It.
+
+Let us create one in particular.
+
+What is a typical foreign protocol creation?
+
+Hello.
+
+Hello?
+
+What is that?
+
+Equal for me?
+
+Double.
+
+Double to give the vendor on metal number, which is information for round table one.
+
+Let me go do this.
+
+These.
+
+I was injured.
+
+Okay, let's take those in face.
+
+Okay.
+
+So the court also created this is when protocol was created.
+
+Let's go to the change mode here.
+
+Both conditions tab.
+
+Okay, We've got the condition that we can see the value from is from today's date because we created
+
+today.
+
+Right.
+
+And go to select this pattern and put the cursor right here and click on choose.
+
+Okay.
+
+You see valid from that one 2022 today's date to from some type plastic.
+
+But one month.
+
+Party to date on February.
+
+If being changed.
+
+Okay.
+
+Yes.
+
+I changed to the very last day 28.
+
+And when there is maintain the price ₹4,000.
+
+Okay, just select selected line item.
+
+You can see that price just selected and head here.
+
+You can see the scales button, right.
+
+Just click on it.
+
+In this case, we're having three types.
+
+One is.
+
+From.
+
+Second one is.
+
+Those came.
+
+Okay.
+
+Darwin is a in the scale.
+
+But I'm scale means from 10,001 onwards, the price will be ₹90 from 2001 onwards.
+
+I'm sorry, 20,001 onwards.
+
+₹85 from 2000.
+
+One onwards.
+
+From 2001 onwards.
+
+That is the type of classes to scale means it is up to.
+
+See.
+
+Up to 10,000.
+
+The price be ₹100.
+
+If you maintain up to NIS up to 10,000, it is taking ₹800 rather than ₹10,000.
+
+It will not take any prices.
+
+If you maintain like that, that is a difference between up to scale and from scale.
+
+The range scale.
+
+The range scale means like 100000 to 2000 will be one price, like ₹100.
+
+At a 2000 to 3000 is ₹90 like that, they will maintain some range.
+
+First, let us try with some skill.
+
+After that, we will do the remaining scenario sets.
+
+These are the types of skills available.
+
+Let's take.
+
+Okay.
+
+We can see the scale quantity here.
+
+Let me go back again.
+
+Set the price.
+
+Click on the case button.
+
+Kinsey scale quantity.
+
+But what is this scale basis?
+
+You can see scale type as from.
+
+Right.
+
+Just put the cursor here, click on details.
+
+Yet here you can see Right.
+
+Scale type as base scale.
+
+It basically means from.
+
+Just understand like this it is basic basic elements from scale
+
+base and base and.
+
+To scale Maine's up and see means not used anything deemed graduated and scale means.
+
+Aveeno skin.
+
+Let us go over it from scale first.
+
+If we start acting as base kill, go back.
+
+It is case, but again that they maintained from 10,000 county onwards.
+
+Okay.
+
+From 10,020 onwards, the price will be.
+
+Something like.
+
+Main, main database.
+
+From 70,000 letters to 2000, 15,015 thousand members, and the price will be nine two apiece.
+
+30,000.
+
+From 20,000 onwards, the price will be 9000.
+
+Therapist.
+
+Okay.
+
+We maintain like this, just click on sale.
+
+The price watch sale.
+
+Now let us create a people.
+
+Especially on May 21.
+
+And.
+
+Or just a random number.
+
+Know, these
+
+November number estimator numbers can show.
+
+And that can go with the 10,000 quantity.
+
+That's plan b1s1.
+
+And that's.
+
+See it is when I enter 10,000.
+
+You've taken nine?
+
+Nine therapies, right?
+
+Where it got taken.
+
+That's the protocol.
+
+This is the protocol.
+
+Number three is into the code number.
+
+Let's pick up a few.
+
+What conditions?
+
+I think we're want to see the scales.
+
+See.
+
+You can see it from 10,000 quantity onwards, the price will be nine ₹90.
+
+And let me decrease one quantity.
+
+Let's see how the cap is reacting.
+
+Necklace 9999 and see it has taken thousand rupees because we maintain from 10,000 onwards the price
+
+will be 990 less ten, 10,000 it will be thousand rupees.
+
+Okay, let me create with 20,000.
+
+30.
+
+15,000.
+
+And at stake, nine, nine, eight.
+
+See 1980s.
+
+Defender 14 Table nine, which takes 990.
+
+If they take 20,000, it will take 9000.
+
+See how it is changing the price because we maintain scales in in vertical.
+
+We understand that.
+
+Any questions?
+
+No vendor is giving that discount in price.
+
+Like if you buy the bulk quantity, I will give you this much.
+
+I mean, this must price of discount for you.
+
+So if you are buying in bulk, it is benefit for you like the vendor is saying.
+
+So if the company wants to buy a want quantity, then it is a benefit for both of.
+
+Because wondering getting a bulk order so you'll be in profitable position and also the company will
+
+be getting.
+
+The materials with a better price.
+
+So that company also benefited.
+
+So.
+
+We from?
+
+From Skelter.
+
+Let us go with the scale.
+
+We go to the change in record and we told.
+
+This.
+
+It's.
+
+So the conditions.
+
+Choose the best period.
+
+Selected.
+
+Go to scale Second.
+
+How to change this scale right now.
+
+I want to change to scale.
+
+How we can do.
+
+Go to the data store.
+
+Although details.
+
+Then you can change the scale type or here.
+
+At select days Blues Can.
+
+Go to the schools.
+
+See, the scale step was changed.
+
+So now up to 10,000, not from 10,000 up to 10,000.
+
+The price will be nine ₹90.
+
+Then up to 15,000.
+
+The price will be.
+
+982, please.
+
+Okay.
+
+Up to 20,000.
+
+I mean, like 15,000, 20,000 means it will be taken in something like that to say you.
+
+Let us.
+
+No.
+
+Slash for your meat.
+
+Don't even.
+
+99 sounded obvious.
+
+Fit.
+
+15,000.
+
+They needed a piece to stick.
+
+Conditions.
+
+See up to 20,000.
+
+It will be an excellent trip up to meals here, 15 to 20000 up domains.
+
+If you take below 15,000, I mean, like in between 10000 to 50000, if you buy, the price will be
+
+an to end database.
+
+See, up to it is taking up to 15,000.
+
+Let's take 10,001.
+
+It takes only the 1982 episode.
+
+Let's see.
+
+So remove one and place it zero.
+
+It will take nine seven database for nine nine database.
+
+You got it right.
+
+How to scale.
+
+What's.
+
+Let us check with the rain scale.
+
+Change to transcript.
+
+We're.
+
+It controls.
+
+But.
+
+So.
+
+Just go to.
+
+Look, I think we need to define one condition for the scale.
+
+Look, I think if you want to know about the condition, we have a concept called pricing procedure.
+
+During the pricing procedure, I will explain about the condition types.
+
+We define the condition types.
+
+Okay.
+
+Today.
+
+Let us create with someone to talk.
+
+You the sit at the window, Michael.
+
+How we are going goes from from scale and up to scale.
+
+And we can also use the range scale, but it is asking the condition.
+
+So we are having some concept called pricing pressure.
+
+In the pricing process, we can define the different kinds of condition types or there.
+
+So I will show you when we are discussing about the pricing, I think within two days we will be going
+
+to do the configuration of pricing process.
+
+The next topic is called output type determination.
+
+And after the output type determination, I will tell you about the pricing procedure concept.
+
+During the pricing procedure concept, I will explain you about the condition types.
+
+We are having this condition type as p BW right here.
+
+You can see the condition.
+
+APB, double zero.
+
+This is a standard condition that we use.
+
+But if you want to use the rain scale, we need to define one more condition type over here.
+
+I will tell you on the pricing procedure concept, how the condition type will be different, how it
+
+is going to play a key role in pricing process, how the pricing conditions are came up automatically
+
+like that.
+
+We're having a concept pricing process.
+
+I will tell you on the.
+
+I mean, I'm in.
+
+I will tell you on the particular concept.
+
+Okay.
+
+Have any questions?
+
+No, no.
+
+If you go for in particular, we have a conditioned stab actually at here.
+
+We can see the prices.
+
+These are condition type.
+
+These prices came from the pricing procedure.
+
+If you drag down and get see the analysis, they click on analysis.
+
+See, this is called pricing procedure where we can have different type of conditions.
+
+PIP zero is gross price and surcharges than the discount we can see, right?
+
+These are common repricing procedure.
+
+What is right charges like during the vendors will send the goods.
+
+During that he will provide some transport.
+
+Right.
+
+We are so that vendor charge charging some freight charges, transportation charges and customs.
+
+If they're doing some import procurement, if they're procuring from other countries, we need to clear
+
+the customs.
+
+So like that, we are having different kind of condition types.
+
+So like first we need to define one condition type for this range range scale type.
+
+Okay.
+
+If I tell you right now, you will be a little bit confused instead.
+
+So let us discuss during the price increases.
+
+Then we got demand from scale to scale or how we are going to use.
+
+It's challenging the concept, but suddenly one day we are going to use share through the general discounts
+
+and the vendors are mostly price maintaining so scales of future business process.

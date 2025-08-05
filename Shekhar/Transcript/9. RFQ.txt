@@ -1,0 +1,639 @@
+We are going to discuss a request for cooperation and cooperation and compassion as well.
+
+For at least sessions we completed the purchase requisitions, right?
+
+Yes.
+
+So what do you mean by this purchase requisition?
+
+The respective departments will raising the cost to the purchasing department either whether they want
+
+materials or services, they will request to the purchasing department to procure the materials.
+
+And also they will maintain in purchasing equation that how much quantity they required and when will
+
+be the required like delivery date.
+
+Right.
+
+So in that also we during the creation itself, we need to assign the purchasing group who is the person
+
+who is responsible to procure the material that is nothing but purchase requisition.
+
+After that, after they will raise their question to the purchasing department, then the purchasing
+
+department.
+
+If the company doesn't have any source to procure source determination, there is no vendor to procure
+
+the material.
+
+Then they will go for request for quotation.
+
+I mean, they will send their request for quotation to the multiple vendors and then the vendor will
+
+quote their prices like there will be some four or five vendors are available to the near location of
+
+the plan.
+
+Then they will raise their request for quotation to those vendors and then they will the company will
+
+receive the quotations from the vendor and they will compare the prices and also not the prices will
+
+be taken as a primary factor.
+
+They also consider the quality of the product and also if the company orders a bulk quantity, the vendor
+
+had the capability to procure vendor had the capability to send the materials to the plant or not,
+
+they will check those parameters.
+
+They will check the brand value of the actual vendors, and then they will select the vendor along with
+
+the price parameter.
+
+After the selection process will go on, the company will rise.
+
+The order to the vendors.
+
+This is the process coming to request for quotation.
+
+It is nothing but this is a simple invitation to various vendors with they request to offer their quotations
+
+for the companies requirement.
+
+That is nothing but the request for quotation here as like the participation here.
+
+Also, we need to define one document and we need to assign one number to.
+
+So here, like the participation in one document as well as the number range, and we need to assign
+
+that to this request for quotation.
+
+But request for quotation, we have a standard document called and then is the standard RFQ document.
+
+So let me show you that as belonging to ACP.
+
+For bass, piano and Saint-Saens.
+
+And then go to metals management.
+
+But choosing.
+
+And then go to.
+
+And then how called the for quotation by quotation.
+
+You can see right top down this you can how define document types and a number ranges.
+
+Let's go to different document types.
+
+Let's see all of the document types available.
+
+So you can see here is the standard document type, right?
+
+So here is the standard document.
+
+In real time.
+
+We use the same document.
+
+If you need any customizations, you can go with the Z and all depends on the person.
+
+Let us use the directly the standard models.
+
+You already know about it.
+
+How to copy this document type and you want to make any changes.
+
+You can do that right?
+
+That's the one thing.
+
+They use this to.
+
+If I'm not able to see the screen.
+
+Oh, let me shoot.
+
+Yeah.
+
+Now you can see that.
+
+Hello, Joseph.
+
+I able to see the screen.
+
+Joseph, can you hear me?
+
+Yeah, Yeah.
+
+Now able to see the screen?
+
+Yeah.
+
+Okay.
+
+I deleted that entry.
+
+Okay, let me copy this and maintain it.
+
+Okay.
+
+We all know about it.
+
+How to customize this document.
+
+Select this document standard and click on Copy is.
+
+And let me put as Z.
+
+And let me put this of to document and.
+
+So all entries were copied here.
+
+And number range.
+
+If you want to create a new number, then you can create and send it here or else you can use the existing
+
+number.
+
+See here six is the number.
+
+Enjoy the sender's internal and 61 section.
+
+Let me say this and go back and see.
+
+Let us see what the number is here.
+
+You can execute this 60 number and just right.
+
+See 66 cities.
+
+Let us keep it like this.
+
+Let us use the existing number here.
+
+60.
+
+Even want to create a new number which you can go ahead and create new number in your assignment.
+
+This is my contribution here.
+
+It was completed.
+
+I know.
+
+If you want to create a RFQ to the external sources, we need to use a transaction code.
+
+Call me 41 and me 41.
+
+Is that the code where we can create the RFP here?
+
+We can create manually orders.
+
+We have an option called with reference to purchase request now so you can create.
+
+Let me show you that.
+
+Let me take any of the creations.
+
+If I and it's is the report where you can see the list of requests.
+
+Right.
+
+That does give us a plant.
+
+What is our plan?
+
+One.
+
+Zelda Mandrake Manufacturing Plant Exhibit.
+
+It will display all the years which we created.
+
+See, these are the dystopias we created.
+
+So let me take one pill here.
+
+So this is a part of the equation how many items it is had.
+
+Christian is a material.
+
+So it is having two materials here that is created with reference to this, but because production department
+
+requires these two materials.
+
+So we will negotiate with the external vendors.
+
+Right.
+
+So let me create it.
+
+First of all, let me maintain the RFQ document, which is our document.
+
+Let me check out the list of document types available.
+
+We created a Z A on our.
+
+Okay, let me select this and language to English and the RFQ date.
+
+Today's date because we are creating quotation deadline in quotation.
+
+That means before the deadline itself, the vendor needs to send their quotations.
+
+Because today only right we are selecting the vendor.
+
+So let me put this to test.
+
+It will be generated automatically because we are using an original number range and here we need to
+
+put the purchasing organization.
+
+What is our purchasing organization?
+
+This CPU and purchasing GOG, HPG, Manufacturing group and plant.
+
+What is our plan is be alone
+
+and so the location is is one.
+
+I think we don't care if you create a reference with the creation.
+
+Is it a pathetic creation we already copied?
+
+Let me continue.
+
+Okay.
+
+The quiet empress, collector number.
+
+It is nothing but some kind of.
+
+What is the invitations you are giving for reason?
+
+You need to put one collector number.
+
+Here, let me put the.
+
+On one.
+
+And this is the question that it is.
+
+The quotation deadline is the same date itself.
+
+And now click on enter.
+
+See if you ask it is taken.
+
+But is recreation having two line items?
+
+See how much quantity in participation you just copied.
+
+Okay, let me select both the line items and you can see here, add up the details.
+
+You can click on add up tickets.
+
+Okay.
+
+These are.
+
+These are quantities.
+
+Order.
+
+It is a ordered unit, and it's taken out of context.
+
+Why?
+
+Because I think we maintain some info record for this material.
+
+Let me check why it is taking 20 boxes.
+
+But this method it that much.
+
+See here.
+
+We put it as a ordinary test box.
+
+But in parties requisition, if you go to purchase requisition, we maintain them.
+
+Each is right.
+
+That is the reason why it is pushing some matters.
+
+See, it will contain.
+
+Yes.
+
+And also it is having some delivery date.
+
+Today is the delivery date.
+
+So let me change this delivery date.
+
+Okay.
+
+I understand why it is picking 20 quantity here.
+
+The pier itself will maintain 200 inches.
+
+But in Metro Marshall, we maintain this box.
+
+That is the reason we're taking all directive.
+
+But this unit of measurement is also like each.
+
+And if we share the same metal metal
+
+bit, but it is taking order unit here it is taking the order unit because we are requesting the vendors
+
+right.
+
+For vendors.
+
+Why we are not ordering in inches, we are ordering in boxes.
+
+That is the reason why we put here box.
+
+Right.
+
+It is nothing but order unit.
+
+Right.
+
+And let me change here the delivery date.
+
+I want this song.
+
+I'll be for it.
+
+Let me take those 20 and.
+
+And it explodes as well.
+
+So it's taken to 55.
+
+But because if you go and see in Metro data, it doesn't have any other unit.
+
+Let me show you that has
+
+a quote on that before 20.
+
+Let me show you that.
+
+See here.
+
+There is no ordinary citizen.
+
+It doesn't take in the ordinary as a consideration.
+
+Is taken only each.
+
+Now, see, both items was taken from the purchase requisition.
+
+It is 20 boxes is required for piston on each box.
+
+We want to see for each box how many pictures you maintained.
+
+What additional data and go to unit of measures.
+
+Here you can see one box equal to ten inches.
+
+If we maintain one box equal to ten inches.
+
+And we need to send this request for quotation to the vendors.
+
+Right.
+
+Care to consider vendor addresses Small button available.
+
+Right click on this vendor address.
+
+Here we need to select for which vendor we want to send this RFQ.
+
+We have multiple vendors we created earlier, so let me select two or three vendors from that.
+
+It's a company called Smart.
+
+So it is having six entries.
+
+So let me select both.
+
+Choose one and I'm sending this click on Enter so that it will take the details from the event manager
+
+and the concept.
+
+Message controls.
+
+We will discuss it later.
+
+Okay.
+
+Because whenever we create any transaction data, it would be transferred to the vendors.
+
+Right.
+
+So we need to send through either fax or mail or some medium, right.
+
+So that medium, we need to be defined.
+
+We have a separate concept called output determination concept.
+
+During that time, I will explain about this.
+
+Okay.
+
+Just click on sale.
+
+So one out of two was sent to Bush.
+
+So let me sell it to another vendor we need to send to the multiple vendors.
+
+Again, You need to set it another year.
+
+Let me select endurance.
+
+And.
+
+Sid?
+
+Yes.
+
+So it has center and it doesn't know that the window.
+
+In the.
+
+It is.
+
+The window is ending for members.
+
+It is like this.
+
+What models?
+
+The Senate.
+
+So we send you to the four vendors.
+
+Now, we created multiple excuse here after sending these invitations.
+
+If you want to see the list of rescues, so let me fall into.
+
+You can see the list of lot of Qs.
+
+You going expect?
+
+See.
+
+On one, on one on one.
+
+This is the collector number here.
+
+You can see the number and it is sent to the multiple vendor we created for our SKUs.
+
+And with multiple vendors, you can see the multiple vendors numbers, right See here one models.
+
+We are sent piston and distributor loading.
+
+What are the materials and Wind industries Engineers Technologies Bosch Ltd.
+
+We send foreign annotations to the.
+
+My 14 rotations to defenders.
+
+Right.
+
+So after that, the vendors will hold their prices either through mail or fax or something then.
+
+The users will maintain that in a safe system.
+
+So far, maintaining that we use the transaction code called MI 47, MI 47, MI 47.
+
+And here we need to maintain the purchased RFQ number and we will maintain the prices.
+
+First of all, let me check the prices of the materials and then we can maintain what?
+
+21.
+
+I check this material?
+
+But this material, the price is 2000 Special prices, ₹2,000.
+
+So let's assume let me put multiple prices out of gas and then distributed forwarding.
+
+Right.
+
+What is its price?
+
+Is 400 holding prices, 400 and patience prices to those.
+
+National need for this.
+
+Okay.
+
+For first order models and share, you need to put the price.
+
+So putting it like this.
+
+Each.
+
+Yeah.
+
+Okay.
+
+Net price.
+
+Here.
+
+Let's assume that each system costs ₹2,000 so that Warren Morris is giving for 9090.
+
+He's decreasing 10,000.
+
+Distributed voting is ₹400 is giving for three Nigerians.
+
+And.
+
+Now click on.
+
+Okay.
+
+And then the second RFQ in the industries, what they were quoted.
+
+For each 980 and three eight.
+
+Let us decrease the ten ₹10.
+
+So.
+
+And then endurance technologies.
+
+This vendor is giving for 1970 and 37.
+
+And last quotation.
+
+So he's leaving 360 and.
+
+So.
+
+360 and 96.
+
+And so we maintain the quotations which quoted by the vendors you quoted that we maintain that quotations
+
+in.
+
+But of respect to RFQ.
+
+Now we need to compare the prices.
+
+Now we have it and the transaction code and me 49 where we can compare the prices.
+
+Here.
+
+We have seen that killing two out of four and one is a collector of you in Connecticut.
+
+So it is a the.
+
+Vendors based on the price we maintain.
+
+See it is given the strength for.
+
+Disband six serious parties because he'd given the list price C 1960 and 360.
+
+And then the second rank is given for 1970 and 37 and next prize is given for 1983 1993.
+
+The last.
+
+But I think he's given to this vendor and the company will not consider the prices as the factor they
+
+will consider as the quality.
+
+Also another factor the qualities must ensure right for the manufacturing.
+
+We need to have better quality raw materials so they will consider quality as well.
+
+And also company has to consider the if they want to buy a bulk quantity.
+
+Also, the vendor has the capability and also they will in real time.
+
+They will not take the parameter from the same vendor.
+
+They will select multiple vendors, they will choose some two vendors from this poor vendor.
+
+Also, they can revise the orders to the multiple vendors and they will procure the materials.
+
+This is how we compare the prices.
+
+Any questions, Joseph?
+
+Okay.
+
+There is a small doubt though, when Dharamsala when the email demand which is then we can send out
+
+to other people as well as the other.
+
+Oh, no, no, no, not like that.
+
+For example, if they are, I mean, we can send a through mail or else or else we directly print out
+
+this form and we attach to the mail and we can send it to the.

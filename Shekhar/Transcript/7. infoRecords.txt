@@ -1,0 +1,687 @@
+Okay.
+
+Today we are going to discuss about purchasing for record.
+
+So it is one of the master data.
+
+What is purchasing for record?
+
+It is a relationship between a specific material supplying to a specific plant by a specific vendor
+
+along with his price.
+
+Terms and conditions is nothing but partisan political
+
+parties record info record.
+
+What we maintain is the vendors price for the material.
+
+We will maintain an info record and also use terms and conditions like minimum or quantity.
+
+You need to order to me like some thousand quantity or something because for example, if you're ordering
+
+material, let's let's assume our company, our plant is located at Hyderabad, the vendor is located
+
+at Bangalore.
+
+Whenever we order, if you order some 100 or something, the transportation costs is very high, very
+
+small quantity.
+
+The vendor had some limits and some conditions like you must order minimum 1000 quantity then only I
+
+will deliver the goods to your workplan like that.
+
+He will maintain some terms and conditions and also the vendor will give us better discount price because
+
+we are procuring the companies procuring in a bulk quantity.
+
+Right.
+
+If you buy in bulk quantity every month, on every day, in every one week or something, the vendor
+
+will give you some discount rather than the market rate.
+
+For example, the meter x, the cost is ₹100 in the market.
+
+The vendor may give it for ₹95 or ₹90 or something.
+
+Because we have a government that I like, we procure the material continuously from the same end so
+
+that it will be a benefit for the vendor and also benefit for the company is a mutual benefit based,
+
+right.
+
+So the agreement will be happen.
+
+So that price, what are the increment price we need to maintain it in one place.
+
+Okay.
+
+We will discuss agreements also we will have some agreement, normal agreement like we will procure
+
+these materials.
+
+Could you please reduce the price because we are procuring any quantity?
+
+Then the matrix is 100% market.
+
+Then the price will be given by the vendor is 95.
+
+So that price we will maintain in protocol.
+
+And also it is a greater advantage that during the creation of purchase order, the price will be suggested
+
+from the vertical.
+
+Once you maintain purchasing for the cost system will suggest the price when you create a purchase order.
+
+Okay.
+
+That is one of the great advantages in record.
+
+And also the record has some validity period of the price From this month to two months, the price
+
+will be ₹95.
+
+After that, I will give you four only for ₹97 to the vendor.
+
+Then we will maintain after two months the price.
+
+We can maintain both validity periods.
+
+We maintain 95%, 97% in full record.
+
+That is the purpose of the master data, like the purchasing for record.
+
+You understand the concept, right?
+
+Joseph?
+
+Yes.
+
+Yeah.
+
+As the same way we're here.
+
+Also.
+
+We will maintain one number range and we will define we have some standard document type.
+
+Ideal is the standard document type for purchasing.
+
+For record.
+
+We will assign the number range to that document type.
+
+And whenever you create the purchasing for record, the number range will be assigned to it.
+
+Whether it is actual number or number you want to go with.
+
+Okay, Let me go into superstition and let me show you the configuration and the creation of master
+
+data.
+
+And for the.
+
+Yeah.
+
+Tell me, Joseph.
+
+Yes?
+
+Can you please help me to.
+
+How to how to get this ASAP, Page?
+
+Yeah.
+
+At the end of the session, I will help you.
+
+Okay?
+
+Fine, fine, fine.
+
+Split and go to separate friends.
+
+And you.
+
+And then you need to go for metrics management.
+
+You can see the measures management and code purchasing.
+
+And here we can see purchasing for.
+
+Here you can see defining the Rangers defense.
+
+I already told you that screen layout means for which film you want to maintain it as a mandatory or
+
+optional or display.
+
+How do you want to suppress it?
+
+You can do that acting defense cleanly.
+
+And here you can see that the fine number in just click on Execute.
+
+Here.
+
+You can see the intervals, but we want to display it.
+
+So these are the number ranges for available.
+
+You want to go with the new number range?
+
+You can create it and also go to groups.
+
+Here you can see AGL is the standard document that.
+
+We want to create a new group and the new number range to it.
+
+Then you can go ahead and do it, see what is the list of number and just have.
+
+These are deadly stuff now letting us see.
+
+Sort it out.
+
+The last number they use it is five six series.
+
+We can go with five, seven series.
+
+Click on Mark Button where we can create the group.
+
+If you can't see it, I will maintain the.
+
+Food court.
+
+But it.
+
+But sometimes that effect does go with some cities.
+
+The scared.
+
+So the was created with number range.
+
+Now we will assign this group to our document.
+
+Here it is.
+
+I'll use the standard document.
+
+I put the cursor here.
+
+Click on Eliminate the group assignment.
+
+And what is our chosen info record number?
+
+Range zero two.
+
+Right.
+
+Select it and click on.
+
+So that if we assign to our member now click on See No Changes has zero.
+
+This is the configuration.
+
+It's a small configuration for the info record.
+
+We define number range and we send it to one document type, which is nothing, but I'll use the standard
+
+time for input.
+
+It also the transaction codes we use for info record for creation is an 11.
+
+And MI 11 is to create the info record.
+
+OC If you want to change a chemical and display a meeting and if you want to leave stuff in for the
+
+course, then you can go with one or anyone and anyone else by vendor wise.
+
+And if you want to go with metal, well then you can go with the transaction code and.
+
+That does enter m 11 here.
+
+You need to maintain the vendor who is the vendor is responsible to deliver the goods to our plan.
+
+For each meter, this is the material.
+
+Who is the responsible person to procure this material?
+
+This is the purchasing organization.
+
+We need to maintain all these fields and info record.
+
+It is assigned automatically because we are using a internal numbering.
+
+If you go with external numbers, we need to maintain that number here.
+
+Now let us select our vendor.
+
+One of the vendors, we created some vendor side.
+
+What?
+
+It is a search box.
+
+We can go with the our company code.
+
+It's not.
+
+So that it will display all the info.
+
+Sorry, all the vendors under this company.
+
+These are the vendors we created.
+
+Let us go with Burn Notice
+
+and make it.
+
+We created zero ordered.
+
+These are the materials.
+
+So.
+
+Protesting their level of partisan organization, you know, by changing our nation and trying to create.
+
+These fees we need to maintain.
+
+And here we need to select the standard info category remaining three or common special procurements.
+
+During that special procurement concept, I will explain more about these import records.
+
+So contacting Pipeline and Consignment search standard.
+
+Today we are going to discuss about this standard and select the standard.
+
+And now click on Enter.
+
+Here the vendor details you need to maintain and reminders.
+
+And if the material number is our company's material number here, vendors having any other material
+
+number, we can maintain it here like that.
+
+Some salesperson, it will be coming from vendor master data.
+
+Can we maintain some sales personnel telephone number?
+
+Right.
+
+Inventory data.
+
+It is captured from vendor master data and this order unit conversion will be captured from your master
+
+data you don't require to maintain anything here, click on Enter.
+
+See my delivery time.
+
+Then whenever you order how many days the vendor need needs to deliver it to our client.
+
+For example, when you order today, it will take some around three days or something.
+
+That does mean that we need to maintain here some standard quantity.
+
+Let us maintain some thousand minimum order quantity that's maintenance and some standard quantity and
+
+minimum quantity.
+
+You must order whatever the quantity we maintain here.
+
+Vendor will tell.
+
+I'll tell you that vendor will tell some terms and conditions like you must order minimum quantity of
+
+some x quantity.
+
+Let us maintain here under quantity.
+
+And here we need to maintain the vendors price, not the materials price.
+
+Whatever the vendor giving the discount price, we need to maintain that what level of price we maintain
+
+data that is check zero three.
+
+Continue.
+
+Let's see how much price we maintain.
+
+We maintain ₹200.
+
+Let's say some.
+
+He was giving for one ₹90.
+
+Now enter quotations not required here.
+
+If you want to maintain any instructions or any text you can maintain here, it would be getting into
+
+the purchase order.
+
+Skip.
+
+See then for code was created.
+
+This is how we maintain the vendor's pricing info record.
+
+If we want to go on change, slash an army mutual visa transaction where we can change the info record.
+
+See, these are the details.
+
+See, I told you that we can maintain the value, the period of the vendor.
+
+Right.
+
+Put the cursor here.
+
+If you click on this conditions button, it is.
+
+Show some value from one value to see from five five today.
+
+Date two till 31.
+
+Double, double and double.
+
+Here.
+
+This is the value repeated.
+
+Put the cursor here and click on choose.
+
+See, this is the price here.
+
+Let's say I don't want this price to increase.
+
+I want to this price.
+
+The vendor is giving only for up to two months or one month.
+
+Five.
+
+Let us maintain only for 34.
+
+This price will be only from value from FY FY 2022 to 31 five 2020.
+
+Okay, let me change that.
+
+Okay.
+
+And again, I'm going to say, but choosing one side after one month of period after one month.
+
+C 31 five, 20, 22 after one month, the vendor is not giving for one empty rupees.
+
+He was giving for one ₹95.
+
+How we can maintain here you can see new validity period because new validity period.
+
+And here you can give it as.
+
+31st June, first onwards to seven June, ending June 20 up to June 30, he was giving for one ₹95.
+
+We can't sit here and go with the display and meet at.
+
+So it is in display mode and they are going for purchasing of data and click on conditions.
+
+You can see two valid periods here.
+
+See, current price is one in rupees because it is in this validity period, it is showing one ₹90.
+
+And let us select second one we can choose.
+
+It will show you 195.
+
+See?
+
+And if you select first one.
+
+It's better to go into it at
+
+the conventions and put together for the period you can choose so that it will show you online database.
+
+Okay.
+
+This is how we can maintain the price based on the value, the period of.
+
+Okay.
+
+Joseph, do you have any questions regarding your record?
+
+No, no.
+
+Let us go with another market data.
+
+It's a small market data, which is nothing but socialist.
+
+What do you mean by this socialist?
+
+It is a relationship between a material versus vendors along with his their value periods.
+
+For example, the matrix is procuring from four vendors, four sources.
+
+Then those list of sources will be maintaining that source.
+
+And also it is having a great control over in purchase order.
+
+When you maintain these four sources in the source list, then the system won't allow you to create
+
+a purchase order other than those force sources.
+
+Okay.
+
+See, let me show you that how to create these sources, it can be activated at plant level or else
+
+metal level.
+
+Both ways we can maintain and activate that.
+
+Let me show you that.
+
+First of all, let me show you the plant level activation.
+
+After that, after that, I will show you much data activation.
+
+Either you can go with plant level, then it will be applicable for all the metals in the plant.
+
+If you want to maintain only a particular matter material, then I mean if you want to activate it for
+
+the particular material, you can go with material level.
+
+Let me show you how to activate the source list at plant level.
+
+Go to SP.
+
+A civil events.
+
+AMG And then go to Matrix management.
+
+Here we define purchasing for record.
+
+Now we are going to do this source list master data.
+
+Here you can see defined socialist requirement and plant level.
+
+We can execute.
+
+What is our plan b, c, H, PD-L1?
+
+If you activate it here, then it will be applicable for all the materials under this plan.
+
+Okay.
+
+What else?
+
+I will maintain sources to estimate material level.
+
+If we want to activate it client level, it will be applicable for all the materials under the added.
+
+Let me show that in the master data level one of the material and to change it the gate level and go
+
+to purchasing.
+
+And if you dropped down this here, you can see the socialist checkbox.
+
+That means check this.
+
+It means it will be activated at material level.
+
+And whenever you create the purchase order, the system is such as?
+
+Such for this source in this source list.
+
+If the source is not maintained in the source list, also the system won't allow it to create the purchase
+
+order.
+
+Because we have the source list at material level.
+
+If the source is available, then only that source only can create the purchase order.
+
+Source is nothing but a vendor.
+
+So like Mac widget material level.
+
+So and if I want to go on with it, may a plant level also you can maintain that C select this product
+
+checkbox and save it.
+
+Executive branch level, either maintain at material level or else at plant level.
+
+If you maintain at plant level, you're not required to maintain it material level because it already
+
+activated to all the materials and that this plant.
+
+Let's check this out.
+
+Now, what is a code to maintain the list of sources in this source list?
+
+Transaction is a me zero 111 is for creation of info record.
+
+The middle one is for creation of sources.
+
+Okay, we can enter.
+
+It will ask you to enter the what is the material and under which plan it is automatically taken.
+
+Because just now we use this material so as automatically taken this material to do not know about the
+
+material, then you can click on this button and search for the material.
+
+And so you can go with the material type.
+
+And Richard is available to step us now and see.
+
+It is asking what is the value depicted of the window and when the name and what is the information
+
+is responsible for it.
+
+Okay.
+
+Remaining fields we will discuss about later.
+
+Like whenever you get some agreements contracts during that point of time I will explain you the mining
+
+fields.
+
+Okay.
+
+See, we need to maintain here the validity period.
+
+Let's say I will maintain from five five.
+
+So let's say that only one month.
+
+But in real time, it will be having your voice.
+
+Let me guess.
+
+Okay.
+
+And inside the window.
+
+Richmond is a company called
+
+interstate
+
+Demand and it parties people and
+
+to one sort.
+
+And also the same will be procured from multiple vendors.
+
+Then we can maintain the remaining.
+
+Are.
+
+That does make them both limited.
+
+Here's another one.
+
+And if you want to borrow the list of sources available, you can maintain that and you can maintain
+
+the valid period.
+
+And also few companies is like that.
+
+They will be procuring the vendors.
+
+One month is really I mean, let's zoom up to June month, up to 32 men manning some models.
+
+And after the May month they will procure some of.
+
+From June onward they will be procuring from some Washington vendor this kind of business.
+
+Also they will use.
+
+What are the validity periods and what are the list of sources we can.
+
+We will maintain this source list whenever we create a purchase order.
+
+The system will only allow what are the list of sources available in this purchase order?
+
+For example, the maze completed.
+
+Let's assume payment is completed, that June is come.
+
+Then when you create the purchase order with respect to this vendor, then the system is owned.
+
+Allow you to create a purchase order because the valid period was completed so you can create a purchase
+
+order to it.
+
+The system won't allow you to create the purchase order during the creation of purchase order.
+
+You can understand how the modulators are very useful.
+
+And also we have some conceptual sources determination concept during that time.
+
+Also, the source list is very useful.
+
+I will tell you how it works during the source determination, guns and automatic people.
+
+These kind of things we can and also we can maintain one of the vendors affected vendor.
+
+And if you want to block this vendor for some time, you can block the server, block the box.
+
+If you check this box, it means the vendor is blocked.
+
+This means it is called Fix the source.
+
+Fix it for this material.
+
+You can maintain those functionalities and remaining fields.
+
+I will explain you that during we have some agreements, those agreements, we can assign it here based
+
+on that Also, those will still be determined.
+
+No, let me save this.
+
+This was this was great.
+
+This is how we create the source list.
+
+Any questions yourself?
+
+

@@ -1,0 +1,505 @@
+I think the current.
+
+Today we are going to discuss about the autopilot process.
+
+Last time we discussed it about it, like when we create a strategic question, we need to run some
+
+transaction and then the people will be created automatically.
+
+Right.
+
+I told you yesterday or some other day something.
+
+Yeah.
+
+Did do remember that?
+
+We have an option to create the.
+
+Let me show you.
+
+Yeah.
+
+Yes, bro.
+
+Let me share my screen.
+
+They want to see my screen.
+
+Yeah, I guess.
+
+Colorado process.
+
+We need to have a few prerequisites.
+
+Okay.
+
+Well, it means we need to have.
+
+I the evil chick.
+
+At Metal Master Data.
+
+Okay.
+
+And also, we need to have.
+
+Part of your check it Vendor Master data.
+
+And also we need to have what, in record.
+
+It did vendor a metal combination and along with render cries of the material because the peel created
+
+when we maintain the price.
+
+Right, because we need to make that so we need to maintain one important code for the price of the
+
+material which will be.
+
+Paid to the vendor.
+
+And also we need to have socialist.
+
+But you need to have sources, right?
+
+This vendor should be applicable for.
+
+This material.
+
+And then we will create a peer.
+
+Okay.
+
+We will create a purchase requisition.
+
+When they come.
+
+On leaving some transaction code for me if and.
+
+This is the article we used to generate our top levels, but step is we need to maintain our typical
+
+checkbox for Metro match and also demonstrate.
+
+And we need to create one info record for this vendor and metro combination.
+
+You need to maintain the source list for the vendor in the material and also we need to create a purchase
+
+requisition.
+
+Then we need to run the 59 transaction for this respect to be here.
+
+Then the power will be generated automatically.
+
+Okay.
+
+Regarding the steps involved in our process.
+
+At a guy's.
+
+Hello.
+
+Yeah.
+
+Yeah.
+
+Yeah.
+
+Let us create a new matter.
+
+Let us create a one united sector is.
+
+Mechanical.
+
+Machines.
+
+So what has changed is standard.
+
+Okay.
+
+Just a plan.
+
+Brandon adding, I think someone changed their standard configuration, but industry sectors have changed.
+
+Okay, let's take one inspector.
+
+And what is our metadata data right there?
+
+The material.
+
+Basic ones to choosing a contender can play this one better.
+
+I'm not going to endorse.
+
+What is the plan?
+
+So many to maintain his command of.
+
+And yet my continued take of
+
+100% to be £50.
+
+I'll
+
+just drop.
+
+Take one box.
+
+Yeah.
+
+In case.
+
+Back to it.
+
+There is a lot in.
+
+Above it is useful variable.
+
+Order it.
+
+Hello.
+
+In a purchase order, we need to convert automatically.
+
+It will convert.
+
+Yeah.
+
+For example, I'd say if you feel every time you want to purchase on boxes, right.
+
+Once or twice.
+
+If you want to change any other unit of measure calculated metal master that level or else in the record
+
+level, then we can change the purchase order.
+
+That's the reason we activate.
+
+This variable.
+
+You can see that automatic pivot checkbox.
+
+You can see.
+
+You need to check this out of your option here.
+
+The commenters.
+
+And that's just.
+
+Nation class artistic.
+
+It's kind of like a this.
+
+Okay.
+
+Metal was created.
+
+Some.
+
+The data.
+
+And let us take one.
+
+It's good that the lavender.
+
+Who then purchasing organization, purchasing and purchasing data.
+
+I'm not creating new ones.
+
+Let's shake existing, but here you can see automatic purchase object box.
+
+We previously checked this box.
+
+Right.
+
+Automatic purchase order.
+
+Please take this answer.
+
+Okay, look, I think Bilal is the one.
+
+Now, what is the next step?
+
+The completed matter much greater.
+
+We've taken one material and we take in Bilal as a vendor and utilize 15 inch gear and we need to maintain
+
+an info report.
+
+Smashing.
+
+What is it?
+
+You used to create a record.
+
+It made one.
+
+And told to change.
+
+If you want to create MI 11.
+
+MI 11, 11.
+
+And given Bilal on 12 inch, 15 inch kerb material, which is inauguration Land Detail, a commenter.
+
+They are not activated.
+
+It is copied from metal.
+
+Much better on box equal to five.
+
+Just click on and it can deliver download state.
+
+Necklace, ₹200 said we maintain our delicacy given for one piece.
+
+And just.
+
+Just sit.
+
+So the record was created 21st century.
+
+Okay.
+
+In record.
+
+Step on the computer.
+
+Next, we need to create one source list.
+
+What is the key to article we use for sources?
+
+me0101.
+
+Maintain the material and plant the contest
+
+to maintain valid forms.
+
+From today.
+
+And very.
+
+What was it?
+
+It was the vendor.
+
+Yeah.
+
+Three quarters demand.
+
+But only seven.
+
+BP.
+
+This fender is fixed because it's fixing this vendor, but this material.
+
+It can't sell.
+
+So we maintain the fix.
+
+VENDOR Right.
+
+So the socialist candidate feels completed now.
+
+Let us create.
+
+We are done for prerequisites for the art of your process.
+
+Now we are going we are going to create a artistic vision.
+
+What is the ticket to create peer?
+
+Hello?
+
+Anybody?
+
+Yeah.
+
+51.
+
+And if the people we use to create beer and.
+
+Select our.
+
+Five.
+
+What?
+
+And just like any of us.
+
+There wasn't going to be.
+
+This one is easy.
+
+Not a crook.
+
+But, you know.
+
+Here.
+
+Okay, then let's see.
+
+We can see that under such a source of supply tab, you can see a same source of supply.
+
+You can see, right.
+
+Yeah.
+
+Just click on this of supply.
+
+See below along with info Record number 25.
+
+Have it caught us in, actually, because we maintain this vendor as a fixed vendor and as it is having
+
+imported both.
+
+So it automatically check whether there is there any source available in this system when vendors are
+
+available.
+
+Is there an IFIXIT vendor or not?
+
+The system is checked and it's automatically ascending below.
+
+Okay, you got it.
+
+Hello?
+
+Yeah, yeah, yeah.
+
+Okay.
+
+The van that was automatically saved.
+
+Hello?
+
+Yeah.
+
+Yeah, if you like.
+
+If you don't fix it, Surinder.
+
+Yeah.
+
+Then what will happen if you are saying so, you can see the second one.
+
+The third one.
+
+Yeah.
+
+That is a wonderful lesson.
+
+Like it automatically.
+
+Yes.
+
+Do we have to choose?
+
+Vaccinators.
+
+I will show you.
+
+First, let let us finish this scenario.
+
+Then we will go with the next scenario.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Yeah.
+
+You got it.
+
+Right.
+
+How we, the vendors and the record caught us.
+
+End in tears.
+
+Yeah.
+
+Good.
+
+Again.
+
+Well, let us see.
+
+Okay.
+
+Okay.
+
+Let's see.
+
+In state to state, crossing status are not they know the P was not roll out of your any other documents
+
+or not created.
+
+Okay.
+
+Let us what is the next step after creation of.
+
+One transaction equal to all this program people.
+
+Let us remove and let us give only purchasing organization how many pills are available.
+
+Just it automatically creates the purchase orders for purchase requisitions.
+
+Actually, we have only one, but we are still not.
+
+So this process can work to be automatically let us executed.
+
+Click on.
+
+It's cute.
+
+See the error is by series four and part is all created successfully but is let us see how it got created.
+
+Let me refresh it again.
+
+See.
+
+Bill got created.
+
+Let us go to the speaker.
+
+See, this is the people created.
+
+Extremely scared.
+
+How many we ordered?
+
+Actually, thousand each aside.
+
+Thousand?
+
+Yeah, but.
+
+But one box equal to five each.
+
+That's why it's over 200 boxes.
+
+And each one is one that is actually the metal match that we maintain as ₹200.
+
+But in Africa we maintain one ₹8.
+
+What is in Africa?
+
+Number 25, right?
+
+To go to right side.
+
+You can see the incorrect number.
+
+Fund created with respect to peer.
+
+Got it right, how it got created.
+
+Hello.
+
+Do you have any questions?
+
+I do understand that.
+
+How the autopsy was conducted.

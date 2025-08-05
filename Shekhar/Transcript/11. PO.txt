@@ -1,0 +1,1095 @@
+Okay.
+
+What is the manipulation?
+
+Has it.
+
+He here?
+
+We need to give the number.
+
+Right.
+
+We give them little number instead of giving their number, instead of giving the participation, we
+
+need to give participation.
+
+Instead of giving participation, we are giving the metal number.
+
+He is right at the manual creation of people without the reference to.
+
+But there's a tradition for the era.
+
+We do matters maintains.
+
+And how much quantity.
+
+But it says not a quantity.
+
+Thank.
+
+Is the baby girl still there?
+
+Location.
+
+This one, right?
+
+Yeah.
+
+This is how it can actually.
+
+Based on the poor record, right?
+
+Yeah.
+
+This simple record created by.
+
+Not us.
+
+Actually, we checked the info, Right?
+
+Yeah.
+
+So that's it's created out of medical.
+
+You got it right.
+
+To click on check.
+
+You can see how much of this.
+
+And later actually it's configuration part.
+
+I will explain you that also let's give you EU is the standard output that click can enter.
+
+Go back.
+
+And it was here to give your last local.
+
+Go back now.
+
+So back.
+
+We can check.
+
+So this issue.
+
+Right.
+
+So development is good to go to save.
+
+Click on Save.
+
+It is called manual creation of purchase order.
+
+Let me show you another time the reference to participation.
+
+Okay.
+
+Plus we will create on purchased recursion.
+
+Then we will do the purchase order with reference to purchase equation.
+
+So what is the code we use to create parties?
+
+Requisition.
+
+5151.
+
+And in.
+
+Well.
+
+Yes.
+
+And here we need to select our document Z and Delphi purchasing requisition.
+
+Right.
+
+We define selected.
+
+Okay.
+
+And let's create a parks recreation for.
+
+Create a new mantra.
+
+For example, let us create a new a new method of.
+
+Look, I'm not
+
+maintaining a phone number.
+
+Let's take mechanical engineering and metal type data.
+
+Let's get on it.
+
+What are the views required for purchasing this data over to designated purchasing Purchasing account
+
+storage, Location one to location to location to continue right hunting.
+
+Yeah.
+
+Click on Enter.
+
+We need to give the input for which under which plan we want to create this person.
+
+Let's do the first material, second extorted location.
+
+Then we can continue
+
+and do exactly what is h What is the next material group?
+
+What is the rate of it?
+
+Let's assume
+
+that it is 90 grams.
+
+Okay, we can enter down under and purchasing in Domaine de la Chambre.
+
+Pretty easy.
+
+Deep, easy.
+
+Okay, let us make do not enter in order.
+
+Let's assume that.
+
+In one box.
+
+This is let's keep box in one box and I'm in a breakaway.
+
+So let's take five requests.
+
+Okay.
+
+One box.
+
+Okay, good.
+
+Okay, Let's also maintain the socialist activation.
+
+Okay, But this breakaway material.
+
+Okay, let's see how it is working now and go to accounting.
+
+You.
+
+I got the name and the location of the violation plus 3000.
+
+They could pass this therapist.
+
+Robotic relationships.
+
+Vanishing glass.
+
+It is a bridge between our moment of integration.
+
+We are preparing this material, right?
+
+We are procuring others.
+
+We are selling this material at that point of time.
+
+When you receive the goods or when you send the goods to the customer, we are doing some good moments,
+
+right?
+
+Goods are coming into our inventory, right, So that their value will increase this inventory quantity
+
+will increase as an inventory value also increases.
+
+For example, let's say unknown quantity is came into our inventory.
+
+It is zero, not total stock.
+
+Then the inventory will increase it to 100 quantity and the value will increase to ₹150 equal to 55,000.
+
+Right.
+
+So the value will increase 0 to ₹5000 5000.
+
+So value will increase right?
+
+During the value increases some, it needs to be ten to the 13 that so on.
+
+So transactions will happen.
+
+Goods was received to the inventory you need to pay the amount of the vendor like that.
+
+We need to tell to the finance team.
+
+Right.
+
+Okay.
+
+Yeah.
+
+So those are called generalized accounts.
+
+It will hit digital icons for the reference of finance module so that they can clear the vendor accounts
+
+by paying the amount to the vendor.
+
+Either it maybe takes either it never cashed whatever the down payment transaction may be.
+
+So when we sent this 3000 relation class in the background, there is a configuration, so they will
+
+maintain some GL electrons there.
+
+When we do the ghost movements, the respective GL accounts will be hit and they will know how much
+
+quantity we receive, how much value we need to pay.
+
+Okay, they got it.
+
+Yeah.
+
+The valuation class is maintaining here.
+
+Okay?
+
+Yeah.
+
+Look.
+
+That's why we are maintaining the values.
+
+We are entering three this and 3000 there because we are having some standards in safety.
+
+Okay.
+
+Okay.
+
+Okay.
+
+So in order to keep this the standard, we need to maintain this 3000 here.
+
+If you want to maintain if you are want to maintain some other violation for us, we can maintain also.
+
+But we need to tell to the finance team that we do not use 3000 the value interest we need for a 4000
+
+valuation trust.
+
+So you need to configure to the 4000 that we need to tell to the financing.
+
+Then they will configure it into the 4000 valuation, not 3000.
+
+Okay.
+
+Whatever we need, we can tell to the finance team.
+
+So based on that, they will configure it just like we having some standard document.
+
+And if you don't want it, we can go with customizations.
+
+The end.
+
+Likewise.
+
+Standard.
+
+Standard.
+
+Okay.
+
+Okay.
+
+If you want to go with 3000.
+
+Let's say I want 4000, then I will configure accordingly.
+
+Okay?
+
+Yeah.
+
+The concept.
+
+As the matter was defined, they were.
+
+Let's go and create the purchasing equation for it and closing this.
+
+Break required.
+
+I want to order.
+
+Let's say.
+
+500.
+
+Okay.
+
+I handle.
+
+What is the plan?
+
+De Palma.
+
+They plan to spend $1 purchased in APEC.
+
+Or is that a conditional name?
+
+Let's take a faker.
+
+Wants it.
+
+But choosing.
+
+DLP MP.
+
+I don't know.
+
+FinTech unit of Mercer as each of the peer is creating internally, right?
+
+So it takes only the each unit of measure not as box.
+
+Okay.
+
+Okay.
+
+They required 500 units of break wise for the plan.
+
+The one story location is one one.
+
+Like that Dutch hacker is raising a requisition to the.
+
+Which purchasing organization, DLP, purchasing, power, purchasing, automation, DLP.
+
+Who is responsible for the to procure this material?
+
+Bpg Purchasing group is responsible to procure this material from external vendors.
+
+Okay.
+
+You got it right.
+
+Okay.
+
+Yeah.
+
+Now we go to the next level.
+
+Okay, Let's assume, like, we already negotiated with the vendor.
+
+We know the vendor's name.
+
+Okay, let's.
+
+He's doing that.
+
+Yeah, we know that vendor name, right?
+
+So let's give the ad fixer vendor.
+
+Let's give it.
+
+Okay.
+
+Let's take a company quote, as demand.
+
+I'm really not.
+
+It has risen over and over again.
+
+Amy Goodman.
+
+Let's stick.
+
+Howser is the biggest vendor.
+
+Yeah.
+
+If you know the vendor, we need to create an info recorder record and as well as straight.
+
+Yeah.
+
+You know, lavender and fries out the window.
+
+If you know what, then?
+
+We will create another paper with the future.
+
+And let's say we do not know the amendment, but I will say I will do.
+
+And the scenario that we do not know different than that.
+
+So they will raising a requisition to procure this break with concealed.
+
+See that here?
+
+₹50 came, right?
+
+Yeah, it came from Metal Master data automatically.
+
+Yeah, it comes.
+
+We.
+
+This is a.
+
+Well.
+
+Yeah, actually, we can see the number, right?
+
+Yeah.
+
+So let's go and create with reference this recreation.
+
+We activated source destroyed the activated sources, but we did not maintain the source list.
+
+Right.
+
+But we activated it.
+
+But we do not maintain it right now.
+
+So it will go through and it will the CCP system will throw another to us that in.
+
+So at least you do not maintain any vendor.
+
+So we can't create the purchase order.
+
+Let's see how we react.
+
+What is the best way to copy?
+
+But on this level he is.
+
+Yeah, we got this.
+
+What we call this icon.
+
+Yeah.
+
+Select where you select to click on Aquarium.
+
+Here.
+
+We can see if we created the participation.
+
+Go to my creations.
+
+But if somebody created the part of the equation with compensated equation, that's a different return.
+
+My hypothesis equations and positive equations, we create a particular question.
+
+Let's click on the equations.
+
+And here it will be displayed.
+
+What are the parts they know we created?
+
+Okay, so we can see dropdowns, right?
+
+Three.
+
+Beer.
+
+How many line items are available?
+
+It will show us if this year we are having to line items, but this year we have only one line like
+
+that.
+
+It is showing.
+
+We are really created with the are already completed Lipstick Fire series two We created five series
+
+to write.
+
+Let's copy this.
+
+Removing.
+
+Glenda.
+
+If they copy it is not.
+
+Allow me to copy this fear.
+
+First of all, initially we need to maintain the vendor first, then only we can copy.
+
+I'm an adult.
+
+You can see
+
+the beer.
+
+What is the material?
+
+What is the quantity required?
+
+100 boxes, actually.
+
+How much quantity ordered?
+
+500 each.
+
+500.
+
+Inmate Master Data.
+
+We maintain this one box equal to one five, five, five inches.
+
+Right.
+
+Yeah.
+
+I want breakfast.
+
+So it is multiplied by boxes so that 300 into five equal to 500 each.
+
+Right.
+
+That's right.
+
+Converted into 100 box.
+
+Why?
+
+It was converted in middle master data.
+
+We maintain order unit test box.
+
+Right.
+
+That's why it was converted in 200 boxes.
+
+Okay.
+
+If we wanted not to order in boxes, we want order reaches, then the system does not allow us.
+
+Let's see in here.
+
+Yes.
+
+I want to maintain 500 inches.
+
+If I change it.
+
+It does not allow me to change.
+
+You can see my electrician, right?
+
+We do not maintain any record right now.
+
+You can see it.
+
+It goes blank and it is asking us to maintain the net price.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Why it is not changing because in Middlemarch that it has, we do not maintain any control over there.
+
+That in patches what you want to change, we can change like that.
+
+There will be small control power in massive data.
+
+If you activate it, then only the purchase order will have the ability to change from ordering it to
+
+basing it on it.
+
+I will show you that also.
+
+Let's maintain the price for it.
+
+We maintain how much quantity?
+
+500.
+
+A hundred bucks.
+
+50.
+
+₹50 for one box.
+
+But each item it is easy to be four five into five.
+
+25.
+
+Right.
+
+So convicted.
+
+15 to 5 inches, Right?
+
+250 Therapist Bad box.
+
+They want to change it.
+
+To not box.
+
+I want to reach.
+
+But it did not take.
+
+To begin.
+
+It is called per how much unit You want to maintain the place like that, we can maintain it.
+
+We want to maintain per box that one box price we can maintain per one box price equal to two ₹50.
+
+I don't understand.
+
+What is this order Price?
+
+It means.
+
+Fat of London blogs.
+
+They want to maintain each unit, then we can maintain it's 50, 50 degrees.
+
+Yeah.
+
+Yeah.
+
+You understand it, right?
+
+Yes.
+
+Yeah.
+
+And here we can see metal is not included in.
+
+So despite socialist requirement, because in metal master data level, we maintain source list, but
+
+we do not maintain any socialist.
+
+Right?
+
+Yeah, that's it.
+
+Throwing an atom.
+
+If you want to create the socialist, you can go to a01 transaction or you may use to create an easier
+
+one for a socialist.
+
+That's right.
+
+Yeah.
+
+We need to create our socialist creation.
+
+So let's assume like this.
+
+First.
+
+Initially, let's create an info record and source list also.
+
+Okay.
+
+Okay.
+
+Smash em.
+
+What is the socialist creation?
+
+0101 We can enter material on which Plan B, bl1 PL one.
+
+Going economy.
+
+What is the validity period?
+
+Today's date is dated 27.
+
+Anyone.
+
+Is the no.
+
+Let's take the love and the loss which is in.
+
+No, no, no, not at all.
+
+DLP and DLP was.
+
+The LPO Staff Association was created.
+
+It can allow us to create the purchase order 21 MN.
+
+Maintain that the number.
+
+My particular conditions.
+
+Select our purchase participation and click on Adopt.
+
+I'm.
+
+It is again asking do not press because we do not maintain any info records till now.
+
+Give ₹50 for each.
+
+You can check.
+
+Okay.
+
+Because I'll sing for it.
+
+I'll put my scissors.
+
+Can I say this?
+
+Let's kill us.
+
+And you.
+
+Selected to go to for the data.
+
+I
+
+actually go to.
+
+Communication expert Got a communication method.
+
+And here we can give a little seal.
+
+Go back.
+
+Go back.
+
+Now click on check.
+
+It does not draw any error message.
+
+Okay.
+
+Because we maintain the socialist, right?
+
+Yeah.
+
+And we created within the evaluative period that it is allowing us to create people.
+
+Let's see.
+
+I don't want to I mean, sometimes we created on boxes to this vendor and sometimes we created orders
+
+in each as also, let's say.
+
+Okay.
+
+What else?
+
+Sometimes you ordered in boxes, and sometimes you'll be ordered in bag ordering.
+
+But the system is does not allow us to change it to the unit of measure like it is.
+
+It does not allow us to create any chips.
+
+Only on boxes we want to change.
+
+Over here, there is a control in certain.
+
+Let me show you that last.
+
+Let's go to what is a decode.
+
+Use it for change metric Master data.
+
+And then 0002.
+
+Give them a tail number and go to purchasing.
+
+You
+
+may be able.
+
+After all, the unit, you can see small variation.
+
+We can see.
+
+Variable purchase or activate.
+
+Let's click on this player, Bob.
+
+Okay.
+
+Okay.
+
+If this is not accurate, please activate it.
+
+Keep it as one.
+
+No click on Sphere.
+
+Now let's see.
+
+Go to create the patches or patches or slash or 21
+
+or the numbers.
+
+But acquisitions which is.
+
+Sneak on adult.
+
+Gave the.
+
+I want to change it to 500.
+
+You just.
+
+We can see that it's changed to 500 H.
+
+Yes, that that's the control of this field Master data.
+
+Okay.
+
+That's why I'm not explained earlier.
+
+A few other things also will be explained later.
+
+Okay.
+
+This part is part a key part is this batch management.
+
+What is this processing and what is this post into instruction?
+
+Stuff like that.
+
+I will explain each and every functionality during the running of the business transaction.
+
+Okay.
+
+Okay.
+
+The facts are, you don't understand it better.
+
+So that's when I'm explaining the feels when while during the transactions of business, that it's easy
+
+for you to understand.
+
+Okay.
+
+Okay.
+
+Hopefully it comes.
+
+How to create who players can understand RFID affecting will create digital.
+
+Okay, We don't have to do anything with that, right?
+
+We don't have to do anything.
+
+We don't have any part on the platforms.
+
+We have it.
+
+We need to give the water the kind of electrons used, actually, that we give the animals that they
+
+will create.
+
+We have a concept called move integration during that topic.
+
+I will explain you about that.
+
+Oh, okay.
+
+Yeah.
+
+Yeah.
+
+Do I understand it right now?
+
+Yeah.
+
+Let's go and create a dinosaur record.
+
+I'm not saving these people again.
+
+Let us create the input, and then we will save these people and close.
+
+Slash Amy Dolan and me 11.
+
+Okay
+
+then the number villa Mr. Lambo Purchasing AutoNation RD, LPG.
+
+Help you give the plan, click on Enter.
+
+That year.
+
+What is it you want to maintain?
+
+We can maintain.
+
+You can see that variable active also.
+
+We want to want to change it to any other things.
+
+We can change it during the purchase order.
+
+If you don't activate the variable order, then you can't allow us to change it.
+
+Okay.
+
+Okay.
+
+We to enter again.
+
+It will take you to purchasing or dollars to two days, one day time.
+
+That's 201 hundred quantity.
+
+Boxes.
+
+And what is the price per one each?
+
+It is ₹40, right?
+
+₹50.
+
+5050.
+
+But when that is giving us, like, let's say, 40 therapies.
+
+Okay.
+
+Okay.
+
+Comment.
+
+If this
+
+this.
+
+Sun s info record was created.
+
+NZ was created.
+
+Yeah.
+
+No, Close it.
+
+No, We know the vendor.
+
+Right.
+
+Let's go on.
+
+Maintain the vendor in number.
+
+Okay.
+
+What is the transaction?
+
+Could be used to change purchase requisition.
+
+Pier 54 and 52 and 52 directly used to me 50 to 1 or else.
+
+If you are in display mode, you can see a small spec similar display to change.
+
+If you click on it, it automatically take you to 52 transaction.
+
+Okay.
+
+It changed the display to change more.
+
+Let us give the vendor name here.
+
+Denmark.
+
+Salah Bilal, right?
+
+Yeah.
+
+Please don't say no.
+
+The turnout exploded in southeast.
+
+I think we need to rerun this transaction.
+
+52 and.
+
+No.
+
+We will use those fixed windows to handle.
+
+See.
+
+Let's see how the message is going to go.
+
+Let's see.
+
+The concept?
+
+No.
+
+Yeah.
+
+See the position change, right?
+
+Yeah.
+
+No.
+
+Let us create the purchase order with reference to PR.
+
+Okay, now show me 21.
+
+N.
+
+N.
+
+N.
+
+Nick has taken my requisitions.
+
+I'm not rendering any vendor.
+
+Okay.
+
+You can't copy.
+
+See.
+
+See, Bilal also copied that initially what happened without the vendor.
+
+The peer is not copyright.
+
+Know how it is copied because we maintained in particular equation it is dated corporate PR.
+
+Okay.
+
+Do you understand?
+
+Right.
+
+Okay.
+
+Yeah.
+
+The price came up because we created a poor record.
+
+All right, let's see.
+
+Yeah, For record.
+
+All.
+
+On Pacific Ocean.
+
+We can see the Pacific Ocean and move.
+
+Let's see if these people.
+
+Click.
+
+Let me go to messages first.
+
+But it does maintain an EU and go to communication method and then we'll go back.
+
+Go back.
+
+You can check.
+
+Now click on See.
+
+Now that view was created.
+
+See?

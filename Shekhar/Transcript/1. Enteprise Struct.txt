@@ -1,0 +1,1261 @@
+So today we are going to learn about the entropy structure of SAP.
+
+Okay, Joseph, now can you hear me right.
+
+Just confirming.
+
+We are going to discuss support and structure in Amman before going to explain about and structure.
+
+Just look at the general business structure of the company or what we have done from outside.
+
+Let me give you a small subset of groups in the in here.
+
+Tata Group is a corporate group.
+
+We already known about it in that we are having two companies.
+
+Let's assume it is having so many entities like Tata motors, Tata Steel, Apollo Tata Consultancy Service.
+
+These kind of these are having on the Tata group.
+
+Let's assume we just have only two companies right now and the Tata group in that we are having two
+
+companies which are known as Tata motors and Tata Steel.
+
+We already know that Tata motors is the biggest automobile manufacturing company in India and coming
+
+to Tata Strauss, it is an Indian multinational steelmaking company in Tata motors.
+
+What we have we are having one manufacturing plant, let's assume like this to do manufacturing activities
+
+and another plant like assembly factory or something to do assembly activities as well as in Tata Steel's
+
+okay let's say like this, but also in real time they will be having so many factories, not only manufacturing,
+
+there will be some sales activities going on.
+
+So it will be having some kind of warehouses, different kind of activities can be done.
+
+Maybe the polishing activities.
+
+So many factors will be there.
+
+Let's say it is having only to for our example, it is having two plants.
+
+One is manufacturing a factory and another assembly factory.
+
+And under this manufacturing and assembly factories, we are having these two locations to show the
+
+manufacturing product or assembly.
+
+Okay, let's assume this is the general business structure we had.
+
+No.
+
+And the screen that you see gives you what are the general terms.
+
+This is how it is carried out inside their cities, in outside what we call it is corporate groups,
+
+representative group.
+
+We call it as a client or company in a city.
+
+This is the terminology we use inside the city.
+
+And subsidiaries like Company Codes, like we call it the Tata motors, Tata motors, Tata Steel or
+
+Tata Power.
+
+These kinds of entities will be available.
+
+Those will be called it.
+
+As a company goes on factory.
+
+A factory can be called.
+
+It is a plant inside a city, whether it is a manufacturing factory or it is a assembly.
+
+Fact, whatever the factory we call it is a plant in SAP.
+
+And generally we call some storerooms, like after finishing of material, we stored it somewhere else,
+
+whether it is a warehouse or storage location or storage room.
+
+We call inside that species as a storage location.
+
+Okay.
+
+This is the terms we use inside the CIP system.
+
+OC.
+
+And then.
+
+Here.
+
+How do you maintain?
+
+Furthermore, I have given some structure in assembly in this right.
+
+Here is how the organization structure is maintained.
+
+The first hierarchy level is the client.
+
+Client is nothing but a company, which is nothing but a Tata group.
+
+It will be followed by complete codes.
+
+And followed by plans and followed by store locations.
+
+This is how the structure will be in the structure.
+
+And also we have another apprentice controlling area.
+
+And so one purchasing information we can see.
+
+So in this structure, what are the entities we define coming to our own prospect?
+
+What we define is we will define purchasing organization, planned store location.
+
+These are the entities we will create in our system.
+
+But why?
+
+We are sure why I am showing to you like client company controlling it.
+
+We are not defining those systems because without those entities we can't create the planned assignment
+
+to the company code.
+
+Right.
+
+That is the reason why we need to define this in real time.
+
+What happens is these entities will be defined by the finance department, will take care of it.
+
+The client, which is nothing but a company and company code and controlling area, will be defined
+
+by people.
+
+Our job is to create plans.
+
+We will configure the plans, store the location and purchase information.
+
+And also we have another small purchasing group available.
+
+It is not having any mind to it.
+
+I will explain that in the coming slide.
+
+So this is the structure of Eminem in this part called Magician Plan and Storage Location will be defined
+
+by Eminem consultant.
+
+Okay.
+
+And company.
+
+Company code.
+
+I mean, company means let's assume a client is a company.
+
+Client company called Controlling data will be defined by the.
+
+Now.
+
+Okay.
+
+See, in this structure, let me explain each entity individually.
+
+See, the first is called client.
+
+Client is nothing, but we are known to top and company code in this company code.
+
+What happens is a company code is an independent organization which is registered under the companies
+
+like it will be having some general accounts.
+
+What are the earnings?
+
+What are the profits?
+
+Different kinds of gender religious will be available.
+
+Right?
+
+We need to store in that concept that will be taken care of by people.
+
+That is nothing but the company code and controlling area.
+
+It will controls the expenditure and earnings of a company called.
+
+Just simply just understand it.
+
+It is not defined by us.
+
+No need to worry about it.
+
+I'm coming to purchasing organization.
+
+Okay.
+
+This purchasing organization, it will take care of all the procurement needs of the company.
+
+Because, for example, plant requires some material X to manufacture DX, or let's assume it is, it
+
+requires some 100 pistons to manufacture the 100 balls.
+
+So.
+
+It needs to tell to some organization to procure those materials.
+
+Right.
+
+So this is the purchasing organization will take care of those all the procurement needs of a company.
+
+Which is nothing but a purchasing organization.
+
+See the name itself thing.
+
+But Chase organization means it will be take care of all the procurement needs of IT company or whether
+
+it is a plant and plant is nothing but where in this plant it is having like some manufacturing activities.
+
+It will be having some some activities or testing activities maybe can be a sales act.
+
+It used to be carried out in the plant and coming to storage location.
+
+It is also a small element development unit.
+
+It will take care of the all inventory activities.
+
+After manufacturing or anything, if you procure anything from outside or if you manufacture by your
+
+own or you need to store it somewhere else, which is not in today's location.
+
+Okay.
+
+You understand that each and every unit know coming to purchasing organization, it will be having two
+
+kind of purchasing.
+
+One is central purchasing.
+
+Second one is the central purchasing.
+
+First, let us discuss with central purchasing.
+
+After that, I will explain you about the central purchases.
+
+See, this is the structure of central purchasing system.
+
+See here, just see here.
+
+The purchasing order is assigned to company code and the same purchasing is assigned to plan.
+
+If the purchasing organization is assigned to plan means purchasing coordination, one will be taking
+
+care of all the procurement needs of the plan.
+
+And this is purchasing automation.
+
+The same purchasing automation will be assigned to the Plan B that the same purchasing automation will
+
+be.
+
+Acre all the procurement needs of Plan B, which is nothing.
+
+But if the purchasing organization is responsible to procure all the needs of a company, if it is assigned
+
+to all the partners, all plans will be responsible for the respect to purchasing organization.
+
+Okay.
+
+This is nothing but this central purchasing system.
+
+The same parties and coordination will be assigned to company code, and the same purchasing coordination
+
+will be assigned to the plans, which is nothing but central purchasing.
+
+The name itself saying central purchasing means one purchasing coordination will be taking care of all
+
+the plans inside the company code, inside the Tata motors.
+
+That is nothing but central purchasing system.
+
+Coming to the central purchasing system.
+
+In this central purchasing system, what happens is the partisan coordination.
+
+I mean, each plant is having individual purchasing organization will be assigned to it to to responsible,
+
+to procure those materials for respect to plan C here, the purchasing orders one is assigned to planned
+
+purchasing.
+
+Organization two is assigned to plan B.
+
+That means each plant is having individual purchasing organizations, which is nothing but a D central
+
+purchasing.
+
+And that's one more thing.
+
+Very important Dispatching coordination will not be assigned to any company.
+
+OC In central purchasing what happens?
+
+The same purchasing organization will be assigned to the company code, but in D central purchasing
+
+that's purchasing coordination will not be assigned to the company code.
+
+That is 1.2, you must understand.
+
+See.
+
+Why does.
+
+I mean, why did the SAP provide these kind of systems?
+
+Let's say zoom see that says it's a startup company.
+
+It was located only at Hyderabad and Bangladesh, only two places it will be available.
+
+It does not require a large purchasing organization.
+
+It will be having a small partition location, for example.
+
+It needs to know around ten lakhs or something that says it is small company, it is small small company.
+
+It is having some of the of 1000.
+
+So for one crore of turnover, it does not require individual participations to procure the materials.
+
+It will be having a small purchase involved.
+
+It is enough for them.
+
+For example, if you take a multinational companies one partition recognition will not have the ability
+
+to procure to responsible to take care of all the procurement needs of all the companies, because the
+
+plans are situated in Hyderabad, Bangalore, Chennai and also other countries.
+
+See, Tata motors is located in so many countries, so different countries will be located at.
+
+These companies are located in different countries.
+
+So single operation will not be have the ability to take care of all the procurement needs.
+
+So that is the reason why they will go with this system.
+
+And also another example, I will give you that.
+
+For example, one plant is located in Hyderabad and one plant is located in Bangalore and one plant
+
+is located.
+
+Let's assume the headquarters is at Bangalore.
+
+The partisan is having a single purchase information they are using like this is the central purchasing.
+
+They were using the central purchasing system.
+
+So after onwards, what happens is that every time they will procure from Bangalore and they will send
+
+it to the Chennai location and the Hyderabad location.
+
+So instead of doing that, the Plan B proposal that we all have the same quality of materials is available
+
+at Chennai location and also the vendor area has the better market.
+
+He was giving the better market prices.
+
+So why we are going to buy in Bangalore?
+
+Can you have another individual purchase managed to procure at this place?
+
+It will decrease our transportation cost as well.
+
+That is how the Plan B proposes to the main branch so that OC go ahead and buy the quality is good in
+
+Chennai location.
+
+Why we are wasting our money to transport from Bangalore to Chennai.
+
+You can buy there like that.
+
+They will maintain their individual purchasing coordination itself.
+
+Understand yourself why we are using this individual purchasing automation to assign to specific plant.
+
+You understand, right?
+
+See, this is happening right?
+
+Why?
+
+We are buying from Bangalore and transported to the Chennai.
+
+We already have some vendors here.
+
+Why can't we buy it here?
+
+Right.
+
+So that is the reason why we can use individual purchasing automations at plant level.
+
+And also maybe the chances is like this, if it is a startup company or small company, why can't we
+
+use use purchasing organization system to procure the materials?
+
+We can use a single purchasing organization system, right?
+
+Like why we are using multiple purchasing systems based on the company.
+
+Also, the see, you can't understand, like the purchasing organization will be one huge building or
+
+it can be a one floor or it can be one cubicle in an office, but it just zooms purchasing coordination.
+
+It will take care of the procurement needs of the company.
+
+That's it.
+
+Whether it is a fuse building, the purchasing will be huge building or is it will be a single floor.
+
+It will be having some 30 numbers, but it is a ten floors building, maybe a 50 people and single purchasing
+
+organization.
+
+It will be call.
+
+It is a purchasing automation.
+
+If it is a 40 members also call it is a purchasing organization.
+
+If it is a four members also it will be call.
+
+It is a purchase information based on the company.
+
+The members will be increased based on the ability of their procuring, based on the tunnel.
+
+Okay.
+
+And also we have, you know, the difference between Central and central.
+
+This is the overall picture.
+
+Like, this is called central purchasing.
+
+The same purchasing organization will be assigned to company Core.
+
+The same organization will be assigned to plans, which is nothing but central purchasing.
+
+This is called Decentral.
+
+It will not be assigned to any company codes and it will be directly assigned to plans.
+
+And also, the one thing I want to tell you is the same partisan organization can be seen to both because
+
+under the plans, see, this is a same Plan B and a company called one.
+
+This can be assigned to plan C, and the complete quote is nothing but a cross company code purchasing
+
+organization, we call it as a cross country code purchasing organization.
+
+Now, we already how we already discussed central and the center.
+
+Now we are going to discuss about reference purchasing operation.
+
+What is this reference purchasing organization?
+
+Here you can see right.
+
+A company called one Company CO two is in a company called one.
+
+Partisan coordination one is responsible to take care of, but to plan one and plan to.
+
+It is having partisan organization to let's do both plans under company.
+
+Let's forget about company quota.
+
+Let's focus on company code one first.
+
+See that says Zoom plant one requires piston OC.
+
+Plan to request some in some shops or something.
+
+They will be procuring materials from their individual purchasing organization, will be take care of
+
+purchasing coordination.
+
+One will go and check the vendor and they will buy the pistons and purchasing alteration to.
+
+They will go and check the shop who are who is the supplier.
+
+They will go and negotiate with the vendor and they will bought it.
+
+This is how happening in the procurement side.
+
+So then, but Plant one requires the piston and plan to request the piston.
+
+Then if to go and buy individually from the different vendors the prices are costing.
+
+As for example plant one is costing ₹100, plant is costing 100 this single piston.
+
+They are going buy with the different vendors, but if they go and buy in a single vendor, they will
+
+go and buy from a single vendor.
+
+Single supplier.
+
+Why?
+
+They are individually Go on.
+
+Buy the products from the supplier.
+
+They can.
+
+They're buying some huge quantities.
+
+Right.
+
+So if you buy a huge quantity from the vendor, he will be giving better discount.
+
+Right.
+
+So buy it.
+
+Ten bucks.
+
+You can't.
+
+They will be.
+
+They don't provide much of us.
+
+Like in school times when you buy a book from us.
+
+But books from the shop, they will be giving some one pennies.
+
+A free or the stickers is a free site.
+
+It simply say if you buy anything in bulk quantity, it will be that it will be getting a better discount.
+
+So that is the reason why, if the both plastic were the same material, then if they want to maintain
+
+some contact with the same vendor, why?
+
+Why they are going individually and making a contact with the different suppliers by the same suppliers.
+
+So what happens is, is it is here reference purchasing automation is used to maintain the contract
+
+with with the vendor so that it will have a better discount.
+
+So this reference purchasing, So can you be a better discount like that?
+
+You will ask with the vendor and he will negotiate and he will bind the price like nothing but the contracts
+
+we have.
+
+So that is the benefit of reference purchasing here.
+
+Okay.
+
+See what the difference is.
+
+This is central purchasing.
+
+This is the central.
+
+Central press.
+
+Central is nothing but a reference purchase of Central.
+
+Thus, de Central is nothing but a reference purchasing organization.
+
+Okay.
+
+Let me do one thing.
+
+Let me right here so that you can understand it better.
+
+Central purchase.
+
+Symptoms such as exhaustion.
+
+See what in central purchasing system, what happens.
+
+Example by phone.
+
+Purchasing automation is essential.
+
+That same.
+
+And also.
+
+First.
+
+The first assignment.
+
+Here we do.
+
+When the same company and the same parties with the same client one.
+
+And this same purchasing automation one will be assigned to.
+
+When.
+
+And you see anybody's nomination for best general plan, right?
+
+So this is how the assignment will be.
+
+And coming to the central purchasing system.
+
+Coming to.
+
+The central purchasing system.
+
+I think one will be assigned to one, but two will be assigned to plan to purchase and three will be
+
+assigned to plan three.
+
+But here.
+
+Any purchasing orders will not be sent to any company.
+
+Okay.
+
+That is nothing but it.
+
+The central purchasing system.
+
+And here what happens in that central purchasing system.
+
+One chasing organization.
+
+Is the responsible.
+
+We plan to.
+
+Procure.
+
+Procurement.
+
+Of all the mines.
+
+The company.
+
+Purchasing.
+
+Purchasing is responsible to responsible procurement of all the plants in the company, which is nothing
+
+but a central purchasing system.
+
+And also another point is.
+
+Here.
+
+I will write it on
+
+one part.
+
+Chasing.
+
+To be assigned.
+
+The only one company.
+
+C c is nothing but company.
+
+But I could only shortcut one purchasing or to be assigned to only one company.
+
+CO one purchasing automation cannot be assigned to multiple conflicts.
+
+The system is won't allow you to the same purchasing organization will not be assigned to multiple companies.
+
+Only a single company will
+
+not.
+
+The company code can be.
+
+Assigned to multiple.
+
+But it is not okay.
+
+You understand your single purchasing organization.
+
+2% to one company.
+
+But a single company can be assigned to the multiple purchasing organizations.
+
+You understand it, right?
+
+So this is the central purchasing system.
+
+And also, one more thing I would like to know.
+
+These are the plants, right?
+
+So one plant
+
+and how many design goals?
+
+And Seb has same one chasing God.
+
+And how might
+
+you understand?
+
+One plant can help multiple purchasing organizations and the same purchasing automation can have multiple
+
+plants.
+
+It's not a problem.
+
+This is the point you need to understand during the assignment and during the configuration.
+
+You can understand it better because we are visualizing the system so you can understand it better.
+
+Just it is a theoretical.
+
+You will be having some little bit confusion.
+
+I'm coming to decentralization system.
+
+Each plant will be having its competition coordination to handle their procurements internally.
+
+Right.
+
+Coming to reference Purchasing organization in reference Choosing organization.
+
+He sent her.
+
+The transportation valuation is nothing but.
+
+Central this.
+
+Recently.
+
+Central Plus Central is nothing about the French partisan garbage here.
+
+What is the central one purchasing organization responsible for all the plans of the company?
+
+The central plan will be having its own purchasing organization to handle the procurement activities.
+
+Here.
+
+What we see is here like decentralize somehow 80% and is somehow 20%.
+
+See here, for example.
+
+Also the parties in co-ordination one will be sent to plant one using option two is assigned to plant
+
+two and purchasing automation.
+
+Three is assigned to plant three.
+
+This is nothing but a decentralized system.
+
+And one more thing is purchasing organization.
+
+For that says Zoom.
+
+We can take OC here.
+
+We can take reference purchasing automation as one of the three purchasing organizations, or else you
+
+can create another purchasing automation and it will be taken as a reference position about what can
+
+be possible.
+
+Just if you understand it, you can take purchasing automation one as a reference or else, but two
+
+as a reference for those purchasing operation.
+
+Three as a reference, for example, in the apartment.
+
+You are having some issue, some some water problem or something.
+
+It is having some ten flags.
+
+So in ten flags, we are not how to go to ten members to the management and tell this is the issue.
+
+We can take one of the member as a team leader in Ten Flags.
+
+One of the member, have it team leader and he will go and tell the management that this is the water
+
+problem we are having in flats.
+
+Can you do anything to solve the issue like that?
+
+He can talk to the management or else the management itself plays one leader that to to take care of
+
+the water, the needs of the ten flats and then he is the leader and he will be taken of the.
+
+You are having an issue.
+
+Just let me know.
+
+I will talk to the management like that.
+
+They can put in one representative, you understand?
+
+Joseph Yeah, we can take one of the parties automation as a reference or else you can go with the new
+
+information.
+
+That party's nomination for.
+
+As a reference, you can take anything.
+
+You can create new patches.
+
+Our you can take it as a reference purchasing, let's say here I'm taking one of the purchasing automation
+
+as a reference one as a reference
+
+to ten flats or ten flats or a water problem or maintenance problem.
+
+So really management to negotiate your stuff.
+
+So this is a problem we're having in flats to ten flats or you're not maintaining properly.
+
+Could you please try to solve the issue like that?
+
+You can ask others under the present to maintain.
+
+Yes, generally like a pristine quality, persistent like that.
+
+We're having some apartments go to some extent.
+
+You can go out and talk with the person.
+
+Then the person will talk to the management, like the owner of the building, apartment building.
+
+So this is how happens in safe systems.
+
+So I will take us there.
+
+It says the reference purchasing organisation.
+
+So now what we need to do is we need to assign this purchasing organisation one.
+
+I mean.
+
+See here.
+
+From here it is having I told you that it is having some center and center.
+
+See here each plan will be having individual purchasing organizations, but plan on plan to plan to
+
+acquire the same areas they want to buy from the same vendor.
+
+So we need to create one reference purchasing organization.
+
+So I taken purchasing one as the reference.
+
+And this purchasing organization needs to assign to the purchasing cognition.
+
+One part is amalgamation to purchase information.
+
+This is a reference.
+
+Okay.
+
+Do not confuse.
+
+Okay.
+
+We need to.
+
+So this reference purchasing.
+
+What is this AutoNation will do?
+
+This will negotiate with vendor.
+
+And he will maintain the contract.
+
+He will bind the contract.
+
+So when we assign this reference purchasing automation, when we create a contract with respect to this
+
+purchasing automation, any automation assigned to this reference can have the option to procure from
+
+the same end.
+
+Okay.
+
+You understand, right?
+
+Yeah.
+
+So then I will remove this as.
+
+And so this purchasing organization three does not have the option to procure from the contract because
+
+it not assigned to the reference purchasing organization, because it does not want any materials from
+
+the vendor.
+
+The same material OC.
+
+That is the purpose of this assignment.
+
+Reference to our purchasing information assignment.
+
+Okay.
+
+You got it right.
+
+What is the difference between Central?
+
+What is the difference between central purchasing system?
+
+And what is the reference purchasing obligation?
+
+See, most of the companies were using this central system because it have a better advantage.
+
+They will be buying from local vendors without any transportation charges because from Bangalore and
+
+buying and sent it to the channel.
+
+The transportation cost is more hundreds coming to nowadays.
+
+The petrol cost is very high.
+
+Why they are going by.
+
+Right.
+
+So.
+
+So they will consider all these functionalities, some parameters from outside like quality and.
+
+They will choose the vendor.
+
+Okay.
+
+Yeah.
+
+And the centralized system also is having its own advantages and decentralized systems, which is having
+
+its own advantage.
+
+It is also each plant is procuring themselves only each plant is working by their own plant itself only
+
+because the plants are not.
+
+Yes.
+
+Yes.
+
+Right.
+
+Because it is having its own advantages.
+
+Right.
+
+Because why?
+
+We are going buy from some other place, some way or something and take it to the bank or hydro.
+
+But why we are doing right.
+
+If you just getting a better quality and better price, then only we can make it because its transportation
+
+costs is very high.
+
+Right.
+
+So that is the reason this individual plant is procuring.
+
+They are maintaining their own purchasing department.
+
+That is that is of decentralization.
+
+You understand here why we are using reference purchasing information.
+
+Reference is used where our individual check by so group of people how a leader can live or negotiate
+
+use.
+
+So they are leader under law under Walmart responsible.
+
+Right.
+
+Right.
+
+See, my apartment shows contracts, the building, the buildings, the building, and maybe each department
+
+and each will be having individual press teams.
+
+So question one will negotiate just that will be going towards the building.
+
+One, if the President to negotiate just a building.
+
+Two Right.
+
+So that is how we'll be.
+
+It will be okay.
+
+And we are and also we are having another purchasing organization that is not having any impact on anything
+
+or just what is standard, but is not standard purchasing.
+
+Organization.
+
+Standard purchasing organization.
+
+Look at what it means.
+
+It is used to create automatic purchase order creation.
+
+We have some concepts, okay?
+
+We have some automatic people creations.
+
+Yuki, you are the end user, right?
+
+You are creating manually the purchase order.
+
+If your system wants to create the view automatically from PR, we use the standard purchasing automation.
+
+And also we have some other concepts like special procurements, consignment by plane, and also stock
+
+transfers.
+
+These types of concept, we use this standard purchasing automation and stock transfer right during
+
+the period of time we use the standard purchasing mortgage.
+
+Why?
+
+Because it simply say we're having a four partisan organizations.
+
+One of them one of them make it as a primary.
+
+OC OC One of the pathogens we use regularly that touches on regulation will procure some kind of special
+
+procurements, stock transfers, this kind of processor that we use some standard purchase information,
+
+which is nothing but a standard.
+
+I will tell you, during the creation of those special procurements and automatic proclamations, I
+
+will tell you about this purchasing operation that says we are having some standard purchase information.
+
+It will be used in automatic creation of pools and some special procurements.
+
+Okay, let's assume like this.
+
+Okay.
+
+I will explain about this in detail.
+
+While we are running some transactions, a business transactions.
+
+So this is how the organizational structure will be here.
+
+We will create a lot of the hour whenever everyone asks, like whenever what is the structure?
+
+When they ask, you need to tell.
+
+Like we will create plan, which is information and storage location.
+
+Do not tell client I'm in company company code, controlling data.
+
+All other things do not care like that.
+
+Whenever they ask what is the structure you need to tell?
+
+That is information plans, total location that and let let me tell you whenever and ask for a purchasing,
+
+we create a purchase organization and the purchase organization create a plan plan on the plan store
+
+locations.
+
+Yes.
+
+Not purchasing and purchasing coordination under plan.
+
+You will tell like this, we will define plan, storage location, and also we will define parties in
+
+the organization.
+
+That's it.
+
+It is not commander purchasing organization, but it's not coordination will be assigned to it, which
+
+is responsible to procurement needs.
+
+But store allocations come under the plan plan.
+
+And also under this purchasing organization.
+
+We will be having some parties groups look at certain groups are defined at client level.
+
+And can create purchasing documents for any purchasing information.
+
+The group of people who are responsible to take care of, take care of all the procurement activities
+
+of the materials and as purchasing groups are not assigned to any purchasing agency under the purchasing
+
+organization.
+
+There will be split split into some groups.
+
+For example, high value items will be taken off the one group.
+
+Low value items will be taken off by one group.
+
+Maybe they will be split based on their business.
+
+Maybe they will be segregate like some metal items will be take care of this group and some plastic
+
+items will be taken of this by this group.
+
+They would be split some groups under the organization.
+
+This purchasing cognition may be a single person or a group of people.
+
+It can be a single person.
+
+It can be a group of people.
+
+He is nothing but a buyer.
+
+Purchasing group is nothing but a buyer.
+
+He will go and buy the materials.
+
+That's it.
+
+Under the parties information, you understand what is purchasing group, but nothing but a single person.
+
+Or is a group of people who will take care of the will by buy the from the external sources under the
+
+purchase information, but it will not be assigned to any purchasing organization.
+
+It will be created at client level.
+
+Client level means when never understand client level means it will be eligible for any area under any
+
+plan, any company code.
+
+The person is going to create go and buy the materials.
+
+That's it.
+
+It is nothing but the client level.
+
+Then come on.
+
+The plant level means it is only responsible to particular plant.
+
+That is not plant level.
+
+Client means already tell you that client means it higher.
+
+Tata Group.
+
+If you create a data group level that's under that data group, we are having so many company calls
+
+Tata motors, Tata Steel, whatever the company.
+
+So client clients, you understand the client on this top corporate level.
+
+Okay.
+
+Any questions, Joseph?
+
+You understand or let me explain again.
+
+Let me let me just.
+
+Let me give you a small overview.
+
+Let me give a small overview so that after that, if you're having any questions, just let me see here.
+
+This is the structure of ACP PR client company.
+
+Quote, controlling area will be defined by people and purchasing organization.
+
+Plans toward a location will be defined by armed people, but using automation is nothing.
+
+But this is automation where it would be responsible to take care of all the procurement needs of the
+
+company codes followed by the plans followed by store relocations.
+
+And according to purchase, the organization will have some two types of purchasing systems.
+
+One is central purchasing and another one is the central purchase.
+
+What is the central purchasing?
+
+Central purchasing means a single purchasing organization will be assigned to this company code followed
+
+by the plans.
+
+So similar purchasing orders will be take care of procurement needs of all the plans under the company
+
+code, which is nothing but the central purchasing system and coming to the central purchasing systems
+
+purchasing.
+
+Each plan will be having an individual purchasing system which is not plan specific purchasing organization.
+
+We call it assembly.
+
+So it will be it will not be assigned to any company code.
+
+It will be assigned to yes, it is nothing but a plan specific, you can call it as a specific does
+
+nothing about it the central purchasing system.
+
+So it is having some advantages.
+
+I already told you about it.
+
+Yeah.
+
+And it is lot auto sector.
+
+This is nothing but a central purchasing.
+
+It is nothing but these central.
+
+Right.
+
+So if you assign this to multiple company, this is nothing but a cross company code purchasing organization.
+
+And one more thing, the reference purchasing organization.
+
+What do you mean by this reference purchasing organization?
+
+It will be negotiated with the actual vendors and they will create the contracts.
+
+And who are the responsible?
+
+Purchasing information is assigned to this reference purchasing organization.
+
+So that purchasing organization has the authorization to create the release orders.
+
+And then after purchasing ownership, we are having a small entity that is nothing, but it is not complete
+
+entity.
+
+It is a group of people or person, nothing but a buyer.
+
+We will buy the materials from the.
+
+External vendors.
+
+Many questions.
+
+No, no, no, no.

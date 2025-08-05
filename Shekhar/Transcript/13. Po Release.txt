@@ -1,0 +1,826 @@
+
+Lecture thumbnail
+27:36 / 27:36
+Okay.
+
+Today, we are going to discuss about the release procedure.
+
+Are able to hear my voice and are able to see my stream.
+
+Yeah.
+
+Yeah.
+
+Okay.
+
+Today we are going to discuss about the release procedure.
+
+Okay.
+
+Actually, this procedure means it is an electronic way of document.
+
+That is nothing.
+
+But all in all, rather than using manual signature.
+
+Right.
+
+We use the approval from the manager level.
+
+Right.
+
+It is kind of approval for the purchasing documents.
+
+Something like it is for recreation, but we are having different kinds of purchasing documents.
+
+Write, purchase, requisition, purchase order contracts like agreements, contracts, scheduling equipment.
+
+These kind of some purchasing documents will be available.
+
+But the most important release procedure we use for parties recreation purchase order.
+
+Mostly we use most of the cases we use.
+
+Participation in parties order.
+
+We also use in contracts as well, but mostly in the businesses.
+
+Use this participation and purchase order.
+
+Okay.
+
+For stimulus in participation, a purchase order.
+
+We are having two types of release procedures.
+
+One is without classification.
+
+So one is with classification and second one is without classification.
+
+In with classification we have a for it can be related at item level or header level.
+
+Okay.
+
+In which classification.
+
+And in the third classification, we are having only item level approval only.
+
+It doesn't have any higher level in the configuration, but with classification we having it can be
+
+related to Titan level or header level.
+
+It is only for parties vacation only, but parties order.
+
+It can be released only at header level only not at item level.
+
+Okay, you got it.
+
+Got it.
+
+It.
+
+Yeah.
+
+And this can be decided whether it is item level or header level.
+
+It can be decided at the earliest group level or else document level in both levels.
+
+We can maintain whether it is an item level or header level.
+
+Okay.
+
+How you guys understanding?
+
+Yeah.
+
+Yeah.
+
+Item level or header level.
+
+This can be decided.
+
+This can be decided at release group level or document type level.
+
+Most of the companies I mean, most of the businesses, they use only classification, okay?
+
+Because it has some flexibility with it can be go with item level or header level.
+
+That's why they're using this classification concept.
+
+Okay.
+
+And without classification, it is only available for purchase, recreation only.
+
+The third classification.
+
+Conscription will not be applicable for purchase order.
+
+It only applicable for purchase requisitions.
+
+It was.
+
+That requisition.
+
+Okay.
+
+I guess I understand what this means with the classification.
+
+This is also used solely for purchase acquisition of a.
+
+So sorry.
+
+Sorry.
+
+I didn't get to the point with the Subaru with bed classification and purchase requisition.
+
+Yeah.
+
+Okay.
+
+Yes.
+
+Whereas with classification means.
+
+Yeah, it's it's not a different budget a lot better with the classification is also is important.
+
+Yeah it's right it is also used in parts of the equation but with classification use it for either header
+
+level or item level is possible for participation.
+
+Okay.
+
+But we third class item level means we.
+
+Line item level means.
+
+See, in paper we can order not only a single emitter, light multiple materials, we can create a positive
+
+equation.
+
+So if you are going with header level means the entire pier will be approved by a single person.
+
+Other person, if it is item level means each item will be approved by other persons who are responsible
+
+to approve.
+
+They are.
+
+Having the authority to approve an item level, each item level.
+
+That is the difference between item level and header.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Yeah.
+
+In any doubt below.
+
+Yeah.
+
+And before only having item level, not having any item level approval, it only had petrol level.
+
+Why?
+
+Because I will tell you, during the business transaction we are doing it like while we are creating
+
+purchase order.
+
+I will tell you why we are using only header level, not at item level.
+
+Okay,
+
+let's come to the configuration.
+
+Okay, let's come to the configuration part we use to maintain the cab characteristics.
+
+Characteristics means what are the characters we need to maintain for the respect to release strategy.
+
+For example, let's say same classification.
+
+Let's read this.
+
+It's a definition for characteristics and classification characteristics.
+
+Describe the properties of the objects.
+
+The values of the six specify these properties like in characters.
+
+For example, let's say Zoom document type is one character.
+
+Okay.
+
+Value is one character, but purchasing group is one character.
+
+Plant is one character.
+
+Right?
+
+But choosing to augment having how many characters, for example, let's say it is having four, four
+
+characters.
+
+I mean, like document type is one character in that it is having a four figures character format is
+
+for Z and B we maintaining, right?
+
+Yeah.
+
+Hello, Bella.
+
+Yeah, yeah.
+
+We're having a document type as one character and value.
+
+For example, let's say if the metal what is greater than 50 K for example, less than or equal to 50
+
+K, It needs to be approved by the assistant manager.
+
+If it is greater than 50 K to one, it can be approved by manager.
+
+If it is greater than one, then it can.
+
+It will be approved by the purchasing manager like that.
+
+There will be hierarchy levels we maintain for the each character.
+
+Okay, you got it.
+
+So the price will be the value read.
+
+The value becomes the character for it.
+
+And partisan group.
+
+Who is the person responsible to procure this material will be one of the characters.
+
+Our plan can be one character.
+
+A purchasing organization can be a one character like that.
+
+We can maintain under the configuration level.
+
+Hello.
+
+Simple simply appreciate the approach I set up rather to people based on characters, but I really with
+
+a plot, whether it is the document I approach, whether it is a plan or whether it is a value which
+
+mostly most of the business will go with the value along with document type purchasing group plan,
+
+purchasing information.
+
+Most probably they use value also, because if it is a greater than 50 K to one, it's tend to be approved
+
+by.
+
+Particular 30 person.
+
+No need to again take it to the higher authority people.
+
+Right.
+
+If it is a low value, low value, then it can be approved by the like middle level or 30 person or
+
+something.
+
+If it is a very low value, it can be approved by the low level authority like that.
+
+They will maintain like that.
+
+Okay.
+
+You got it?
+
+Yeah.
+
+So basically, this is for the approval type.
+
+They are approval type characters.
+
+What are the characters we use?
+
+For example, if you if you take the price as a character, okay, it will be one of the characters
+
+or else if you want to take it as a document, we can take the document type as one of the characters.
+
+If it is a partisan group like that, we will take characteristics to A through the purchasing documents.
+
+Okay.
+
+Okay.
+
+So let's assume like this these oral characters purchasing document.
+
+I have value purchasing group plan.
+
+Purchasing organization.
+
+Okay.
+
+These are called characters.
+
+And we are defining so many characters under the configuration and we need to assign it to this one
+
+class.
+
+Okay.
+
+And because it zero four, we use it to create a character of characteristics and class.
+
+Class means we are assigning all the characters to the one class, which is nothing but a class like
+
+it is having a group of characteristics clumped together and form it.
+
+You got it right.
+
+We need to ask them what are the characters?
+
+We defined a layer to this particular class, and for this class we need to ascend 032 as a class 032
+
+means it is called release.
+
+Okay.
+
+You got it.
+
+That's not bad.
+
+First of all, we need to define one characteristics, right?
+
+Okay.
+
+And the Catholics, for example, let's say.
+
+What characteristics are available.
+
+One is document purchasing, group purchasing organization of value like that for characters available.
+
+These characters need to be assigned to the one class.
+
+Okay.
+
+But I generalization classy.
+
+So these four characters will be as classy.
+
+We got it right.
+
+We are sending these four characters to classy.
+
+And that lasted zero 3 to 0 three two mins.
+
+Release release means release process, right?
+
+So that's why we're assigning zero three to the decode we use to create this class is called zero.
+
+Okay.
+
+After that we need to define when release group release group will be assigned to the class.
+
+Okay.
+
+Let me take.
+
+It is group.
+
+In their central classy.
+
+Okay.
+
+So that means it is automatically sane to.
+
+Glass characteristics also, right?
+
+Yeah.
+
+Yeah.
+
+The little group assigned to class classes attend to characteristics.
+
+So characteristics.
+
+What are the characteristics we define?
+
+It will be applicable to religious group.
+
+Also, what is religious group means?
+
+Religious group means like the group of people who are responsible persons, group of persons responsible
+
+for releasing these purchasing documents with assent strategy, which is nothing but religious group.
+
+Under this religious group where having the released goods sorry, release codes, release codes means
+
+a process.
+
+Okay.
+
+We need to, as Cindy released quotes.
+
+Release codes means a process.
+
+Like I said, read assistant manager.
+
+Just like the.
+
+That's like phasing.
+
+Man, is it?
+
+But she hasn't had.
+
+Okay, let's assume like this.
+
+Okay.
+
+These are called release codes.
+
+Release codes are nothing but.
+
+It's a process like the individual person who is responsible to release the purchasing documents.
+
+Okay.
+
+These release codes will be assigned to this release group.
+
+What is the release group?
+
+The group of.
+
+Best possible positions to release the party's documents, which is nothing but release POC.
+
+And it is indicative.
+
+Release indicator means, for example, we created an purchasing document.
+
+So release procedure is applied, then it will be assigned to one respect to release person to release
+
+the parties involvement.
+
+Right.
+
+So if he releases the document, then the status will be stored as R, which is nothing but release.
+
+Okay.
+
+If it is not released, it shows as the status for block.
+
+You got it.
+
+This is called release indicator.
+
+And the next one is called release strategy.
+
+We need to define the release strategy for the project.
+
+I will show you in during the configuration so that you can understand it better for the release procedure.
+
+Okay.
+
+You got it right under the plan people want.
+
+Paradox of envy.
+
+If the prize value is less than adequate, then it needs to be approved by assistant manager under plan
+
+DP for document attendee.
+
+If the price is greater than 50 K to one lakh, then it needs to be approved by assistant manager and
+
+purchasing manager.
+
+The levels will be created like this.
+
+Okay, we got it now.
+
+How the characteristics will be created.
+
+These are called characters.
+
+Document type is one character.
+
+Plant is one character.
+
+Val is one character.
+
+Like that we can maintain the number of characters which are available in purchase recreation, like
+
+quantity purchasing group purchasing organization.
+
+We can take any character.
+
+Okay, These are called characters.
+
+You got it right.
+
+What is characteristics means?
+
+After that, we need to send all these characters to one class.
+
+And also we need to them all these.
+
+Release codes for approvals to release group and vaccine, both class and this release group.
+
+Okay, you got it right.
+
+How the configuration is created.
+
+Do you have any questions?
+
+What are we listening to?
+
+Because, I mean, where do we release indicators, right?
+
+Release indicators means we created one purchasing document like Guatemala.
+
+Okay.
+
+Okay.
+
+Okay.
+
+From parties in government created, for example, people created.
+
+It is greater than all.
+
+Now.
+
+How many persons will be triggered?
+
+These three persons, Right.
+
+Yeah.
+
+No.
+
+About
+
+whenever the person is improving, then only the second person will be approved.
+
+Okay.
+
+After that, the purchasing will be approved.
+
+Right.
+
+Yeah, they know the pillow is not approved, then the status will be showing.
+
+SB block OC OC
+
+is not approved till now.
+
+It is showing SB when assistant manager is approved.
+
+Still it is in only in block or state only OC.
+
+Then partisan lenses approved.
+
+It is still it is in lock step whenever the last approval partisan has disappeared.
+
+The status will be changed to release then only the partisan document will be sent to the vendor.
+
+You got it.
+
+How?
+
+The release indicator is different.
+
+Why?
+
+Yeah.
+
+Okay.
+
+Okay.
+
+It is showing the status of the document purchasing document, whether it is they release it or not.
+
+We can see the status in patches document.
+
+It is called release indicator.
+
+Okay.
+
+You got it now.
+
+Yeah.
+
+Yeah.
+
+Tell me.
+
+Yeah.
+
+Yeah.
+
+No.
+
+When configuration manager, character and manager position manager in all in all these three things
+
+will be doing in the release group or.
+
+We will create the release codes initially during the ascent after women during the assignment itself,
+
+we will assign these 3% to the release.
+
+While we are doing the configuration, you will easily understand how because it is a notepad write
+
+you didn't understand clearly.
+
+When we do the configuration, we can understand it better.
+
+So let's us go with the conversation.
+
+We share my screen.
+
+She complained.
+
+SB Adil.
+
+Deckard.
+
+Okay.
+
+We are having results for participation and also for purchase order, right?
+
+Let us do for the purchase order at a level approval.
+
+You go to a materials management.
+
+But choosing.
+
+But his order.
+
+And that this release procedure for purchase orders.
+
+But you need two different characteristics.
+
+After that, we need to assent to the release clause.
+
+And it does create characteristics.
+
+For example, people understood.
+
+Document type.
+
+Dr..
+
+What is our contract?
+
+DMV, right?
+
+Concrete.
+
+Description.
+
+You want to step?
+
+Okay.
+
+But then you go to additional data.
+
+Meaning to maintain the table name.
+
+For purchase order.
+
+We have a table called equal.
+
+But initially we need to maintain sea communication for the communication.
+
+We need to maintain sea level.
+
+For many time.
+
+The field name was B as B.
+
+But then in this procedure we use the document type.
+
+The feeling was bcr.
+
+And that.
+
+Format data taken from a dictionary.
+
+Continue.
+
+If you see basic data, we only enter the.
+
+Description like story description, but it's automatically taking the number of characters from the
+
+backend system.
+
+And go to.
+
+Values.
+
+That here we need to give the.
+
+Character value.
+
+What is our document type D and B, Right.
+
+D and B?
+
+BMB means.
+
+Delfi.
+
+We will.
+
+Descriptions are too complicated value.
+
+They had given you no concept.
+
+We just discussed the concept.
+
+So we created one character for documentarian.
+
+Let me remove this.
+
+To see actress we maintain clear.
+
+Yeah.
+
+That document we use, we set.
+
+I don't understanding that.
+
+Hello?
+
+Yeah.
+
+Yeah.
+
+These things are the standard.
+
+I mean, are they standard to be set in?
+
+Yeah, these are standard.
+
+Yeah, these are standard.
+
+Okay.
+
+And let's take people value also.
+
+We will value.
+
+It's great people value.
+
+Let us mention also Delphi so that we easily understand.
+
+In between the concrete.
+
+Go to values.
+
+We need to give the description.
+
+Right.
+
+There is the.
+
+People value and trust.
+
+It's mandatory.
+
+You can't.
+
+Hmm.
+
+The additional data.
+
+I think it's not mandatory, actually.
+
+Let us create, again, characteristics.
+
+Create additional data, not give the payroll table name as equal, but value Z and meet W.
+
+Okay.
+
+And that's former data taken from a dictionary if you go for basic data one.
+
+You can see it.
+
+What is currency?
+
+I am a right.
+
+And go to the values tab.
+
+Here.
+
+We need to give the.
+
+Values.
+
+Less than or equal to 50.
+
+50,000.
+
+Or 50,000.
+
+Second.s

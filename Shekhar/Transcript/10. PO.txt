@@ -1,0 +1,917 @@
+Yeah.
+
+Today we are going to discuss about a purchase order.
+
+Okay, purchase order is in the cycle.
+
+We created participation and the quotation and also we maintain the vendor quotation in the quotation
+
+after the request for quotation, we need to maintain the vendor quotation, right?
+
+Then we done the comparison and we selected one number.
+
+Now we are going to create a purchase order based on the situation created, right?
+
+What are the requirements they want?
+
+We need the order to demand.
+
+Today we are going to discuss the purchase order.
+
+It is an outgoing document and it's a legal document sent to the vendor to procure the material.
+
+Okay.
+
+But it means okay.
+
+And just like parties requisition and request for quotation, we need to define the number and purchase
+
+orders and we need to assign the number ranges to document that.
+
+What is the standard argument for participation?
+
+And then the third part is also the same document that will be used for standard document type.
+
+And okay, because of its attached server, we need to copy from standard entry and we maintain Z and
+
+B are weighing in real time.
+
+If it's a test server, right, if anybody uses PCR, then we can go with the another alphabet.
+
+It's not an issue in the test server, but in real time we use only Z are for creating customized document
+
+types.
+
+Okay.
+
+Okay.
+
+Let me take you to the configuration.
+
+Let me share my screen.
+
+Okay.
+
+They are able to see on screen.
+
+Yeah.
+
+Yeah.
+
+This battle.
+
+Three different subject materials management, but chasing an opportunity.
+
+We need to go to purchase order here.
+
+We need to define the number and we need to send it to the document.
+
+Okay.
+
+I'll go to the number.
+
+Yes.
+
+Let's go and see what are the instruments available.
+
+So let's check.
+
+Can see.
+
+Different kind of number in this world available.
+
+From this, we can take one number and go back.
+
+Let's see.
+
+You go to all of you.
+
+Select a phone number.
+
+Make it in ascending order.
+
+Let's see, what is the last number they use as used?
+
+And those are the nine cities.
+
+Like 90,000.
+
+So let's take it another.
+
+One nine series thousand.
+
+Let's take nine cities.
+
+Thousand one.
+
+Some might think a button.
+
+Extra symbol.
+
+Let's be, baby.
+
+I was the one.
+
+Oh, 2000.
+
+Okay, So I mean this.
+
+We see.
+
+Then given the the number of DP Slovak.
+
+Photo document apps.
+
+The fundamental.
+
+I think some years it was locked.
+
+When you get the lock on entry.
+
+You come and go to a central transaction as central slasher music is opening in your window as central.
+
+What is a user I.D.?
+
+You need to paste it here and then use it to the list.
+
+Just select all these entries you can't delete.
+
+Bones.
+
+Then the blog entries will be deleted.
+
+No.
+
+Will close this window again.
+
+Go to the front of impact.
+
+The document will be shown here.
+
+What is the standard document for us?
+
+I need it and I need to search for standard document.
+
+The seeds the NBA already created by some other person that some other person is using the NBA.
+
+So let us create the demand.
+
+But in real time, we use the Z or Y Plus preferences Z and in Z and second preferences.
+
+But in the end, that.
+
+Just copy the standard one click on copy as.
+
+Make it as the DMV.
+
+They'll keep it as a distraction.
+
+They'll see standard people.
+
+Recommended.
+
+I'll be on.
+
+A little different this year.
+
+You can see Sarah at the end.
+
+Let's go to the number range in trouble.
+
+Let's take it.
+
+Action on an internal number is what is a number is we created the API.
+
+We need to assign it here.
+
+We don't declare an actual number and keep it as blank.
+
+So I already told you about this right item.
+
+And if it is a ten, it will be looping like ten plus 1020.
+
+Next item, 34.
+
+Okay.
+
+He said.
+
+The council.
+
+Get it.
+
+It's not ours.
+
+So go to request and select others for this.
+
+Ours.
+
+Then she automatism is.
+
+Not going to be confined in.
+
+So the document that was defined and also the number range was estimate range, so defined as include
+
+this document.
+
+So the configuration was completed
+
+for parties orders, variation of purchase order.
+
+We use the transaction code code and we can do one slight change.
+
+They use the 20 data and.
+
+But this play.
+
+We use the money.
+
+20 trillion.
+
+Family stuff.
+
+Purchase orders.
+
+List of diverse orders.
+
+We use the decor and meet to L or semi to L by vendor.
+
+If you want to see the material of the stock purchase order, we can go with them to and.
+
+Okay.
+
+Now let's go and create purchase order, slash and kill this current window open in the same window.
+
+21 And that.
+
+Just like budgetary creation, it would be having some dark matter.
+
+Please select Z and B.
+
+Okay.
+
+What are the requirements we created?
+
+Let's see.
+
+Slash 25 here.
+
+You see the list of participation side?
+
+If I get to see Mr. Ford Expedition or this other purchasing group, let us get the plan.
+
+But this plant, how many parties equations are available to be displayed to connect skew.
+
+We created.
+
+How many parties?
+
+Elections?
+
+Three parties.
+
+Requisitions.
+
+Size varies by cities one.
+
+Hello, Gabrielle.
+
+Yeah, I'm actually my.
+
+Go, go, go, go.
+
+Okay.
+
+Okay.
+
+Let me share again.
+
+And MI5 is used to.
+
+See the list of budget requisition, giving the input ASP and click on Execute.
+
+It shows the list of participations here.
+
+Also, we can go to the display.
+
+Also, if you see the first acquisition, please, you can see Red spot.
+
+But as always, God, let us go for peace.
+
+Let us take the Christian requirement.
+
+Click, double click on the of the question number.
+
+Automatically it will take us to 53 and transaction and it will display the purchase requisition.
+
+When you double click on this purchase request number.
+
+Can see, right?
+
+This.
+
+We created two line items.
+
+One is to always fold and second one is piston.
+
+Piston?
+
+Yeah.
+
+Okay.
+
+Right.
+
+Let.
+
+Let us take these.
+
+Okay.
+
+And let us assume like this, but all means bold and piston.
+
+That acquisition was created by.
+
+Okay.
+
+And we created one request for quotation to vendors.
+
+And Bilal is the vendor is delivering these two materials to our plan.
+
+Let us assume like this.
+
+Okay.
+
+Yeah.
+
+Let us assume we created one request for quotation to vendors.
+
+Another Bilal and shaker in three vendors.
+
+The price was very cheap when compared to other vendors, but it is giving a better price.
+
+And also the quality of the product is very good on the market.
+
+We selected below.
+
+So after that we will need to create info record rate.
+
+What does his what are his price and what is the minimum dress he needs to deliver today?
+
+Like that, we need to define the record.
+
+Let us create it first.
+
+Okay.
+
+Let me.
+
+What is the code we use to create the info record?
+
+So.
+
+Yeah.
+
+MI 11.
+
+Any Lebanese that could be used to create info record in political into.
+
+What is the vendor's?
+
+La Bella, which is in Bella.
+
+That is every time.
+
+It is a one time job, actually.
+
+Every time we do not process the RFQ on quotation, once we choose them, the vendor then automatically
+
+after a year we directly create a purchase order seven times.
+
+Let us take the out based on the company code.
+
+I'm taking the list of vendors.
+
+Let's look at the villa.
+
+Villa
+
+and what is the meter number picture?
+
+It's done on both.
+
+Both.
+
+Right.
+
+We are preparing both.
+
+But sport.
+
+But his organization is a partisan organization.
+
+De.
+
+And the evil.
+
+BNP.
+
+Okay.
+
+And in particular, we need to give the vendor material number, which is information and client.
+
+Click on Enter.
+
+Yeah.
+
+And here we need to give the what is the order unit?
+
+What is the unit of conversion you want to maintain like that.
+
+We need to maintain it here from the, from this vendor how we are going to procure.
+
+What is the other unit like that We need to maintain it here.
+
+If you go to the metal masher, you can see also zero three.
+
+Then it is boxed.
+
+That's why it is automatically taken as box counter.
+
+If you don't want to buy as box.
+
+If you want to use any other alternate unit of measure, if you maintain it here, if you want to procure
+
+bags, you can maintain it here as if you are procuring bags from this vendor only.
+
+Okay, got it.
+
+Okay.
+
+So let us take a box
+
+enclosing this one box equal to ten balls in.
+
+What is the minimum delivery time required for the vendor?
+
+Let's take us three days.
+
+Standard quantity.
+
+Let's say 2003 and 2000.
+
+What is the price?
+
+What is the price of the material?
+
+It's the.
+
+In that you.
+
+I can do this for gold.
+
+Right.
+
+Okay.
+
+The vendor is
+
+giving us for.
+
+₹9
+
+the next night.
+
+Only ₹500 in the master.
+
+Okay, let's take nine.
+
+Okay.
+
+Let us take a trip.
+
+Let's take a trapeze for each dollar.
+
+He was giving a trapeze.
+
+The commander can enter and keep on is the record.
+
+God save.
+
+And letters in record for tolerance board completed.
+
+Okay.
+
+Now, let us take.
+
+Just look we created for the.
+
+The relationship between the material and the vendor combination.
+
+We created an info record, right?
+
+But they told me.
+
+Now we are going to create with Piston.
+
+Actually, I'm 11.
+
+Then there is blood.
+
+And what is the material number here?
+
+They didn't live here in one series or three and purchasing DLP.
+
+Click on Enter.
+
+And for this patient, what is the artery in it we use generally?
+
+Let's go and check in, Metal master.
+
+So let's go and see Slash where I'm going zero three to display the one metal mask.
+
+Right.
+
+I'm giving the metal number.
+
+Go and check.
+
+Under plan DLP one.
+
+And this that is only available for the additional data.
+
+There is no alternative maintained for this material.
+
+Pakistan and Pakistan.
+
+If you want to maintain any other alternate unit, then slash in and go to.
+
+Is that the code?
+
+In school.
+
+One chick.
+
+It does maintain it also of a box or unit as box.
+
+Click on enter
+
+that one box equal to.
+
+Two pistons we maintain in one, but we maintain it.
+
+Two pistons you can enter.
+
+The concept.
+
+Okay.
+
+Let's close this thing.
+
+No matter.
+
+Mushroom.
+
+Go to record.
+
+Please maintain this box.
+
+Automatically taken one box equal to two inches.
+
+Click on and Trigger.
+
+Mendes.
+
+He required only three days.
+
+Standard quantity under 800.
+
+And in metro Atlanta, we can see right ₹500 for each person the vendor is giving for for eight eight.
+
+But each.
+
+Lop sided issuing winner take each.
+
+What about chasing data that one needs?
+
+Okay.
+
+That of lineage.
+
+We are maintaining for ₹80, but not for each box.
+
+I don't understand it.
+
+Click on sale.
+
+Sale.
+
+Click on enters.
+
+You can save.
+
+Let us check.
+
+And me.
+
+I think I did not check for the 12 inch board.
+
+Let us take the audience board.
+
+We have created chicken for 12 inch board.
+
+But using our data.
+
+I think we maintain one box.
+
+Okay.
+
+Okay.
+
+So we need to maintain one one each.
+
+Okay.
+
+Yeah.
+
+Just go for general data.
+
+Change it.
+
+Look per one box.
+
+We are having how many boards?
+
+We maintain ten boards.
+
+As.
+
+One box of gluten is just right.
+
+Yeah.
+
+Means.
+
+One box.
+
+How much fries it is now.
+
+₹80.
+
+Right.
+
+Let us change into 82 conditions.
+
+Okay.
+
+Go to conditions in record.
+
+You can see the value from one to.
+
+You can choose.
+
+Here, we can change it to 80 degrees.
+
+They consider.
+
+Look.
+
+The chick.
+
+What about chasing data?
+
+I can see a database, right?
+
+Yeah.
+
+A database where we maintain the info record for both the materials.
+
+Let's close this.
+
+Let us see how it works in purchase order for the creation of purchase order.
+
+What is the P code?
+
+Fewer people commute on day one, an immediate one.
+
+Click on Enter.
+
+Need to select.
+
+They document.
+
+B and B, right.
+
+BMB, lc Evo.
+
+At here.
+
+We don't have to give the offender actually that here.
+
+We need to give the offender number.
+
+What is the vendor?
+
+Bilal Right.
+
+Bilal Yeah.
+
+DeMarte.
+
+DeMarte.
+
+Clinton.
+
+Bella and Bella.
+
+But as the purchasing of the LP and the LPO and purchasing group DP's and DPD and company Go demote,
+
+demote, not adhere.
+
+What is the material you want to procure and how much quantity you need?
+
+What is the price of it from which brand you'll want to procure that it will be having some details,
+
+right?
+
+Okay.
+
+Let us go with reality created by.
+
+Right.
+
+Based on that, we can create the purchase order number.
+
+If you scroll to the right side.
+
+You can see the party's requisition
+
+and requisition item.
+
+What is the pier number five?
+
+It's one.
+
+Right.
+
+Let us copy this pier number.
+
+I'm.
+
+Give it here.
+
+What is the item?
+
+How many items are there?
+
+Ten.
+
+22 items.
+
+Ten.
+
+And simply a number and line item is 21.
+
+Click on Enter to
+
+see how it is going to take it.
+
+It is admirable.
+
+Taken Baldwin's bold piston from the Berkshires requisition.
+
+Yet here you can see 508.
+
+Right.
+
+But here you can see 50 boxes this way.
+
+Each box contain continued strength because we maintain our unit as box, right?
+
+Yeah.
+
+Yeah.
+
+So from peer to peer were converted into boxes.
+
+So one box equal ten, which is Right.
+
+So 100, but an equal 50 so it can into 50 box.
+
+And we made system one box equal to two.
+
+Eat just right.
+
+So we ordered 200 Eastman's 200 by two equal to 100.
+
+100.
+
+Okay.
+
+You've got converted, right.
+
+You understand.
+
+But yeah.
+
+Yeah.
+
+This conversion where we got maintained in info record, right.
+
+Info record we maintained.
+
+At one box.
+
+How much price?
+
+A therapist at Ruby's.
+
+And also we maintain the record that one meets water quality.
+
+It is automatically taken from the info record.
+
+We didn't maintain any prices in people, right?
+
+Yeah.
+
+Yeah.
+
+That's why we are using the info record for the prices.
+
+If I am an user, I do not remember all the prices of the materials which are procuring from vendors.
+
+Right.
+
+So if you maintain the info record, then the price will be automatically taken from the info record
+
+automatically.
+
+You got it.
+
+Why?
+
+We are using it to record.
+
+Yeah.
+
+Yeah.
+
+If you want to see the info record number generator if you go to scroll to Right said you can see the
+
+info record number eight nine.
+
+This is the info record number we created.
+
+Okay.
+
+If you want to see the record number, at least double click papers in the writing to record eight eight.
+
+But this vendor or this material.
+
+Kinsey, Right.
+
+Back.
+
+And if you see the info, record mine.
+
+It insures for a therapist per each piston.
+
+Okay, You got it.
+
+Okay.
+
+That's why we are using the info record to know the prices.
+
+I mean to maintain the prices of the material for their aspect to vendor for the respective validity
+
+period.
+
+And also
+
+it will be showing the what is the three details available here.
+
+One is header data, just like participation.
+
+And second one is item and item.
+
+It is item details then item details.
+
+Okay.
+
+Here we can see the metadata
+
+in the metadata.
+
+What is the control group for it?
+
+Right.
+
+And what is the quantity?
+
+So you order.
+
+Ladies, could you please rejoin again in this session?
+
+I think it is going to end.
+
+Yeah.

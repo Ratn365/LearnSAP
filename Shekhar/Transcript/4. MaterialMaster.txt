@@ -1,0 +1,2272 @@
+
+In this today's session, we will discuss about the master data concept and the company.
+
+They need to run some transactions for their business.
+
+So in order to run the transactions, they must need to have the master data.
+
+Okay, so what type of what type of master data that the business required that the companies required
+
+NMM as part of SD and all of the things in coming to a part.
+
+We have some kind of master data like material, master data, vendor, master data, some purchase
+
+info record on the source list.
+
+Let me note it so that we can see.
+
+In a module.
+
+We have a material master data.
+
+Then the master data.
+
+And but choosing for the code.
+
+Record purchasing for record stores list.
+
+And then ServiceMaster data.
+
+And then we have some code amendment as it was more data.
+
+Mostly these file Marshall letters would be used by most of the organizations displayed.
+
+So this court arrangement will be used.
+
+Like many cases, they use this concept called arraignment.
+
+For example, this will be used by the 100%, 100% micro Marshall data.
+
+Marshall Data will be available in every organization that's come under in for the courts and service
+
+Marshall data.
+
+It will be usable around 80% of organizations coming to court arraignment like 5% or 10%.
+
+That's it.
+
+So it doesn't have much importance like a quarter, and we will discuss it also in the classes.
+
+First, let's look into this significance of metal master data today.
+
+After that, we will discuss about data mining master data.
+
+So today we are going to discuss about the master data, see metadata.
+
+It means like it will handle all the materials in metal match data, like what type of data we maintain
+
+is like what is the name of the material and what is a material number.
+
+Every material is some unique number assigned to it.
+
+What is a material number and what is the unit of measure?
+
+For example, if we go with the food processing virus, it will be calculated in cases.
+
+For example, if you go on by a pen or pencil, it will be calculated in each case.
+
+But the metal can be measured in pounds.
+
+You have some unit of measures that also we will maintain the master data under some of the data.
+
+Also, we will maintain that I will show you in step and I will explain you about that.
+
+And in Metal Master Data, how many metal types?
+
+OC Metal types is nothing but like raw materials, finished materials, semi-finished materials.
+
+These are called metal types.
+
+And also we will maintain some hierarchies will be covered in metal master.
+
+We maintain a hierarchy like.
+
+I like, you know, material type.
+
+So bare metal type material group.
+
+And then we will maintain.
+
+This is how we maintain.
+
+The higher level.
+
+So what is the matter type?
+
+We all discussed about that, whether it is the raw material, raw material.
+
+It's been used to finish material.
+
+Yes.
+
+Mean, I think you already have.
+
+And all is about the same definition.
+
+Some trading goods, some non value stocks, etc..
+
+This is we call this raw materials.
+
+So the based on the business also diagram, it is unfinished parts.
+
+Maybe that is for example, if you go with the car manufacturing companies, the car will be the final
+
+product, but for its parameters will be the engines, piston core ties, the steel body glasses.
+
+These are common parameters, right?
+
+But if you go to the engine manufacturing company, the final product will be the engine.
+
+Its diameters will be like piston inlet valves.
+
+These are come under the parameters.
+
+So based on the business, also the meters, maybe bearings do not count.
+
+Do not fix it.
+
+Like the engine means it is automated.
+
+If it is an engine manufactured company, the final product will be the engine.
+
+If it is a car manufacturing company, the engine will be the raw material.
+
+Okay.
+
+Yeah, I'm coming to material groups.
+
+It is also, say, based on the business, they will be grouped together, the materials based on their
+
+attributes.
+
+Like, for example, there will be club together.
+
+All the mechanical items come under one group.
+
+All the collectors come under one meter of group.
+
+Okay?
+
+Or else they will go with all the metal items as the one group, all the plastic items as a one metal
+
+based on their business requirement, they will create the metal groups.
+
+For example, let us go with the mechanical items because we are doing the project of a Honda motorcycle.
+
+So it's a manufacturing company, of course.
+
+So let's go with this mechanical items, something like the items that say something like this.
+
+It's a for a business purpose.
+
+Let's assume it's coming to material.
+
+So under this metal group, under these mechanical items for how some items like shop shop come under
+
+mechanical item and shop piston gear level.
+
+Except these are common mechanical items when it comes to electrical items like cables, cables, small
+
+small bulbs, bulbs.
+
+So how can cause we have some LEDs, write the articles like some kind of engine spark this kind of
+
+electrical wires.
+
+What are the cables we use?
+
+These are common electrical items.
+
+Okay, Under this metal groups also we create the materials.
+
+Okay, This is a higher level we made.
+
+In Middlemarch.
+
+It is just a theoretical, theoretical part of Metro data.
+
+Let us go into the SEP and we will do the configuration and we will create the materials.
+
+So that me go logging into the Sep.
+
+Okay, So for every configuration, we have only a single transaction that is SPRO in that we need to
+
+go to the ACP Reference Agency.
+
+Now we are going to.
+
+Do the configuration part of metal.
+
+So if we want to create the materials, what are the requirements we need see here?
+
+What are the requirements you need?
+
+We need to have a material number.
+
+Every time you create the material, it will be having some material number assigned to it.
+
+So we need to have some material number, which so and as it will be, how it needs to have some length,
+
+whether it is a four digit code, whether it is a code, whether it's a ten digit code, if you go with
+
+the item item or debit card or credit card and some 16 digits or something.
+
+So every thing have some length of it, right?
+
+You need to define that length.
+
+After that, we need to define the number range.
+
+That means you want the matrix from 0 to 100 or from 0 to 1000 or 0 to 10000.
+
+What are the metals range?
+
+You need to maintain that.
+
+After that, we need to define the metal types in business, whether they were using the raw materials,
+
+finished materials and finished.
+
+We need to define them.
+
+After that, we need to define the material group.
+
+And we need to assign all of them for the configuration part, and then we will create the material.
+
+No, It is a path for the Marshall Plan for creation.
+
+See here.
+
+We need to go for logistic chain.
+
+Here you can see logic, gender.
+
+Go to that logic, gender.
+
+And here you can see the metal master go to the metal master.
+
+After that, you can see the basic settings go to the basic settings.
+
+Here.
+
+It has an defined output format for mental numbers.
+
+We can't execute
+
+here for easy system.
+
+The maximum length is 18 digits only.
+
+The maximum length ACP provided is 18 digits.
+
+If you want to change the length also, you can change it.
+
+It's not a problem, but based on the business requirement, we change in the.
+
+See the business is using the ten digit number for material only then we will change it to the ten OC
+
+and yeah, OC Maxim 18.
+
+But coming to us for HANA, the SAP is getting advanced now.
+
+Coming to us for Hana it's material.
+
+And this 40 to 40, it increased to 40.
+
+It can maintain up to 46 OC So do not disturb anything because the seams are really bad.
+
+So many people, so do not disturb anything.
+
+The standard configuration if you want.
+
+I want to let you know how we maintain the length of it.
+
+OC do not disturb anything.
+
+I will go back.
+
+If you want to maintain you can change OC.
+
+It's not a problem.
+
+It's a business requires the client to maintain the length of the material is only ten digits.
+
+Then you go with you go on, maintain your S10, go back.
+
+So we do not we do not change anything to come back.
+
+If you want, you can make these changes.
+
+After that, we need to maintain some company codes for materials management.
+
+You can see maintain company codes for metals management.
+
+Click on Execute.
+
+Yeah.
+
+What is our company code here?
+
+It's not like these are called period indicators.
+
+These are called period indicators.
+
+It will be changed.
+
+For example, it is around 20, 22/4 month.
+
+Right.
+
+So we need to change that.
+
+We have a separate transaction.
+
+I will explain that.
+
+How to change this period.
+
+Go back now.
+
+Go to medieval times.
+
+And here you can see the fine attributes of material types You can.
+
+It is nothing but the metal type that raw materials finish product.
+
+How different kind of materials like the ACP are already given the standard material here.
+
+For raw materials, its code is artwork for finished material.
+
+Its code is.
+
+If I see me finish these.
+
+And you can see.
+
+It shall be.
+
+See me finish work and I can go without a hitch.
+
+It means if I see you go with a finished product, it is a Fiat, as if we already provided some standard
+
+configuration.
+
+Someone has changed up the description.
+
+Change the description.
+
+Okay.
+
+Someone has put their name over there.
+
+So I changed it.
+
+That's it.
+
+Okay.
+
+That is the finish goods.
+
+So these are our standard material types that ACP already had.
+
+But in real time we use the same standard metal types.
+
+Most of the cases we use, if they need any changes in the existing standard, they will go with the
+
+customized metal types.
+
+It is nothing, but they simply copy the standard and they will maintain in front of the code as Z.
+
+That's it.
+
+If you see, for example, if you go and maintain customization for material, for example, which is
+
+the material.
+
+Okay.
+
+Select.
+
+These are material that.
+
+Here you can see the copy button.
+
+Click on copy.
+
+And you can hear change the last time.
+
+We already copied some plans and we maintain some new plant code as the same way we will maintain our
+
+example I maintaining a Z.
+
+This is a code.
+
+Yes.
+
+I've been maintenance on the committee and.
+
+See is copying now.
+
+I've been in this cockpit.
+
+Why we we can use arrowheads metal type.
+
+So it's not a problem.
+
+Why we are doing this means the same as the standard metal that will be used by so many users in this
+
+server.
+
+So if they do any changes in the standard, so it will impact our process as well.
+
+So that is a reason why we are customizing this.
+
+Simply copying it and put Z as in front of it.
+
+If you see in real time, also if you see an Z wad in a safe system, that means someone has customized
+
+that.
+
+Metal type or whether it is anything in CEP.
+
+If you see it, start with Z.
+
+That means he has done some customization there.
+
+You must remember that OC.
+
+That he makes some screen level change outs or anything.
+
+If they want to do some customization activity like the standard behavior is not satisfying the business,
+
+then they will go and do the customizations.
+
+Okay.
+
+You understand, Joseph?
+
+If the standard functionality is not satisfying the client business process, then they will do the
+
+customizations.
+
+And also it requires that every time if you do any customizations, you need to put Z in front of it.
+
+Z Because if anybody sees that, that means someone had done the customization over here so that they
+
+will easily identify because Z is not used as standard.
+
+If you see any standard names in the system, they do not start with Z.
+
+That's the reason why the ACP recommends you to maintain the Z in front of it.
+
+If you've done any customizations yourself.
+
+Yeah.
+
+Yes.
+
+So I copied out of his to zero.
+
+So this is our parameter on parameter.
+
+Now select this raw material and click on this quantity by value updating folder.
+
+Go to it.
+
+So many entries were copied because we already copied from existing.
+
+That is the reason so many entries were copied.
+
+The composition and composition and valuation Valuation.
+
+I already told you that.
+
+What is our valuation area planned?
+
+Right.
+
+So we need to maintain the plant as our valuation rates.
+
+So it is such for our valuation area, and especially here, you need to select quantity building and
+
+value updating.
+
+Why we are doing this?
+
+Because whenever you receive the material in your stores, the system needs to update the quantity.
+
+Along with their value elsewhere.
+
+Right.
+
+So if you check these boxes, then only it will update the quantity into every warehouse.
+
+Plant.
+
+Plant.
+
+That is the reason why we are checking it.
+
+If you do not check these, then the system won't allow you to update the quantity or value.
+
+Okay.
+
+That's the reason why you must check these boxes.
+
+See here.
+
+Quantity updating and Value update.
+
+Now see.
+
+And then select this zero and go to details.
+
+That means it is it is having some controls in this parameter type as well.
+
+See, here it is having some field difference.
+
+We have some configuration activity in the backend system, like what is the field difference and the
+
+screen reference.
+
+If you see if you're feeling anything, it would be some mandate receipts.
+
+If you see START fields will be available.
+
+Some will be optional fields.
+
+Some fields will be in display mode.
+
+We can't enter anything in that field.
+
+If you see zero, you can't maintain anything, right?
+
+It is in display mode.
+
+That means you can't.
+
+It is not in editable mode.
+
+And also you can see some fields are mandatory.
+
+Like if you're filling any forms or something in Google or something.
+
+Some fields are showing as mandatory start symbols, right.
+
+So that those controls can be maintained at field reference.
+
+I will show you that as well.
+
+Okay.
+
+This build is cross planned metal status.
+
+It means we can block this material type or as few kind of functionalities will be available.
+
+Blockade for procurement for approval release.
+
+This kind of metal status will be available so that we can maintain it.
+
+For example, I don't want this metal type needs to be used.
+
+Then I can come here and I will block this material.
+
+Metal type OC That is how the metal status we can maintain here.
+
+And also these are called views OC During the creation of material, we need to select some use.
+
+For example, if we are procuring the material, we need to have some purchasing views.
+
+If you are selling the materials, we need to maintain some data in sales views.
+
+Okay.
+
+So those views, what are the views you need?
+
+You need to select those views here.
+
+OC For example, parameter, we are purchasing the raw material from external sources.
+
+Then you need to have some purchasing data in metal master data.
+
+So you need to select the purchasing view here.
+
+If you want to maintain the material description, what is a unit of measure of it?
+
+You need to maintain that.
+
+You need to have some basic data view.
+
+OC So all these views are some standard functionality.
+
+Okay, do not make any changes.
+
+I want you to let you know what these user departments means.
+
+You need to select these views.
+
+What are the views you are required in this configuration?
+
+OC I'm coming to here Internal pay action or purchase orders.
+
+That this metal type is actually used for actual procurement or in-house manufacturing.
+
+You need to maintain here, for example, actual purchase orders.
+
+See here.
+
+No purchase orders allowed, but warning message issued or actual purchase allowed.
+
+If you are procuring from external sources, it will be giving some warning message like it is actual
+
+purchasing orders.
+
+It doesn't require any warning messages.
+
+We are simply procuring all the parameters from the actual sources.
+
+Then you can select us to purchase orders.
+
+If you select zero means it does not allow you to create the purchase orders.
+
+That is the control of it.
+
+And also same internal purchase orders as well.
+
+If you do any internal manufacturing in-house purchase orders, you can create or not you can maintain
+
+here.
+
+And also we'll be having the price controls.
+
+If you maintain here, it will be taken as by default during the creation of Metal Master.
+
+I will explain that.
+
+What is this price control?
+
+What is this moving average and what is the standard price?
+
+I mean, in the coming.
+
+So when we are creating the metal, I will tell you that what is this price control under the category
+
+difference?
+
+And that's we will discuss about this later.
+
+If I tell you now, you will be a little bit confused.
+
+I will tell you this field in the fact that classes.
+
+See here.
+
+Quantity dating and value of dating how it is updating for all validation areas you need or else you
+
+want to need a particular valuation area or not.
+
+You can maintain that control here.
+
+For example, if you select this in all valuation area, that means it will be applicable for all the
+
+plans, not only on the plan, it will be applicable for all the plans.
+
+If you want a particular plan, then you need to select this option and you need to check the boxes
+
+here.
+
+That is the control of.
+
+And also X number assignment we thought we would discuss like during the maintenance for number ranges
+
+in the configuration.
+
+In the next configuration, I will explain that what is national number and what is internal number?
+
+Okay.
+
+Go back home.
+
+See, everything was in Berlin.
+
+If I tell you right now, then it will be a little bit confusing for you.
+
+That's the reason I left some fields during the process and during the creation of transactions, you
+
+will be understand better.
+
+So we defined one material type.
+
+And let me copy that material as well.
+
+We use both the material.
+
+So let me copy this.
+
+Finished goods that we maintain as the 40.
+
+For example, Honda
+
+and.
+
+This.
+
+Again, it is taken zero.
+
+Oh, I think both were selected.
+
+So that is it.
+
+Both was copy.
+
+Same.
+
+I was selected zero.
+
+And also we have here that is there is a.
+
+Sorry, Joseph.
+
+What is it?
+
+You've been selected both raw material and finished goods.
+
+Yeah, that's the reason why it is copied.
+
+But I can't sell it.
+
+I can't see.
+
+Okay, so.
+
+See.
+
+See here.
+
+That fact was copied as Z for.
+
+No, Come on, keep updating.
+
+I want to do quality and value updating for our clients.
+
+It's been 11.
+
+Okay, now save this told the data was saved so major types was defined.
+
+But we are using the raw materials and also we are using the materials.
+
+Now we need to maintain the number system.
+
+After that, we define the metal types.
+
+Now we need to have some number inside every time we create material.
+
+We need to have some number of pinch.
+
+Every time if it were metal, we need to have some number range.
+
+See here you can see define number range for each material type.
+
+They can exude in real time.
+
+What happens is, you know, for example, I will show you that number and just click on display so
+
+that you can see you can see small speck, speck, symbol.
+
+Speck symbol means it is nothing but display.
+
+If you see the pencil button, it is in change mode.
+
+I'm displaying the intervals.
+
+What are the intervals?
+
+Intervals is not in that number in this case.
+
+See here.
+
+And these are call number ranges here, having so many number range.
+
+CC We are having system number ranges.
+
+But in real time, what happens is these many number ranges are you are not use we use the sequence
+
+pattern like one series is used for raw materials to series.
+
+You use it for finished materials like three series usually used for some trading goods for series is
+
+use it for some non stock items like that.
+
+We will maintain a series level so that every time if you see the ones it is so it is a metal belongs
+
+to diameter like that.
+
+By seeing itself by viewing itself, you can understand whether it is raw material or finished.
+
+For we it is nothing but a best practice.
+
+So but it is a test server so many users are creating randomly and that is another way it is showing
+
+in some clumsy OC, but in real time it will be having some kind of some hierarchy level.
+
+We can we will maintain.
+
+OC
+
+Let us create one new number range.
+
+Okay.
+
+First of all, click on this pencil mark group.
+
+First, we need to create one group like whether it is a metal group or finisher group.
+
+And in that group we will maintain one number range and then we will assign that group to the metal
+
+then.
+
+It is a little confusing, right?
+
+Totally.
+
+I will write it out in here.
+
+We will define something like material group, for example, Fonda
+
+Group.
+
+This group will be assigned to.
+
+Number.
+
+Okay.
+
+So one group will be created in that group.
+
+We will assign the number range.
+
+After that, what happens is this material group.
+
+There'll be a Santa.
+
+Then what happens?
+
+This number will be assigned to metal type, right?
+
+Right.
+
+We already maintain we already sent the number range, number range to material group.
+
+I'm in the middle group.
+
+Then the same group will be assigned to material type.
+
+Okay, this is not but material.
+
+Typekit.
+
+So then indirectly what we are doing, we are assigning the material type to the number.
+
+So whenever you create a material with respect to the material, then one number will be assigned automatically.
+
+Okay, now we are going to do that.
+
+We can create.
+
+So we are defining one group, for example, on the.
+
+Score.
+
+Let us maintain some group.
+
+Here.
+
+Here we need to maintain the number.
+
+But if you give the existing number range, what are the other users maintain?
+
+It will throw an error.
+
+The number range is already existed.
+
+So what we need to do when to maintain here, What are the numbers?
+
+What are the number?
+
+Is that not used by the other users you need to maintain?
+
+Right.
+
+So in order to do that, click on intervals, click on existing so that the system will solve what are
+
+the existing intervals.
+
+So these are called existing intervals.
+
+Put the cursor here.
+
+Click on ascending order so that it will be visible in ascending order so that it can be easy for you
+
+to maintain.
+
+For example, to maintain a series table.
+
+You state series.
+
+This is the last number in the use.
+
+Let us do one thing.
+
+We will use the nine cities.
+
+Okay.
+
+Let us go with nine cities.
+
+Yeah.
+
+Okay.
+
+Nine cities.
+
+Some number is 930 something.
+
+So, so much of land.
+
+I think they were using 88 inches this competition.
+
+Yes, yes, yes.
+
+Right.
+
+Because we maintain eight inches this land.
+
+Right.
+
+If you do not maintain eight inches, also, it will maintain some zeros in front of the number of zeros
+
+will be, for example, if you go and see existing number as initially see here, they were using some
+
+ten one quarter something the zeros that come right.
+
+So the length will be 18 only.
+
+What are the your number maintain the length will be taken as 18 characters automatically picks up I
+
+think eight digits.
+
+Yes.
+
+Right.
+
+What are the length you maintain?
+
+Yes.
+
+Let us do one thing that is maintain.
+
+It has a thousand up 2000.
+
+It's enough us to create a thousand materials.
+
+Let us go and do those.
+
+Yes.
+
+Now I'm saving this scene.
+
+The number was assigned automatically at 17, but because the 16 number range already maintains, so
+
+it is taken automatically 70 number range.
+
+I'm saving this.
+
+But then what happens?
+
+We told you that once it is resolved, materials will say this is for finished materials like the remainder.
+
+Okay.
+
+The data was saved.
+
+Go back now.
+
+Duh.
+
+Finish medical.
+
+Q&A underscored.
+
+CFR.
+
+So we already know the last number and what we maintained.
+
+So that let us take from this number.
+
+From 2001.
+
+Some full of dust.
+
+See?
+
+What is the difference between actual internal?
+
+I will.
+
+I will tell you that.
+
+Here you can see some x external box.
+
+If you check, this means it is called actionable number.
+
+If you do not check means it is called internal number range.
+
+First of all, we will create the internal number.
+
+So it has 18 character.
+
+That data was set.
+
+That is the one thing we will create the actual numbering as well so that you can understand it.
+
+What is the difference between external and internal?
+
+I think this in itself we can end.
+
+Here.
+
+Our groups.
+
+I think what is see it is take an automated ambulance.
+
+But because we already maintain the internal the system already to automatically take index number.
+
+I think we maintain photos and
+
+maintain as a.
+
+4001.
+
+For example.
+
+This is the actual number.
+
+Okay.
+
+So we defined this part.
+
+We created one metal group and we assigned some member range to it.
+
+Whether it is external or internal, now we are going to assign it to promote it or finish it.
+
+First of all, let us find our metal types first.
+
+If we can't find butter.
+
+And what is our zero, Right.
+
+And.
+
+Click on it.
+
+So that will.
+
+Oh, sorry.
+
+I clicked.
+
+You can't find butter and zero zero available here.
+
+Here you can see small rectangular box.
+
+You can see right highlighted.
+
+And then click on element by group assignment.
+
+Click on it.
+
+And we need to search for our group.
+
+What is our group?
+
+Honda Zero.
+
+Like these aren't hunting.
+
+What is the next one?
+
+Zephyr.
+
+Finish.
+
+Yes.
+
+Yeah.
+
+Select the second so that it will search for the third and second element assignment group.
+
+And then you need to set it our finished group.
+
+Now, if you go down, you can see the assignment.
+
+See.
+
+A group was assigned to me.
+
+The group was assigned to Major.
+
+If you double click on this material group, then it will.
+
+It will show you the number range.
+
+Okay.
+
+This is how we need to assign the matter to number range.
+
+After that, what we need to do, we need to define the groups of of groups.
+
+Right.
+
+See here.
+
+Hierarchy metal type is created and its assignments also completed.
+
+Now we are going to create the group.
+
+Closest major types.
+
+Go to settings for key fields.
+
+Here you can see defined material groups.
+
+Click on Execute.
+
+To set up all metal groups.
+
+Let us go and create some new entries like on the that maintenance Mac OC.
+
+So maintenance on the items, which underscores
+
+the guidance on business, we maintain these groups.
+
+Okay, articulate.
+
+I'll see.
+
+Okay, then we need to have a purchasing group as well.
+
+We already defined that purchasing information during the creation of enterprise structure.
+
+So no, we don't acquire that.
+
+So the configuration was completed.
+
+So now we can create the material for creation of material, everything.
+
+We need to have some transaction quotes here because we call it a transaction quote, a purchase order.
+
+You already know that you don't do an end your end user.
+
+You're using the transaction site.
+
+Those are nothing but transaction costs for creation of material.
+
+The transaction code is zero.
+
+They will want to change the material for the existing material.
+
+The transaction code is zero.
+
+If you want to display.
+
+You don't want to.
+
+Yes.
+
+If you don't want to display I mean, you don't want to change anything and you want to see in display
+
+mode, that means it is not intended to promote eligible mode, then the transaction code is unknown.
+
+Zero three.
+
+If you want to see the list of materials, total materials.
+
+Under the plan.
+
+You want to see what the details like that you want to see, Then you will use the section 16.5 that
+
+is also I thing.
+
+So this is those are commander under like valuations.
+
+How much the value of the material will be.
+
+It does not give you what is the metal type, what is the metal group, what is the description of it.
+
+These kind of things will not be displayed or it will be showing how much stock will be available in
+
+the store location.
+
+Yes.
+
+Yes.
+
+All of the evaluation of the installation.
+
+Yes.
+
+Yes.
+
+Those will be we will discuss in other classes.
+
+Now, let us create one material now.
+
+I will open another session ASAP.
+
+Having total succession can open at a time maximum.
+
+So I mean, I'm open and decision giving here is in zero one and it will take you to the create material
+
+initial screen.
+
+Okay.
+
+Here you can see material.
+
+Industry sector material type change number material if you want to create I mean, if you want to create
+
+with reference to any any other material, you can maintain that material here.
+
+We will discuss these things later.
+
+First of all, let us create one material.
+
+Select the industry sector.
+
+What kind of industry is the business like?
+
+Whether it is a cement industry, chemical industry, pharmaceutical industry, chemical industry,
+
+or we have we are using some mechanical and core manufacturing.
+
+So we go with the mechanical engineering and metal type.
+
+What is our material type zero?
+
+This is a yes, you can see the metal types here are which all the metal types will be available here,
+
+but we defined one zero.
+
+Zephyr de to finish.
+
+Right.
+
+So let us select this material.
+
+And now click on Select Views.
+
+Others you can simply enter.
+
+Also, it will directly open the views.
+
+Click on the select views.
+
+It will ask What are the kind of views in the unit?
+
+We are having basic data view sales views.
+
+If the model is belongs to sales, then you need to maintain some data relevant for sales.
+
+If the model is relevant for purchasing, you need to maintain the purchasing data and also its storage
+
+location data or its accounting you like.
+
+I will select the RM views now.
+
+We'll discuss about the remaining views later.
+
+Select the basic data one.
+
+View Basic data to purchasing.
+
+And store location views.
+
+We do not maintain any data.
+
+Most probably store locations, but just maintain the store location views and.
+
+How to sell their country view is nothing but the price of the material.
+
+What are the general ledger accounts needs to hit?
+
+What is the valuation Plus, we need to maintain in accounting.
+
+If I now continue.
+
+Whenever I click continue, it will ask under which plan you want to create this material and which
+
+storage location you want to create this material.
+
+Like that, the system will ask, you see and click on Continue.
+
+The system will ask under which plan you want to create.
+
+It's B.
+
+C under which plan you want to create, under which to read location.
+
+You want to create this material like that the system is asking.
+
+So let B maintain it is HB one under this plan, under the storage location.
+
+One I want to create this material and continue.
+
+She had.
+
+The nine series was automatically assigned.
+
+That means our material assignment is working Now that we maintain here it is some level of something.
+
+Something.
+
+For example, Question I'm creating one piece of material and it's based unit of measure based unit
+
+of here.
+
+You need to maintain the description of it and then basing it on my measure, it is nothing but stock
+
+keeping unit.
+
+How the company will manage or measure the material in store.
+
+Location is nothing but based on message.
+
+The question will be calculated in maybe inches each based on cost.
+
+If it is a related thing.
+
+We call it in later.
+
+Yeah, maybe for some other.
+
+Maybe you can use like PCs phones.
+
+So many you enterprises will be available.
+
+Right.
+
+Cages.
+
+Based on the material.
+
+The measure may be varies, so patients will be calculated in inches each, of course.
+
+If you want to check for it here, you can see small button, right click on it.
+
+So it will show you the list of basic measures necessary.
+
+See so many square inch cubic inch, percent days, micrometer and ampoules, bag barrel bottles.
+
+So many, so many measures available.
+
+But we require each site.
+
+So let us search for each.
+
+Each is.
+
+So I maintain based on Thomas and metal.
+
+It is belongs to mechanical items.
+
+So let us select the mechanical item group.
+
+Honda Mechanical.
+
+I think this has to underscore
+
+I'm selecting this material group or material number.
+
+See, this field is referencing model.
+
+Yes, right.
+
+It is a reference number because I see you're using some other software or something you implement it
+
+as.
+
+After that, the metal numbers are changed from numerics to like in previously.
+
+They are using 1 to 3.
+
+Now they are using ABC OC.
+
+But the you the water, the users, they are creating the purchase orders or something.
+
+They were very familiar with the all metal numbers.
+
+Okay.
+
+So what we do is we simply put that all material reference numbers here so that the users will easily
+
+identifies OC.
+
+That is the reason why we put the reference metal number, which is all material number they are using
+
+that we can put it here OC.
+
+An actual metal group is nothing.
+
+But like, for example, the company is using some third party warehouses, not their own warehouses.
+
+They are using some third party warehouses for their business purposes.
+
+They don't have plan.
+
+For example, they don't have a plant in Bangalore.
+
+Storage store is the location of something.
+
+They don't have it in Bangalore, but they use I mean, so many people are buying their products in
+
+Bangalore.
+
+So they are using some third party warehouses.
+
+But according to our business process, we call it is a mechanical items.
+
+But according to the third party warehouse, they're using like metal items, plastic items.
+
+So that purpose, we can maintain that actual metric here.
+
+You understand yourself.
+
+What is the meaning of metal?
+
+Of metal, then?
+
+Yeah, a division.
+
+It's a common model.
+
+Okay.
+
+Division is nothing but in prospect too.
+
+They will be having some divisions.
+
+Like without having some metal groups.
+
+They will have some divisions.
+
+Okay.
+
+On cross plan material status.
+
+It is nothing.
+
+But if you want to block this material for procurement or anything, you can maintain it here, can
+
+see the statistics.
+
+If you click on this button, you can see list of status available for it.
+
+To see what the status of C block for procurement block or for possible stuff bomb so obsolete this
+
+kind of status, what are the status you want to maintain this material?
+
+You can define those statuses and you can maintain it here.
+
+And CrossFit network.
+
+What is the difference between CrossFit and CrossFit means or overall weight of the material?
+
+For example, let me tell you a small example.
+
+You buy, you bought some oil packet.
+
+The oil is crazy, but the water, the packet we're having, it will be having some data.
+
+For example, the packet we bought is crazy.
+
+Let me let me.
+
+Let me tell you.
+
+If I purchase like a liter of oil in that CrossFit will be included with the tin.
+
+Tin Tin?
+
+Yes.
+
+But when it comes to be oil, which.
+
+Yes, right.
+
+That is what the difference between CrossFit and that for example, the piston weight is, for example,
+
+fixing.
+
+Okay.
+
+For example, that £5,000 or something.
+
+Let me put it £5,000.
+
+You know, grams would be a C And if you want to go with the Jay-Z or something, for example.
+
+Well, it doesn't.
+
+800 grams is the net weight of the.
+
+This is how we can maintain order.
+
+We can maintain what is the net weight and what is the grass fed.
+
+We need to maintain it here.
+
+And as a defining this, we will discuss it later.
+
+If they tell you now, it will be a little bit confusing for you.
+
+And then you can see here what are the views we selected.
+
+It is having some dot symbols.
+
+So if you go with the.
+
+You selected purchase annuities having some dot symbol.
+
+We set a distorted location behind some dot symbols.
+
+What other you selected, it will be selected here.
+
+And when we can enter, it will be skipped to what are the next to selected view?
+
+Enter.
+
+It will go on to the.
+
+It's dated here.
+
+The data is much secured here.
+
+We can maintain that if the item is relevant for any other ideas, then we can maintain here some data
+
+here.
+
+If it is relevant for environmentally, if it is a chemical item, if exposed to environment, it is
+
+affecting environment.
+
+These kind of things we can maintain.
+
+Okay, click on Enter so that it will skip to the next select review here.
+
+The base unit of measure.
+
+It will be copied from basic data.
+
+One you and here you can see all the unit.
+
+What do you mean by this order unit for example, the question we calculated in our warehouses is when
+
+you are buying externally, the company does not buy each piston, right?
+
+It will be buying huge quantity like whether it is 120 or 220 or something.
+
+Maybe it can be bought 1000 contacts.
+
+So for ordering it will be bulk, but the vendor is telling like I'm selling in a quantity in a bunch
+
+of boxes we are selling.
+
+Like for example, the metal is expensive, it is a pencil company.
+
+We need pencil.
+
+So the vendor is not selling the each pencil, right?
+
+He was selling it boxes.
+
+Each box is having some ten pencils.
+
+If you want to buy it, you need to buy in boxes like that.
+
+He will tell to you.
+
+Then you need to put that order unit here.
+
+For example, I'm putting here one box in one box.
+
+Let me select the box then how the system will behave.
+
+Let us see.
+
+Let us find that box.
+
+Fine.
+
+See a cardboard box or something.
+
+Let us select this box.
+
+Okay, I selected box.
+
+Then click on Enter.
+
+We'll put the purchasing group Who is the person is responsible to procure this material?
+
+HP Z.
+
+Honda by and we created one but Jason.
+
+See under blocks.
+
+When I click on Enter the System asks in one box how many inches or maintaining.
+
+You need to maintaining.
+
+You need to tell to the system, see if they can enter.
+
+It will ask in one box how many inches you are maintaining.
+
+See, when pop up windows came right in one box, how many inches you are making?
+
+That is in like ten inches.
+
+I mean, in one box, ten pictures were maintained by the vendor.
+
+We are procuring products.
+
+We are issuing also in one box.
+
+Can it just be maintained like that?
+
+We can tell to the system.
+
+And.
+
+See we maintain the order unit and also plant metal status.
+
+The same in basic that is seen right some status that is relevant for client level.
+
+It is relevant for plant level.
+
+If you want to block for a particular brand, you need to maintain the status here.
+
+If you want to block the material for entire all the plants, then we can maintain the status and paste
+
+data
+
+and automatic people.
+
+Batch management batches, Value keys.
+
+These are all things we will discuss in later sessions.
+
+If we tell you now will be you will be having some little bit confusion like based management is a different
+
+concept.
+
+Automatic people.
+
+When you are creating a PR, the people will be created automatically.
+
+It is one of the of the concept parties value key here.
+
+We can maintain the vendors reminders to the vendors and shipping instructions.
+
+Like if you buy this material material from the vendor, you can maintain some shipping instructions.
+
+Please follow these rules while shipping the material to us like that.
+
+You can maintain these kind of things We will discuss in further topics.
+
+When you creating the transaction data, we will discuss it.
+
+Now you can enter.
+
+This is a storage location.
+
+Nothing is required here to maintain Lebanon.
+
+And taken into account.
+
+It is very, very important.
+
+It's very important to us and also for people, as it is the integration part of an effort here to maintain
+
+the valuation chain.
+
+We have a separate concept called media integration, like automatic account determination.
+
+During that topic, I will explain what is the value trust?
+
+What is the significance of it?
+
+I will explain with that.
+
+Okay.
+
+Just simply understood.
+
+We need to assign this valuation class here.
+
+Whenever you run the transactions, it will be hit some gender based on this valuation trust.
+
+Just remember this.
+
+We have a separate concept.
+
+I will explain you that.
+
+So.
+
+See here, we have a different kind of valuation parameters.
+
+So based on this valuation across each valuation class, we will be maintaining differentiated accounts
+
+by the business requirements.
+
+Here you can see the metal type description itself things like volume, deployments, domestic implements,
+
+import.
+
+If you are procuring this material from other countries, it is not importing.
+
+Right.
+
+So during that point of time we will select this 301 like that.
+
+We can maintain different categories.
+
+We will discuss it.
+
+And I told you that we will discuss the price control during the creation of material.
+
+Right.
+
+See, it is kept.
+
+We automatically.
+
+Why it is kept, we automatically.
+
+I didn't maintain anything because in material type I think we are to open that.
+
+No, I mean, opening it up so that how we're taken out, I will show it.
+
+Metal types defined attributes of material types.
+
+Let us take our major step, for example, zero
+
+and go into details.
+
+Here we maintained it has moving average price.
+
+Oh, also the system automatically taken.
+
+It has a V here.
+
+That is the reason we take taken automatically.
+
+If you want to change the price control, you can change it.
+
+So let me tell you the what is the significance of this price control?
+
+It will be having two types of price controls.
+
+One is moving average price and second one is standard price.
+
+C What is the business of it?
+
+Let me explain that.
+
+C Moving at this price, we maintain like the meter, whenever the metal price is fluctuates.
+
+I mean, that is every time like within a one month or a period of time the metal price is changing.
+
+Then we can maintain it as a moving average price.
+
+The meter price is not changing every minute.
+
+Every time within a month, the price not be changed.
+
+Then it can be changed within a year or six months.
+
+Then we can maintain it as a standard prize.
+
+And also the business is like the raw materials is procured from external sources.
+
+So the prices varies from vendor to vendor.
+
+Right.
+
+So the separate commands to maintain moving average price to raw materials.
+
+And that's what the ACP recommends to maintain standard price to finish product because finished product
+
+will be manufactured by us.
+
+So the price will be fixed by the company.
+
+So it is nothing but a standard price.
+
+Okay.
+
+You understand, Joseph, what is the difference between moving out as price and standard price?
+
+Let me give a small example.
+
+Like if you go with the petrol over time, the price will be changes every week, right?
+
+It is nothing but a moving average price.
+
+So if you go and buy some laptops, it will be having some standard price about 50,000 or something.
+
+It will be changed, but it has some duration of time right after then only it will be changes.
+
+That is a difference between standard price and moving average price.
+
+And also ACP recommends and so the business recommends to maintain parameters, you need to maintain
+
+the moving average price.
+
+And for finished product you need to maintain standard price.
+
+Why?
+
+Because parameters will be procured from external sources.
+
+It can be varies from vendor to vendor, but it does not have the ability to the company to control
+
+it.
+
+Right.
+
+But for this standard, for the finished product, it will be manufactured by us.
+
+We know the what is the price of the what is the cost of the final product.
+
+So it is can we analyze what were the landed cost?
+
+I mean, a lot of the charges you're asking.
+
+Yeah.
+
+Transportation from the manifest, from the dispatch tool to the manufacturing unit.
+
+What The total landed cost and the manufacturing costs.
+
+See, the transportation costs will be charged separately.
+
+Right.
+
+We will maintain that separately During the procuring trials, we pay the charges.
+
+If we include that in.
+
+In the final product, the business required.
+
+Based on the companies, we maintain that.
+
+And also are after the finished product.
+
+We will also charge the transportation charges right to the customer.
+
+Yes.
+
+Yes, right.
+
+If you sell a product, you will be charging the right.
+
+If you buy the product.
+
+Also, you will have some transportation charges.
+
+If you buy if you sell it at the hand, some transportation charges.
+
+Okay.
+
+We will talk about later.
+
+During the creation of people, we have some conditions where we can maintain that transportation charges,
+
+fight charges, we call it as a fight charges,
+
+so that we maintain a moving average price here, because the ACP also mandates be for raw materials
+
+and price of the material.
+
+So if you're maintaining the then you need to maintain the price in moving price field.
+
+If you maintain standard price control, then you need to maintain the price.
+
+Standard price.
+
+Okay.
+
+Let me maintain the let's assume the cost is around 3000 so that maintain some.
+
+And going can entertain the views of the selected views are completed.
+
+No system ask.
+
+Do you want to save your data?
+
+Yes.
+
+I never say you save the material.
+
+Be creative.
+
+See?
+
+So demonstrators created.
+
+So let me know if you want to change anything.
+
+And metal modulator, you have a transaction called.
+
+M0 to selection and zero why I'm using slash and here slash and is used to kill the current screen and
+
+it will open the new screen.
+
+Okay.
+
+Slash.
+
+It means it will kill the current screen, for example, you see.
+
+It will be having some three views.
+
+Right.
+
+Let me close this another session by behind two sessions.
+
+Now, ironically, current.
+
+It will open till it kills the current session and it opens.
+
+But I don't want to disturb this session and I want to open a new session means I will go with slash
+
+or slash and means it will kill the current transactions and it will open current transaction, which
+
+if you use slash law.
+
+Yeah.
+
+Slash romance.
+
+It reopens in another session and it does not disturb the current session.
+
+C and then zero three.
+
+It will open in another session.
+
+See?
+
+See?
+
+Let me give you.
+
+See, I maintain the material number.
+
+Click on Enter so that it will see what are the views you want to display that will select basic data
+
+purchasing and accounting.
+
+And for plan, you need to maintain its p one and.
+
+See it is a non eligible mode, right?
+
+Because here it is in non editable mode.
+
+If I want to go and change the material later, then you can go with Slash and Zero to end.
+
+And for example.
+
+But things can change.
+
+For example, basically the one I want to change it.
+
+But I've got some changes I have done.
+
+I changed so dramatically.
+
+What's changed?
+
+If you want to change the material later, you can change.
+
+And if you want to see the list of meteors, but we have only single material, it will be displaying
+
+only a single material.
+
+And I'm 60.
+
+Under this plan.
+
+For example, under SPL one, we want to see the list of materials we can execute.
+
+Then it will show the list of materials, not just one thing.
+
+Let us create another material, finish material.
+
+Let us create finished material.
+
+See here it will be showing the material data.
+
+What is the price?
+
+What is the valuation?
+
+What is the precious metal metal type?
+
+Let us do one thing.
+
+Let us create another material, finish product, create the finished product zero.
+
+Let us create the event.
+
+Enter basic data want to purchase and.
+
+Distorted Location one.
+
+Distorted Location two.
+
+And.
+
+Plus the plant and store location.
+
+Continue that remain, Dana, for example.
+
+This journey is complicated.
+
+So let's take some meticulous finished product maintenance.
+
+Each metal group.
+
+We already know which Mac.
+
+And.
+
+What is the rate, for example, of some.
+
+I was in drums.
+
+There's something
+
+that partisan groups see in the partisan group is mandate driven.
+
+But here it is, an optional we see.
+
+It doesn't have any mandatory feel here.
+
+If you do not maintenance, it doesn't take anything and get a finished product if you want to maintain
+
+loss in one box.
+
+Higher levels of servicing demand a of.
+
+Location, views and violation costs.
+
+Here, the valuation class will be changed.
+
+See, last time we see 3000 cities.
+
+Right now we can see seven cities.
+
+See seven, nine total.
+
+See here, the price control is a Snow White vacuum that is automatically given.
+
+Now it is giving.
+
+Yes.
+
+Why?
+
+Because there are separate commands for the finished product is standard price.
+
+That doesn't mean something.
+
+Okay.
+
+See 9002 series six came.
+
+So we created one material finish product.
+
+So this is the 6010 section.
+
+And going back.
+
+Now I'm executed.
+
+Then it will surely do maintenance under this plan.
+
+Sea otters if you want to go with the metal type.
+
+But we made an effort.
+
+Then it will show only the finished product.
+
+Yes.
+
+I mean, if it if it is having thousand materials.
+
+A thousand materials, but we created only two materials.
+
+So it will showing only those two materials on.
+
+This is how they create the metal state.
+
+And one more thing.
+
+What is the actual number range.
+
+We didn't talk about it.
+
+But example, what is the number range?
+
+We maintain that is.
+
+If I remember answer material for the groups and.
+
+Commentator.
+
+Sound in 19.
+
+So 19 is the actual number range, right?
+
+So.
+
+So what is that?
+
+19.
+
+I just go with the display mode.
+
+C 19 This is the number Ranger nine six 400 1906 So this is the number range we assigned to the parameter.
+
+For example, I want.
+
+In business process.
+
+What happens is.
+
+They will give the material numbers for each material.
+
+Sometimes some business case.
+
+What happens is we already had some limited numbers.
+
+You need to maintain only those numbers.
+
+I don't want any new material.
+
+How can we maintain that?
+
+Because they will be giving David Wang some a 1 to 3 or something like 1 to 3 for Piston and two or
+
+three for per gearlever.
+
+Then how can we maintain?
+
+Then you need to go with actual number range.
+
+Then for which matter what is the number you want?
+
+You can simply maintain it here and then you can create that material.
+
+For example, nine six 401 It is having nine sales Force one, for example.
+
+I maintain this material number 2001 five material, and then the system won't take it.
+
+See?
+
+Be about as.
+
+Already created.
+
+For example, they put as two, three or something.
+
+For example, they put three.
+
+And then with the metal type action number, it must not contain only numbers, for example, or spectrometer.
+
+They can put 2003 inter.
+
+It is throwing some error.
+
+Right.
+
+Let us do one thing.
+
+Let me maintain this number.
+
+How the system will be healthy
+
+I think number and smart about.
+
+I think we maintain it.
+
+And I'm directly hoping opening the matter type.
+
+Because I know the transaction code.
+
+We can go with the part.
+
+See?
+
+Next number range.
+
+We torture.
+
+Okay.
+
+Now let us maintain this.
+
+See the system as you can see, Right.
+
+The system is allowing to create.
+
+But if I put here as two voluntary three, the system won't allow because why in x number range we maintain
+
+only nine series 4000 193 6006.
+
+So other than this material, the system won't take you to create the material.
+
+So, for example, I want to create with the.
+
+I don't want one.
+
+For example, I want for
+
+the system as a lot to create because then we are then in real time when we are using this sectional
+
+arrangements, then the client needs the specific materials to the specific metal number, to the specific
+
+material.
+
+Then we will use this external material concept.
+
+For example, I for Piston, I don't want a sequence order.
+
+I'm using this is the metal number, the particular piston.
+
+So you need to maintain that metal number only like then the client asks us to maintain.
+
+Then you will go with the external number range.
+
+Okay, Joseph.
+
+Now you can understand it why we are using the internal number range and why we are using this fractional
+
+number range.
+
+If the client specifies that they want this specific number range needs to ascend this particular material,
+
+then you will need to go with the actual number range.
+
+If they don't want, then you can go with the internal reference.

@@ -1,0 +1,733 @@
+Yeah.
+
+Do you guys understand it?
+
+Right.
+
+How we are going to create the budget this year, how the massive data is helping and how it is fetching
+
+to purchase order.
+
+You understand that?
+
+Yeah.
+
+Let us display this bill which we created.
+
+Yeah.
+
+How many dates will be available.
+
+We are people.
+
+We are having 100 details.
+
+These are called details.
+
+It is not like item or item item value data.
+
+It is called item details Data and item details.
+
+Each tab having the relevant data.
+
+One Metadata is having relevant material information like what is a metal group?
+
+If the vendor is having another metal number for the same metal number in the company so that we can
+
+maintain the vendor metal number like that.
+
+Some information will be available on how much quantity we ordered, how much quantity we ordered under
+
+boxes.
+
+Right.
+
+And in both cases, what is the stock keeping unit 500 inches, right, Because one box equal to five,
+
+that's where the stock keeping unit is.
+
+500 each.
+
+Right.
+
+Yeah.
+
+And what is the network?
+
+For 50 grams and also it is 500 grams.
+
+But because a major modulator, what we maintain actually for each how much weight.
+
+Let's see.
+
+So two basic data, 100 grams write down to one, one box equal to five.
+
+So 185 500 growth weight is 505 in 294 450.
+
+Right.
+
+So two for 50 is nitrate and the growth rate is 500.
+
+You got one box.
+
+It is showing like this CrossFit is 500 rounds and that it is for $50 or £50.
+
+Just then go to the schedule.
+
+What is the delivery date here?
+
+We can see we maintained a two day date.
+
+21, 2022.
+
+Yeah.
+
+That's why it is showing 21.
+
+2022.
+
+Scheduled quality was 100 and to is scheduled to deliver this date.
+
+Google says it is not completed.
+
+That's why it is not updated here.
+
+So that's the open quantities.
+
+And if you received it will become 101.
+
+We will become zero.
+
+Okay.
+
+In delivery tab, what are the details available?
+
+Let's see our delivery tolerance and under delivery programs and shipping instructions.
+
+What are the shipping instructions we want to give to the vendor we can maintain at Metal Master data
+
+Also that or else in the info recorders we can maintain so that it would automatically copy to order.
+
+And as I will tell you this, our delivery under delivered orders while we are receiving the goods into
+
+the inventory at that point of time.
+
+I will explain you about this.
+
+Feels okay.
+
+If I explain to you right now, it will be.
+
+Difficult for you to understand while doing the transactions.
+
+I will explain it better and also remind us, actually, these remainders will maintain that metro market
+
+data.
+
+The shipping instructions and reminders so we can maintain it, because actually what these reminders
+
+are, we ordered the 100 boxes to deliver 25, 21, 2200.
+
+The vendor is not sending on the delivery date.
+
+Then we can schedule a reminder for them.
+
+And the second thought, Amanda, like that, we can set the reminders to give the reminders to vendor.
+
+We can maintain the reminders here.
+
+Okay.
+
+-- invoice.
+
+Invoice.
+
+We need to check invoice receipt.
+
+And.
+
+So we need to maintain some based verification activities and secure.
+
+They need to maintain this based I've.
+
+Thinking separately taken from the.
+
+Okay.
+
+We need to check this.
+
+The air base to be okay.
+
+Okay.
+
+What is this?
+
+Your best ivy hazard?
+
+I told you yesterday, right?
+
+Yeah.
+
+Hello?
+
+Yeah, I know.
+
+When we reviewed the good luck.
+
+Yeah, yeah, yeah.
+
+It's like a like a skirt giving away the.
+
+Hello?
+
+Yeah.
+
+When we receive the goods, they will give an invoice for it.
+
+Like we get an invoice along with the goods.
+
+Yeah.
+
+The those who invest should maintain.
+
+Okay.
+
+Like, let's assume like this if you order 100 boxes.
+
+Right.
+
+But the vendor will not send 100 boxes, let's say.
+
+Then he sent the goods to us like 50 boxes.
+
+Okay.
+
+Yeah.
+
+While we are creating the invoice, actually copies the quantity from the three, the quantity 100 boxes,
+
+but we receive 50 quantity.
+
+Right.
+
+If you check this database in-house verification, then we enter in.
+
+After this Java check, we received 50 boxes.
+
+Then the system means automatically copies to 50 quantity only, not 100.
+
+That's the control of this database.
+
+Okay.
+
+Yeah.
+
+And this is called tax code.
+
+We need to do some tax configuration like we purchasing materials.
+
+Right.
+
+So we need to pay some tax amount to the vendor.
+
+Right.
+
+That's why we maintain some tax codes at the OR whatever else.
+
+It is an optional.
+
+We can maintain it top over others.
+
+We can maintain it in a sufficient.
+
+Look.
+
+Conditions.
+
+Actually, we're having a pricing procedure concept where we know the what are the condition types and
+
+how it is getting automatically into this purchase order.
+
+That concept called purchase, the pricing procedure topic.
+
+I will explain you that these are called condition types actually like vendor.
+
+We will give some discount rate cash discounts that will be having one condition type and the vendor
+
+will will need to pay to the vendor like the transportations are the five charges so that it will be
+
+having another condition type color for even other for one like some condition types will be available
+
+during the pricing procedure concept.
+
+I will explain the
+
+delivery address.
+
+What is the delivery address plan?
+
+Right.
+
+We will get the plant name.
+
+Where is the street?
+
+Where is the what is the country?
+
+What is the reason?
+
+What is the post code like that The address will be displayed here.
+
+Yeah.
+
+Okay.
+
+And.
+
+And another on confirmation control.
+
+I will explain you.
+
+In fact, the sessions.
+
+Okay.
+
+If I tell you right, it will be confused.
+
+Confusion for you.
+
+Let me explain another top.
+
+Okay, this is about purchase order.
+
+And also, I don't want a single item, right?
+
+Yeah, whatever.
+
+Actually, if you order multiple items, we can also see total condition value at their level, as they
+
+shown you yesterday.
+
+For all the line items it be calculated, it will sum all the prices and it will show you and header
+
+level.
+
+Okay.
+
+Yeah.
+
+That is called condition.
+
+And if you want to give any other instructions, we can maintain it.
+
+Have the level.
+
+And if you want to maintain line item, which we can maintain at the line item level so that we created
+
+another product and series to.
+
+No.
+
+It is one.
+
+Yeah.
+
+You can see, right.
+
+We are having to line items.
+
+What is the price?
+
+Let's see.
+
+Plus one having 4000 price, right?
+
+802.
+
+How much quantity?
+
+50.
+
+Right.
+
+So 18 to 50 like that.
+
+It is calculating and giving the total condition value 4000.
+
+Let's go to the second line item.
+
+Piston.
+
+Piston.
+
+96,096 plus 4000.
+
+One of the great.
+
+Yeah.
+
+Let's see.
+
+But like.
+
+So you can see.
+
+Right.
+
+One leg, total value.
+
+So that's a benefit for harder conditions and we can maintain for borderline items.
+
+We kind of want to give the section.
+
+We can maintain it at that level tax.
+
+And if we want to maintain for each item, each item, if you want to give the instructions or if you
+
+want to sell anything to the vendor about these materials, we can maintain it.
+
+Item level.
+
+Item level.
+
+Also, we can maintain the textiles.
+
+See, this is for our line item one.
+
+This column line item at here.
+
+Also you can.
+
+Okay.
+
+Do you have any questions regarding this purchase order?
+
+How we are using the Master Data master to render massive data.
+
+The info record source is to create the purchase order.
+
+Okay, so we create all this master data, and the data purchase are like a purchase requisition.
+
+We easily get this purchase order, right?
+
+Like we can.
+
+Yes.
+
+Right.
+
+Because actually this purchase orders will created by users every day.
+
+So many purchase orders will be created, thousands of purchasers will be created.
+
+They don't have the knowledge to I mean, they don't have a button to maintain all these things in mind,
+
+right?
+
+So they want we need to automate and we need to do the work as easy as possible to the user that's only
+
+maintaining this master data.
+
+So whenever they want a metal, they simply maintain the materials here, They simply go and create
+
+the purchase orders.
+
+That's it.
+
+Because there are thousands of materials available and each one is procuring from multiple vendors.
+
+So multiple vendors having multiple prices, how they can remember those, all these materials and all
+
+those prices.
+
+But that's why we are maintaining the master data.
+
+Okay.
+
+Okay.
+
+Got it.
+
+And also, it will increase the efficiency of the verticals, whether they may do some mistakes also.
+
+Right.
+
+Instead of giving eight groups, they can maintain 800.
+
+Right.
+
+Right.
+
+That's why if we maintain right there in the master data levels, then that right data will be getting
+
+into the purchase order so it doesn't have any mistakes.
+
+While we're creating purchase order, then it is a benefit for the company, right?
+
+That is very efficient.
+
+That's why we are maintaining the master data.
+
+So that is where we are always telling that Master That is very important.
+
+After that we live.
+
+We use by using the master data we use, we run the business transactions.
+
+Okay.
+
+Any questions as it.
+
+I'm not real clear.
+
+Okay.
+
+Okay, let me.
+
+Quick recap.
+
+Do you have any questions?
+
+Actually, I have some doubts.
+
+And the socialists, as you said.
+
+Angela Davis Yes, but, you know, under fire.
+
+I believe that if we don't do anything, any socialist, so what will happen?
+
+But actually, if you don't mind that process, see?
+
+So this is the optional bill.
+
+The company knows like vendors or whatever they can produce.
+
+Years from now, a vendor ballot period is coming later and everything.
+
+So if they want to control the user to create unnecessary purchase orders to the vendor, it's a legal
+
+document, right?
+
+Because it's an ID to send to the vendor, right, actually.
+
+So that's why it's having a control over there.
+
+Do not create any unnecessary people to other vendors.
+
+And also in this horserace, which is having some validity period.
+
+Right.
+
+A few materials will be procured from vendor and we are having some contracts rights contract.
+
+We're having a concept called actually outline agreement in that we are having the contract on the contract.
+
+There is a concept called outline agreements.
+
+Hello.
+
+However.
+
+Yeah.
+
+Sorry.
+
+My internet having some issues.
+
+Yeah.
+
+In that contract we are having like six months of period or one year of period like that.
+
+We are having some contact with the vendor, actually.
+
+Okay.
+
+In general, it's a common understanding between two parties to supply certain materials on specific
+
+terms and conditions.
+
+Normally these agreements are entered between vendors and company on mutual benefit based.
+
+Order.
+
+We are right.
+
+So the benefit to the vendor and also we are getting a better price, right?
+
+Like if the item price is ₹100, if you buy on bulk and have any agreement with the vendor, then they
+
+will give you for ₹90 or ₹80 like that.
+
+They will give you the matter of price.
+
+So those contracts will be entered in source list to the valid period.
+
+Okay, then.
+
+Okay.
+
+In the result will be maintaining only.
+
+Yeah.
+
+Yeah.
+
+Yeah.
+
+If we don't maintain the input record, a French socialist is different.
+
+I mean, political is different.
+
+Yes.
+
+So this is different.
+
+And in particular is different because so in socialist, we maintain the validity period of the.
+
+What?
+
+What?
+
+What are the list of vendors?
+
+To procure the material from.
+
+And but in in our record, we maintain the validity period of the price, not vendors list of vendors
+
+validity.
+
+We maintain the price value to be valid period of the price from which vendor, which only one vendor.
+
+That's it.
+
+It is a combination between only one vendor and one material.
+
+So I'm reading this purchase order.
+
+Hasbro I'm creating the purchase order.
+
+We should also maintain this in order.
+
+If a company needs it, then only we maintain the protocol.
+
+We suggest them to maintain the record.
+
+If they don't, if the business is very small, like the prices was changes frequently and they are
+
+using only few materials to procure, then did doesn't require any protocols.
+
+If it's a small company and they were having only 50 to 100 materials, then they don't require any
+
+info records.
+
+Both of these are obscene.
+
+There's no knob.
+
+But if you did.
+
+Yeah, that's why creative.
+
+I assure you, the manual creation of purchase order.
+
+In manual creation of purchase order.
+
+I given the price of the material and I only given the vendor name on the material name, right?
+
+Yeah.
+
+Yeah.
+
+That's a difference between manual creation and.
+
+Automatically getting the price from the info record and along with the value the period of the event.
+
+If you want it, then only if we act with the source list configuration at material level or plant level.
+
+Okay.
+
+Okay.
+
+Simple.
+
+Bella.
+
+This is part dedication, right?
+
+Let's take one participation we created.
+
+If you see the status tab, you can see the status tab, right?
+
+Hello.
+
+Guys, are you there?
+
+Why don't you go to status there?
+
+And here we can see if the pier is converted into people.
+
+B, we can see the purchase order number is updated here.
+
+And crossing state these people created.
+
+You can see it, right?
+
+But without a doubt, my number.
+
+Kinsey.
+
+Yeah.
+
+If you go to the second line to see a number will be available because we created people with two line
+
+items that see second line items.
+
+If you double click on it.
+
+Then it will take us to the purchase order.
+
+Kinsey.
+
+The parties are here.
+
+Imperial state is updating whether the war is created or not.
+
+We can see in step or step.
+
+Okay.
+
+She.
+
+And.
+
+That is about the purchase order.
+
+I think you guys understand.
+
+Please practice and.
+
+Hello.
+
+Yeah.
+
+Gabba.
+
+Yeah.
+
+Any questions regarding purchase order or any other topics?
+
+Bill?
+
+No, we covered like mashed potatoes transaction letters like PR out of few quotation.
+
+But as the.
+
+Any questions?
+
+Noble.
+
+Noble.
+
+Okay.
+
+

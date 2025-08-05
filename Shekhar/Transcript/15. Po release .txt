@@ -1,0 +1,963 @@
+Regarding purchase order.
+
+Today we are going to do the configuration for.
+
+Be.
+
+Let's go under the condition equal to the spring on separate streams.
+
+AMG.
+
+It matters management.
+
+And that's what chasing beer on people is purchasing, right?
+
+So that's why we go to the purchasing.
+
+Yesterday we'd done the configuration and the purchase out of that is purchaser we are doing for.
+
+Really?
+
+Actually, we discussed about it.
+
+Right.
+
+Like under participation, we have two types of classifications.
+
+One is without classification and there is with classification, we go with classification.
+
+Most of the companies will use the classification.
+
+What is the first thing we need to do?
+
+First, we need to define characteristics.
+
+After the unit has entered the class, then we will need to create one release group.
+
+Under this group, we need to assign the approvals, which are nothing but release codes, and we need
+
+to assign both release groups in this class.
+
+After that, we will define we really start this right.
+
+No.
+
+Let's do four carrot sticks.
+
+Okay.
+
+Take.
+
+Betsy, it's.
+
+Let's take the F.
+
+Not that.
+
+It's concrete.
+
+Does the document dated?
+
+That's one chick.
+
+Got additional data.
+
+No.
+
+What is the table here?
+
+We need to go.
+
+Hello.
+
+As it is table we need to give here.
+
+You have to
+
+see
+
+this for purchase order.
+
+Okay.
+
+See, forget about C Siemens communication.
+
+Okay.
+
+Okay.
+
+You take it.
+
+All means it is the table for purchase order ahead of data.
+
+Okay.
+
+But it will miss him, right?
+
+What?
+
+Hello?
+
+I mean, for yesterday and today.
+
+What we are discussing about purchase order.
+
+We are discussing about purchase requisition.
+
+Yeah.
+
+Yeah.
+
+But what we call table.
+
+I'm talking about the table.
+
+The tables are different.
+
+Okay.
+
+Okay, Let me let me show you that.
+
+Okay.
+
+Go for.
+
+Generally, C11 is the typical user by a bypass.
+
+Most of the times we use only a system.
+
+When you go for a table, it is a table for header rate of purchase order.
+
+The parties in government had, which is nothing but parties order that we can see here.
+
+This tables are regarding parties of.
+
+Those properties recreation we use even.
+
+Split.
+
+What is it?
+
+What is this?
+
+We need to communicate with this table so that seven men can see as an initial entry.
+
+Q So you'd.
+
+Okey doke.
+
+Okay.
+
+And doctor document.
+
+What is the document here?
+
+VCR.
+
+And that then.
+
+Document name.
+
+The technical name was BCR.
+
+You need to give here the field name.
+
+Field name.
+
+Right.
+
+Therefore means field.
+
+Field name.
+
+Must be was.
+
+We need to give here.
+
+Be the
+
+exterior.
+
+Also be given like the tone.
+
+Okay.
+
+Click on Enter.
+
+It's taken.
+
+You can see that there's some popup messages about dictionary.
+
+Let's go for the SC 11.
+
+The bendable display.
+
+But there is Bisciotti.
+
+Welcome back.
+
+It is the.
+
+Government.
+
+See.
+
+How long does it take to type characters?
+
+So this one characters, how much of it is or what is this about dictionary?
+
+It's taken as data type as character format and number of characters.
+
+Got it.
+
+How it is taken from the table.
+
+Okay.
+
+Yeah.
+
+It's automatically taken from the backend system.
+
+And yesterday I didn't tell you about this.
+
+Right.
+
+Let me tell you about this.
+
+It is single value or multiple value.
+
+There will be a little difference, but it is today.
+
+I mean, we maintain a single value so that we maintain as multiple values.
+
+Let's see how it works.
+
+Okay.
+
+Multiple wireless.
+
+Go to values.
+
+And that here.
+
+Atticus, how many documents we available here, what document types we request.
+
+We just simply maintain it here.
+
+Which document is we required for release strategy?
+
+We define the end.
+
+The end means.
+
+What is the DNC purchasing requisition?
+
+The description as they refer.
+
+But there's a question.
+
+Let's take another point.
+
+Also, the standard.
+
+Stock.
+
+Not.
+
+This is called a default.
+
+If you select it, we are saying that the classification by classification under release strategy right
+
+there automatically taken the one of the document default.
+
+Let's select how it works.
+
+We can see during the delay said okay, I'm selecting it as default and additional values.
+
+We have maintained these two values during the assignment.
+
+If you want to add another value, we can add over really start the creation.
+
+Okay.
+
+Let's see how it works.
+
+This functionality.
+
+We maintain additional data also.
+
+That's unchecked is not really foreign put restrictions.
+
+It's an option, actually.
+
+If you maintain 032, it's not a problem.
+
+Actually, we are maintaining 032 at a class level, so not required to maintain that here.
+
+We want to maintain.
+
+We can maintain it.
+
+It's an optional.
+
+If you didn't mind.
+
+Also, it doesn't happen anything.
+
+It doesn't have any impact.
+
+Actually, we maintain that class level because during the creation of class, we maintain in the class
+
+type as 032, then the characters we defined earlier, this can be considered as at least as
+
+understood.
+
+Any doubts?
+
+Now click cancel.
+
+This density was created.
+
+So.
+
+Let's go.
+
+You.
+
+Bottom line.
+
+Okay.
+
+The concrete.
+
+Operational additional data event.
+
+The plan was the.
+
+WRP.
+
+Just.
+
+Number of characters and decimal places.
+
+It is taken from the above dictionary to give the currency here high enough.
+
+Multiple values intervals needs to be allowed.
+
+But because we maintained from one to yesterday, we maintain the.
+
+This is in trouble, right?
+
+Right.
+
+3000 to 1.
+
+Right.
+
+That's what we need to check here as well.
+
+Then only it will allow you.
+
+Next.
+
+Get out of them.
+
+Then we can maintain a vision of our results.
+
+Three, two.
+
+Okay.
+
+The concept.
+
+Let me give you a barometer.
+
+But choosing growth.
+
+What additional data you don't get the r.
+
+P.
+
+Let me show you that also.
+
+Let's see what that element was.
+
+The length is three.
+
+See the dentistry character to take one or two values.
+
+Go to Ali's.
+
+Z.
+
+Congressional Republicans need.
+
+Indeed, there will be a lot of purchasing groups available.
+
+So those participants need to be same here.
+
+Can we create a new one?
+
+We lessen it here by purchasing groups and.
+
+One I maintaining only one two.
+
+I'm not maintaining three.
+
+Equal treatment.
+
+And give me a minute, guys.
+
+Hello.
+
+I said, Yeah, now we are going to create a class.
+
+Click on Execute that's going to get the classes three.
+
+The class stage was zero three to right.
+
+Concrete.
+
+Atrophy.
+
+Must be replaced.
+
+Go to characters with other characters with different.
+
+They stopped many times.
+
+Popular value.
+
+And ThyssenKrupp.
+
+Pre-defined the concept.
+
+So we defined one class and the class we defined three characters.
+
+One is document, the second one is total value.
+
+And third one is purchasing.
+
+No setup procedure with classification code to execute.
+
+Go to religious groups.
+
+Yeah.
+
+The Canadian Press.
+
+Because can we give us?
+
+The.
+
+That here we need to give the class name.
+
+Plus the release.
+
+And.
+
+And here we can see Right oral release if you check this box.
+
+That illustrated is applicable for other relays.
+
+If you uncheck it, it is applicable for item release.
+
+We got it.
+
+Hello.
+
+Hello, guys.
+
+Yeah, yeah, yeah.
+
+Okay.
+
+This is the control for oral release.
+
+Item Ready?
+
+Okay, let us do it.
+
+Item oral release.
+
+Later.
+
+We will go with the item release.
+
+Okay.
+
+Boca Click on sale.
+
+Go back.
+
+Now we need to create a process and release codes.
+
+At.
+
+This could sit on the court.
+
+At stake.
+
+And staying on as if.
+
+Where is it?
+
+But isn't health.
+
+Then a magic number of April.
+
+We can maintain it as eight.
+
+Only eight.
+
+Only the number given by a was eight.
+
+April was not more than eight.
+
+April will not.
+
+Okay, we got it.
+
+But I would just add the maximum limit, what, eight April or so?
+
+Okay, Go back.
+
+Little is indicated.
+
+As we already specified, one is for release, another in Skull BLOCK in the study.
+
+We can go for details, click on details.
+
+After releasing every year If it needs to be a go for a request for quotation, we can check this checkbox.
+
+If not, if we directly issue the appear to people, then we can check this box release for shopping
+
+and field selection.
+
+Actually, the field selection key have a different concept.
+
+Actually, we can see right in Miami 51 transaction we have so many fields, right.
+
+Which field is mandatory field which field is optional.
+
+FIELD So that we can maintain that field selection.
+
+That field selection will be assigned here.
+
+And last time we discussed about the changeable indicators, right?
+
+Yesterday I told you about this, like I will explain in the later session.
+
+Today we are discussing about these changeability indicators.
+
+Hello.
+
+Horrible to hear my voice.
+
+Yeah, yeah, yeah, yeah.
+
+Let me tell you what these indicators were.
+
+We're having five indicators, right?
+
+One is black.
+
+If you do not put any input there, it takes one indicator led.
+
+Then we are having another four indicators, total five indicators.
+
+Let me take.
+
+B, all these options here we have here five options.
+
+Let us discuss each and every option in detail.
+
+The first option is changeable and new release in case of new strategy.
+
+For example, in this strategy we have two strategies.
+
+Strategy.
+
+It is like you created them.
+
+One leg to.
+
+But it's better than 1002.
+
+If people's.
+
+Okay.
+
+In second case.
+
+Second charging greater than 50.
+
+Okay.
+
+And a process.
+
+David.
+
+It.
+
+Three staples, three approach available.
+
+I'm coming to get to them.
+
+Okay.
+
+It is having.
+
+Okay, let's assume these are the two strategic strategies we are having.
+
+Let's assume like this.
+
+So in first case, this strategy, this is the third one.
+
+The strategy.
+
+This is a relationship.
+
+In in one which is in between one K to 50 or else 1000 to 50000.
+
+18283.
+
+And the second rate discharges greater than 50.
+
+Now.
+
+For example, if you are created with.
+
+49.
+
+So what is the release strategy that applies?
+
+It applies to one race whenever.
+
+The amount of parties in the coalition is 49,000 released, 31 is applied, and even a2a3.
+
+All the three other people will release the purchase requisition.
+
+But an example.
+
+After a peer is created with 1496, with some reason they want to increase the price in the purchase
+
+requisition, for example if they changed PR.
+
+Okay, so after a proved it can be changeable.
+
+But they can change anything, quantity or price, anything.
+
+So this is nothing but changeable.
+
+New release in case of new strategy.
+
+It means.
+
+It changed but they change it to.
+
+That says.
+
+So it can be changeable.
+
+New release in case of new strategy.
+
+That means if new strategy is applies, then again it will go to release strategy.
+
+But it is 50 k.
+
+What is the really strategies applied?
+
+Ah one.
+
+No.
+
+So release strategy is not changed here.
+
+So a new release in case of new strategy means this is not new strategy.
+
+This is the earlier strategy.
+
+So again, don't require it to improve by these three people.
+
+It is not required to it release from the start.
+
+Just change it and save it.
+
+That's it.
+
+You've.
+
+Somehow if they change PR from.
+
+49 K to not 50 K greater than 50 k.
+
+Let's assume they change it to 55 k.
+
+If so, then it will apply.
+
+Right.
+
+So then it is changed.
+
+So this condition is the new release in case of new strategy.
+
+It is a new strategy, right.
+
+Is it necessary?
+
+Because rather than replicate the place to second chance, so new release will come and they will again.
+
+Even Will needs to be approved and then a to improve and then a three will approve and then a four will.
+
+Then the beer will be released.
+
+You got it right.
+
+So this is the option for first.
+
+It can be changeable, but new release will happen when it applies to new strategy.
+
+That is the first option.
+
+Meaning?
+
+Now look into this second option and not be changed.
+
+That means.
+
+But an example.
+
+Spear is created with 49,000 strides, one applied.
+
+Again.
+
+If a user tried to change from 49 K to 5059 K, the system won't allow.
+
+It will only display more grammar.
+
+There is no editable mode at all.
+
+We can't change it to the quantity or price.
+
+We can't change it.
+
+That is, the meaning of cannot be changed.
+
+Once PR is created and it is released to pay these three approvals, it cannot be really changed anymore.
+
+That is the option.
+
+Call cannot be changed.
+
+You got it.
+
+Now the next option is changeable.
+
+No new determination of strategy.
+
+That means if a PR is created with 49 K.
+
+And it is got reduced by even a two or 3%.
+
+It can be changeable.
+
+It can be changeable, too.
+
+If it can be changed by 55, it can be changed.
+
+But like anything, it can be changeable, its quantity, anything we can change.
+
+But if we change.
+
+255 k also.
+
+So he's an intern here.
+
+Okay if I change it to 55 K Also if new strategies are applied, but again, it will not go for approval
+
+process.
+
+It's still in related state only.
+
+See no new determination of strategy.
+
+New strategy will not be applied.
+
+It still remains as r one not R to again, new strategy will not be triggered.
+
+Again, it is applicable to R two, but it will not change to are to still in one oc.
+
+If you change it 55 k then it will not go for release it still same in Ottawa and it is in state only.
+
+That's the meaning of this change.
+
+But no new determination of strategy.
+
+New strategy will not be applied if you change anything.
+
+That's the meaning of it.
+
+And next one changeable new starts in case of sorry, changeable new rules in case of new strategy.
+
+The same option C let me show you See?
+
+Changeable new releases in case of new strategy, changeable new release in case of see.
+
+It is a blank, right?
+
+If you do not maintain anything here, it will take in this option.
+
+I don't think we want to maintain particularly then you can choose both options is next.
+
+One is very, very important.
+
+It is.
+
+Changeable new release in case of new strategy or value change.
+
+See?
+
+The same thing applicable here.
+
+See?
+
+Has the same concept here.
+
+If it is.
+
+Okay.
+
+See if we just change it to 49 K to 50 k.
+
+Here.
+
+What happened?
+
+New releases not happened.
+
+But here what happens is if new release strategies are placed also it will be If new strategies are
+
+applied, it will trigger with new release.
+
+If you change any value also it will trigger.
+
+News release.
+
+Big.
+
+See.
+
+Let me tell you what this means.
+
+See?
+
+Changeable.
+
+It can be changeable.
+
+After released that says Zoom.
+
+Created with 40 9k4 strategies triggered on a1a to a 3% approved b r got released.
+
+You got it right.
+
+Now what happens is if it change 49 K to 50.
+
+Okay.
+
+The change in PR 49 to 50 k.
+
+That means you change the value.
+
+Okay, You change the value, it will not go for release strategy.
+
+Anyway, it is only 58.
+
+It is not greater than the ticket, but you change it value.
+
+You change your value.
+
+So again, it will go to 1828.
+
+Also, even.
+
+A April.
+
+If you change value again, it will go for a one for a pro and again heretofore.
+
+Again, eight, three, four, eight.
+
+You got it.
+
+If new strategy is awkward, then it will be triggered with new release orders if you change any value.
+
+Also, it will be triggered.
+
+This is how it works with this option.
+
+Most of the organizations will use only this option, mostly most of the cases, because they change
+
+any value.
+
+They want to know.
+
+Right.
+
+And again, it will go to the release process is a process and they will approve and then it will go
+
+for the process.
+
+This is the.
+
+Think of these five options.
+
+Now let us select with this option or.
+
+Folks lot of.
+
+The prosecution released indicators.
+
+Yeah.
+
+Yeah.
+
+So.
+
+So I'm selecting the fourth option.
+
+And they want to maintain how much percentage that needs to be triggered.
+
+You can maintain it here.
+
+Value change, for example, the new release needs to be triggered when it will change to some 5%,
+
+some 10%.
+
+We want to maintain that you can maintain, you know, maintain as blank if you want it, you can use
+
+that functionality.
+
+Okay.
+
+Any small change.
+
+Also, it will trigger.
+
+Not if you want to maintain some specific percentages.
+
+If it is, for example one.
+
+If it is changed to 10% any surface, for example, it is changed to one like 10,000.
+
+You can maintain the 10% here so that whenever you change it from one to about one like 10,000 and then
+
+you release will trigger.
+
+That is how it works and maintaining it as planned.
+
+Now seven.
+
+Okay.
+
+This is how it works.

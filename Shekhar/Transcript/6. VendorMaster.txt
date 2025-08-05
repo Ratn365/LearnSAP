@@ -1,0 +1,287 @@
+Now let me change some settings.
+
+See, here we maintain no change.
+
+Okay, let's assume the good supplier where it is.
+
+See, here, I will put it as good supplier.
+
+What is the functionality?
+
+You can understand these controls and as I put.
+
+Dis mandatory check.
+
+I check.
+
+Removed from invoice.
+
+How it works.
+
+How the these controls work.
+
+Let us see.
+
+I change I antiquity no change option.
+
+And also I am checked for invoice.
+
+The mandatory option.
+
+Okay.
+
+Let us see how it works.
+
+That means the supplier is assigned automatically in vendor one data, but it can be interchangeable.
+
+More.
+
+That invoice 3% is not assigned automatically.
+
+It's not a mandatory field, but when you assign it, it will take as a note, not tangible more.
+
+See here, let us create one new one.
+
+Excuse yellow one and let me put the vendor.
+
+There's some peppers and.
+
+Simply.
+
+So.
+
+And that's why I maintain that this.
+
+Reconciliation, 16,000.
+
+What do you mean by this reconciliation?
+
+What are the transactions be done against this particular vendor stored under this reconciliation account?
+
+I mean, if you're done, if you procure anything, we need to pay some amount to the vendor.
+
+Right.
+
+So those entries will be.
+
+They got to some general accounts based on this reconciliation assignment.
+
+That was.
+
+Know.
+
+Acknowledgement.
+
+Check this.
+
+I will tell you what is the best I've.
+
+During the I mean, during the creation of transactions.
+
+I will explain you about these controls.
+
+No.
+
+And see what happens when they go through patent functions.
+
+It does not show me for entries.
+
+See, I was representative.
+
+Not shown to see.
+
+See why.
+
+Because it must represent.
+
+But not shown because it is not mandatory.
+
+It may not be assigned automatically during the creation of Vandermeer State.
+
+We need to send it manually, but if you maintain manually it is in non tangible mode.
+
+No change.
+
+And.
+
+But the number is asking.
+
+See internment was assigned, but it has taken it to non change.
+
+One more.
+
+But good supplier is interchangeable more y because we put it as no change and.
+
+Right.
+
+So I put let us go.
+
+Supply is not the supplier.
+
+Good supplier will be some modern models.
+
+We already find modern models.
+
+That isn't what is the supplier.
+
+Okay.
+
+So when we create these randomized data, what is the number here assigned?
+
+It will be assigned to here as well.
+
+I think we defined 7000 to come in.
+
+So it is 2000.
+
+The next number will be generated is 2000.
+
+One will be assigned for these three partners.
+
+See?
+
+Let me see how this randomized record let me be split into two or three.
+
+I don't read all these require only these to
+
+see ordering.
+
+And this is the Shashank supplier Vendor Association supplier and invoice as represented by Samsung
+
+supplier.
+
+But goods will be delivered to the company by Warren Motors.
+
+This is how we maintain the partner functions.
+
+And these are the controls here.
+
+No change are mandate.
+
+And if you want to see the list of vendors, the transaction code is MKB visit.
+
+Let me put this in cognition.
+
+If you want to go with the.
+
+Also not be easy.
+
+These are red dot account.
+
+Click on execute.
+
+So if this were to end, just because we defend only to Windows 7000 but not and Samsung suppliers,
+
+it is his address and this is a purchasing organization the salesperson details.
+
+Okay.
+
+I know.
+
+Let us see.
+
+What is a screen layout, for example?
+
+No one.
+
+See here.
+
+What is the mandate reveals here?
+
+Name is mandatory.
+
+System is mandatory.
+
+Countries mandate, but partial is not mandatory if we do not maintain.
+
+Also, the system is to create the vendor.
+
+How it goes maintain.
+
+We have a screen layout settings.
+
+Let me show you that.
+
+It was just my dad's management.
+
+I mean, during creation of a vendor account group, you can see that accounting.
+
+So if they find a vendor account that connects with what is our vendor account?
+
+Z via Z.
+
+I like this quarter details.
+
+Here you can see last time I already told you peel status.
+
+Double click on general data and address on this address here.
+
+What are the name?
+
+One is a required field.
+
+Such term is the required field requirements.
+
+It's a mandate.
+
+Name one such term and that's country.
+
+Moodle next next group mobile telephone number next to group.
+
+Friends account group reconciliation account is mandatory, right?
+
+And any other things is mandatory contact persons is also optional.
+
+Let me do one thing I will put as the quote is mandatory C partial capacity.
+
+Let me put s mandate.
+
+It is not mandating no digital.
+
+Sea City was mandated in Washington City
+
+and, for example.
+
+See below Box Park City will maintain its mandate.
+
+If you want to go with the postal box, postal code
+
+display means what separate display it is in, not editable mode.
+
+See City It was required field but I changed it to display.
+
+See, we can't maintain any data here.
+
+And the second surprise means the field will be will not be visible to you.
+
+See if they put surprise.
+
+This field will not be visible to see.
+
+See?
+
+The field is not showing.
+
+Postal code and city.
+
+Optional gun control.
+
+Street address country reason she did this show and let me be fresh.
+
+Now it is showing that is a functionality of surplus.
+
+This is how we can maintain, which is mandatory field, which is optional field.
+
+This is about different.
+
+Marshall Did they have any questions?
+
+Joseph On any.
+
+You should.
+
+Joseph, do you have any questions?
+
+Yeah.
+
+Okay.

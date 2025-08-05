@@ -1,0 +1,592 @@
+
+Lecture thumbnail
+31:20 / 31:28
+Medical dispute.
+
+We completed release indicators.
+
+So let's go and create the release strategy or to release strategy like on new entries.
+
+Let us give what is our release group?
+
+D All right.
+
+LP these F take start three one.
+
+Less than adequate.
+
+50 K Right.
+
+Let's take it as having only one approval.
+
+But listing manager is prerequisite not.
+
+Blocked and at least.
+
+If if any person was not able, then it is in proper state.
+
+If the person is approved but is assisting manages ever then it status to enter to release.
+
+Content classification.
+
+See, I did not ascend anything read how it came documented.
+
+Let me open this session.
+
+It is this patient.
+
+What else?
+
+Just got.
+
+Document every second of both values.
+
+How it came to be participation, because we maintain it as a default value, right?
+
+That said this was that automatically you got it.
+
+The functionality, how it works is default.
+
+And we also check the additional values, right?
+
+It is not values means here you can see one on another option.
+
+See?
+
+Right.
+
+Sorry.
+
+That here we can maintain a new entry level so that we open purchase acquisition.
+
+We can see someone has created A and B as a document.
+
+What does the document have created?
+
+Has it?
+
+That in me.
+
+That was created by me, actually.
+
+Well, R&B is created by you.
+
+Yeah, well, actually, they didn't.
+
+Where?
+
+I'll take it.
+
+What is the PR document you created?
+
+Hello?
+
+Hello.
+
+How is it?
+
+What is the matter?
+
+No independent calls.
+
+Last time we talked about that, you already completed up to purchase order, he said.
+
+Yeah, yeah, yeah, yeah.
+
+So.
+
+Computer.
+
+Yeah.
+
+I mean, yeah.
+
+Means a lot.
+
+I mean, you could do configured anything or.
+
+I mean, did you practice anything recording PR?
+
+Yeah.
+
+Yeah, of course.
+
+I mean, I have a computer.
+
+Oh, okay.
+
+Then what is the matter, then?
+
+Hello?
+
+No, that is not okay.
+
+R&B.
+
+Okay.
+
+Okay.
+
+Another part of the equation.
+
+Okay, let me give that input as here and you can enter.
+
+See another input also taken, Right.
+
+So that's the functionality of the additional values checkbox here.
+
+Okay.
+
+Do you want to add any new entry here?
+
+You can add it.
+
+Okay.
+
+So let me take our and also.
+
+Country C if it has now V given to entries as inputs.
+
+Okay.
+
+No.
+
+And also go to basic data.
+
+I maintain multiple values right here, multiple blocks.
+
+It is showing as checkboxes.
+
+If you maintain a single entry, it will become the radio button.
+
+Radio button means we can select only a single value.
+
+That's the difference between single value and multiple values.
+
+Okay.
+
+Total value of requisition.
+
+It is also mean we maintained additional values and multiple values.
+
+Let me go back and go to talk.
+
+We maintain the original values and basic that we maintain in multiple ways, but multiple values we
+
+do not maintain for total value, we maintain only a single value.
+
+Select as less than 15.
+
+But a group.
+
+Let me take a deep, deep one.
+
+Deep to three entries.
+
+Go back and the concept.
+
+Let's see the purchasing document we assigned to document documents, but we sent three document.
+
+Okay.
+
+If we create EPR with any document app or any of these group, then only the PR released will apply.
+
+Okay.
+
+Well back.
+
+Listen, let us check how it works.
+
+They released it.
+
+It will become released
+
+because this uncertainty was created.
+
+Be Saturday as to.
+
+If decay.
+
+2101202.
+
+That's prerequisite.
+
+Take us.
+
+What a surprise.
+
+And then set up automobiles.
+
+Stick how it works.
+
+First one approves economic growth.
+
+Then it released so it could go back.
+
+Let's create another strategy.
+
+The US.
+
+Three necessary to unlock.
+
+Unlock it
+
+better than unlock.
+
+Now let's take Ridley Scott's.
+
+They started this.
+
+R&B.
+
+But like.
+
+Incineration.
+
+It's a good.
+
+Okay.
+
+They maintain three strategies right now.
+
+Let's create a pier.
+
+Let's see.
+
+I think we ought to open the place.
+
+Let's create.
+
+51.
+
+Paid parties requisition.
+
+Let's take the alphabetized requisition.
+
+Well, I'm putting my cooperation.
+
+On a sample from science.
+
+The object.
+
+Why does management?
+
+But Jesse.
+
+Such as requisition order.
+
+Define document types defined augment types.
+
+What is our document?
+
+Z And we read the mosque.
+
+Mosque.
+
+You go.
+
+If you go to right there, you can see oral release of particular questions.
+
+Right.
+
+You need to check this box.
+
+Okay.
+
+And also I am checking for Ortonville.
+
+So we need to check this out or requisition check box.
+
+On off document, which is a Christian document.
+
+Which are you going to create?
+
+Conceal.
+
+Okay, now let's create and 51.
+
+Hmm.
+
+Plan bb1 saw additional soon.
+
+APC.
+
+But.
+
+Give me a minute.
+
+Hello.
+
+Yeah.
+
+Hello, bro.
+
+Yeah.
+
+Yeah.
+
+You can see that really started to to spread.
+
+Yeah,
+
+we got three years.
+
+Let's see how much the value was.
+
+The value was pretty lax, right?
+
+So that's why it's having three episodes.
+
+Let's see.
+
+Let's take.
+
+Below online.
+
+Want to check.
+
+50 to 1.
+
+Right.
+
+You should be proud of purchasing a system.
+
+Another purchasing manager, which needs to be held to every.
+
+Let's stick.
+
+G is having only two personal.
+
+Let me decrease it to less than 50.
+
+It will have only one.
+
+Click on check.
+
+See, we're just having 1 to 1.
+
+All right.
+
+You can see also the strategy is changing as to to
+
+keep it as relaxed only.
+
+It will change the strategy to us.
+
+Three.
+
+The strategy has changed the concept.
+
+But the speaker refused to release the purchase order.
+
+In.
+
+Part of the transaction could be used to release you still.
+
+If 59 in.
+
+Yeah.
+
+59 and.
+
+What is the transaction code?
+
+Okay, give
+
+me 29 and it's 34.
+
+Be used to release the purchaser and May 29.
+
+Now, if you want to release the PR, they have a code called 54 and.
+
+54 and one section
+
+disappear number.
+
+Serious file.
+
+Literally stab.
+
+Click on this player to change.
+
+As we released the in-app purchase order, same as PRL.
+
+So we need to release.
+
+We can see the status here.
+
+See in participation, you can see the status.
+
+We didn't discuss about it.
+
+We discussed about this field.
+
+You can see in release, right?
+
+You can see in release zero two means.
+
+It is that it does not have any release charge.
+
+If it is a release option means the release strategy was triggered.
+
+You need to after we release it completely, then the status will be changed to zero for release.
+
+Completed.
+
+Let's see.
+
+I'm changed to only for one.
+
+I'm changing for two.
+
+Now I'm changing for 3 hours.
+
+Click on sale.
+
+The PR got released.
+
+Now let's see.
+
+Let's say I'm refreshed.
+
+I'm refreshed.
+
+And let's see how the status is changed from 0 to 2 03205.
+
+Students.
+
+But.
+
+Dallas has not changed.
+
+I.
+
+Right.
+
+Okay, Let me check with this.
+
+Okay.
+
+It needs to be changed to the truth.
+
+Actually, if we release completely, then the status will be changed.
+
+I need to check why the status is not changing.
+
+Okay.
+
+Please do use.
+
+Attrition through this procedure.
+
+But a classification setup procedure with classification.
+
+And release group.
+
+I told you about this, Red.
+
+If you check this a button, it is called oral release.
+
+If you check, it is called item level.
+
+Right?
+
+It's on sale now.
+
+Can you go back or is this window?
+
+Let's go to different document types, which we checked were all related right in it and check it,
+
+Heroes in it and check it here and click on see.
+
+Let me create a fear.
+
+And one more thing.
+
+We need to change the configuration.
+
+So.
+
+But his requisition.
+
+Police procedure.
+
+Procedural classification.
+
+Actually, we are saying total level, right?
+
+Top level of the table.
+
+We are saying seek feedback.
+
+DFW.
+
+All right.
+
+It is full throttle values had that level.
+
+GSW dx is for item level OC.
+
+What the difference is.
+
+Actually, let me change the configuration or this total value.
+
+Then there's no data.
+
+I think we can't change it here.
+
+Let me take
+
+let me add another characteristics
+
+item.
+
+You
+
+see
+
+s.w.o.r.d., right?
+
+Currency.
+
+I'm making it as a single value and needs to be allowed.
+
+And use them.
+
+Take it to ten K and rather than one like.
+
+To.
+
+I still go back?
+
+That may send this to any classes.
+
+Actors.
+
+So I think.
+
+Let me get upper class for the change mode.
+
+We maintain item value also.
+
+Let me turn on this.
+
+Some.
+
+Guys, could you please rejoin again?
+
+I think this session will be ended.
+
+Hello.
+
+Hello?
+
+Yeah.
+
+Yeah.
+
+Hello.
+
+Could you please rejoin again?
+
+Yeah.

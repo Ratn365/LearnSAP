@@ -1,0 +1,1267 @@
+Yesterday, in the last session, we discussed about the political part of enterprise structure or how
+
+the structure will be looks like.
+
+Today we are going to do this.
+
+Today we are going to do the consolidation for the infrastructure.
+
+So this is the CPA.
+
+Let me log on to our server.
+
+See, this is the home screen of SAP, which is nothing but recipes axis.
+
+Here we can have a configuration navigations.
+
+Here this folders is navigation for shortcuts instead of using the transaction codes.
+
+Here you can see the small command box.
+
+It is not, but the command box, as you already know about it, like your end user.
+
+There we can enter the transaction code to clear the transaction data and also the master data as well,
+
+the configuration data.
+
+So this is the main part where we can do the configuration activity by using these parts orders.
+
+We have a one transaction code called SPRO, where all the models, not only m s, t w what are the
+
+models available say if they want to do any configuration activity, the transaction code is SPR.
+
+And here we need to click on see P reference.
+
+I'm the I'm Jimmy's implementation guide.
+
+We call this button.
+
+So that will show the list of configurations.
+
+What are the configurations available in the.
+
+Configurations?
+
+All the models, not an EP.
+
+Um, w what other models are available in those conditions?
+
+All are available in this same transaction.
+
+Okay.
+
+Today we are going to do the entropy structure configurations, right?
+
+So here you can see the entropy structure.
+
+Here you can see small dropdown button arrow arrows showing right, set, right, Just click on it.
+
+It will drop down the remaining inside configuration.
+
+And then let me open the answer so that you can understand it better.
+
+See here.
+
+You can see right down to structure.
+
+This is the structure of Emma.
+
+Initially, what we need to define, we need to define just so we can see the screen.
+
+Right.
+
+It's been.
+
+Sorry.
+
+You can see, right.
+
+Hello, Joseph.
+
+Guys, I should go.
+
+Okay.
+
+See here, initial what we need to define.
+
+Like, what is a structure here?
+
+Purchasing, organization, plant and store the location.
+
+This is the structure for Amazon plan.
+
+But yes.
+
+So in order to do that, we need to have a company and company code as well as controlling area.
+
+These will be defined for people, but it is a test server, right?
+
+But in order to use the assignments, we need to create that in test server.
+
+But in real time we don't define those.
+
+So let me define the company.
+
+This is all go to definition.
+
+First, we need to define those right and good financial accounting.
+
+And here you can see defined company recon.
+
+I'm in here you can see small clock symbol, right?
+
+It is nothing but the execute button.
+
+We call it as a execute button.
+
+Click on that execute button.
+
+Here.
+
+You can see so many companies available.
+
+If you go to town, you can see because it is a test server, so many people were creating their companies
+
+and they are practicing.
+
+But in real time, these many companies, you can't see what are the company?
+
+They can't meet the clients.
+
+Company can see that only.
+
+Right.
+
+But it is a test server so many people are creating there for their testing purpose.
+
+They are creating their companies.
+
+Now we are going to create our company we call new entries.
+
+Here you can see what is the company's everything.
+
+How?
+
+Some code.
+
+Okay, We need to maintain that code.
+
+For example, we're creating a company called Let's zoom on the company on the document and it's like.
+
+And automate its name and description.
+
+And what is the st St?
+
+What is the st?
+
+Let's give me some st like.
+
+I'm speaking of.
+
+I'm giving and postal code.
+
+Let me give it as a.
+
+Let me give you some code of
+
+ethics, okay?
+
+Here is how bad it is.
+
+Let's say the Honda Company is located outside of country India.
+
+Right in.
+
+He spoke India language.
+
+Let me give us English and currency.
+
+What is the currency of this company if it is looking at us?
+
+Its currency is based on it.
+
+The currency will be added.
+
+So let me give us INR.
+
+Indian rupee.
+
+Okay, If you don't know the code numbers, you can see every button.
+
+It's having a small square button you can see.
+
+Right.
+
+It will show you the list of currencies.
+
+It will show you the list of languages.
+
+It will show you the list of cities.
+
+Based on that, also, you can select.
+
+There you can see the list of currency sort of available.
+
+You remember something like Indian rupee.
+
+If you want to locate it, you can see a small fine button here.
+
+Click on it.
+
+Lets me enter India and it will be giving you 2000.
+
+Having some India.
+
+It can get rupee.
+
+He found out the Indian rupee.
+
+Who set?
+
+We've gone end now.
+
+Save it and never you save it.
+
+The system is asking one transported.
+
+See here.
+
+Save it.
+
+It is asking the one transport request.
+
+Here it is already defined one transport request for another company.
+
+Okay.
+
+Why?
+
+Why this transport request or customizing request?
+
+It is called is a customization request.
+
+We call it is a transport request.
+
+Okay.
+
+Why?
+
+It is asking?
+
+Okay.
+
+I will explain why the dealer is asking every time.
+
+If you do the configuration part, we have a separate session for this.
+
+Just for your understanding.
+
+I will tell you for simple line for this.
+
+Like whenever in real time we will develop something in a system if we want to move it to the client
+
+system.
+
+Okay.
+
+This year, whenever we move this to number two client system, what are the changes you have done?
+
+What are the configurations done?
+
+It will be moved to the client system.
+
+That's the reason why every time you do the configuration or changes it will ask one transport request.
+
+Let's say zoom like this, we'll have a separate session for this.
+
+I will explain each and everything in detail.
+
+So.
+
+The concrete.
+
+Let me create a new transport here.
+
+Like on the cross, on the
+
+moldings.
+
+It was CO2 and transport.
+
+It was the company was defined.
+
+What is the next step we need to do?
+
+We need to define the company code now.
+
+Company code is having a number of general ledger accounts or a profit ledger accounts, revenue accounts.
+
+So many jobs are available in the system, so we don't have the proper knowledge to create each and
+
+every general account.
+
+So in order to create it, we simply copy the existing company code and change its name.
+
+Because we are not consultants, right?
+
+We don't have all the general user accounts and all other things.
+
+So what we do is we simply copy the existing company code and we simply change the name of it.
+
+Here you can see edit, copy, delete the company code, execute this.
+
+And you can see the copy delete code, put the cursor here and click on choose.
+
+Or else you can simply double click on it.
+
+Both will be the same.
+
+It will take you to the object code.
+
+Here you can see the small copy button here.
+
+Click on it.
+
+It will be awesome.
+
+From which company code to which country code you want to copy.
+
+We have a standard company code.
+
+We already had some standard company code will be given by the SAP server.
+
+That is thousand in Germany.
+
+I want to copy from 2000 to what is our company code, which would be having four digit.
+
+Let me give us a Honda Motors hitch mode.
+
+I'm giving is quite smart.
+
+And you?
+
+It was Boston.
+
+We want to copy the company code data.
+
+Yes, I want to copy all the general records from this browser.
+
+Do you want to allocate a different local currency to the target company?
+
+Because the current company code is having a euros.
+
+Germany's in euros, right.
+
+But our company in.
+
+I am not.
+
+So I want.
+
+Study.
+
+Yeah.
+
+Yeah.
+
+Our company code currency is in it, so I want to change it.
+
+It is asking you, do you want to allocate the different local currency to target companies as.
+
+So I want to change euros to I.A..
+
+Okay.
+
+Continue.
+
+Click on continue.
+
+It will be asking you to some confirmations.
+
+Do you really want to transport number in?
+
+Just click?
+
+No.
+
+Do not click as because as they are known consultants, we will create the number ranges.
+
+Okay.
+
+Click on.
+
+It will be copying so many tables, different kinds of tables.
+
+It is coping.
+
+See here, you can see the percentage of it it is copying.
+
+See if I can obtain the transported person I want to save in this same transport request.
+
+Okay.
+
+If want to create a new one.
+
+Simply create a new one.
+
+I want to save it in this simple.
+
+See here you can see why.
+
+019050.
+
+It is nothing but a transport request number.
+
+We call it a PR number.
+
+It is copied.
+
+So click on Cancel now.
+
+Beyond the copy for the number range copy.
+
+Let's select guess.
+
+Copy.
+
+So it was copied and copied to.
+
+Now go back.
+
+But that thousand company code was copied to Hazmat, but it descriptions its address.
+
+All will be.
+
+Available 1000 company code only.
+
+Now we need to change those two days so you can see the edit company code data set here and click on
+
+Choose or else you can simply double click on it.
+
+It will be showing like this tough company called Survivor, which the users created like us.
+
+Let me search for our company code.
+
+Here you can see a small position button.
+
+It is nothing but a sign button.
+
+Click on this position button.
+
+What is our company called?
+
+Hedge my search for our company.
+
+It is such our company called here.
+
+Right.
+
+Select this company code and click on details.
+
+See, it's a description is showing us Bastogne, Germany.
+
+But it is not how we coordinate the conditions.
+
+Let me change the company name.
+
+Okay.
+
+I will be maintaining as Commander Motors Ltd and City maintenance.
+
+Hyderabad and country is India.
+
+See Karen's automatically taken because we already initiated it earlier.
+
+Right?
+
+So that decision is taken automatically and language is n enter.
+
+Okay.
+
+No, it's address.
+
+Company code Address.
+
+It is having small some address.
+
+It doesn't have much details here.
+
+You can see small.
+
+Small.
+
+This button.
+
+Click on this button.
+
+See, this is the 1000 company course address was available here.
+
+Let me delete all the details.
+
+Is there.
+
+The.
+
+Such step.
+
+Whenever you want to search for this on motors, what is the search term?
+
+You want to use it?
+
+I want to use it as Honda Street address.
+
+Do some speed.
+
+I'm giving some random address.
+
+Okay.
+
+Yeah.
+
+A friend told me about it.
+
+I read India.
+
+It is not a reason.
+
+It's nothing but a shade.
+
+Okay.
+
+Yeah, I think in this reason God doesn't update it as Telangana on the page that simply select as on
+
+the page.
+
+It is just said that it is not updated with that.
+
+If it is, the company is having any telephone number, it can maintain it.
+
+Here.
+
+It's a mail address.
+
+What are the address?
+
+You want to maintain it.
+
+You can maintain.
+
+It doesn't require.
+
+The no, we maintained and we changed the description and address.
+
+Now we are going to save it.
+
+And now you save it.
+
+The system must be transported.
+
+So it will be saved in the same transfer.
+
+See here, you can see that was saved.
+
+But the next thing you want to create, like we created company company.
+
+Now we are going to create controlling area.
+
+Go back now.
+
+Process financial accounting and go to controlling here can see the maintain controlling area click
+
+on maintain controlling area.
+
+Here you can see the entry slide.
+
+Click on this maintain control area choose.
+
+Here.
+
+You can see so many controlling areas, right?
+
+So let me do one thing, like maintain the new one.
+
+See here we can create a new controlling area or else we can have a option that controlling area equal
+
+to company.
+
+That means we can maintain as controlling.
+
+I mean, company code is nothing but controlling it, ie maintaining a tense company code where it is
+
+asking like you want to maintain as controlling equal to company code.
+
+Then what is your company code?
+
+The team is asking what is your company code?
+
+What is our company code?
+
+A smart right is.
+
+But I want to change the description because it is not Roundabout Ltd, it is a Honda Control.
+
+Here you need to select a controlling area as small as it can be.
+
+Don't worry about it.
+
+This starts will be done by a consultant.
+
+We don't need to be done in real time just for we want to use the plant and storage location.
+
+You want to use them.
+
+You need to assign it to the company and company.
+
+That is why we are doing this task.
+
+You can't sell.
+
+It is sealed in that sail, so it is saved in the transport costs.
+
+Close this window.
+
+We define controlling it.
+
+Now our task.
+
+We need a defined plan.
+
+So relocation.
+
+See here.
+
+Our know our role is to create the plan.
+
+So in order to create that, we need to go to the logistics channel.
+
+Here, we can have an option called defined valuation level, see the company's value in the materials
+
+or something like what is a value of some warehouses like that.
+
+It will be how we will have to take some valuations, right?
+
+Yeah.
+
+From their point of view, they need to check each and everything in valuation.
+
+At the end of the day they will do some like accounting entries and some tasks will be available at
+
+the end of the month.
+
+OC How much profit is standard, how much revenues generated, how much loss it makes to a company like
+
+that to have some valuations?
+
+So for that purpose we need to act with that valuation level.
+
+Initially, that is nothing but define valuation level.
+
+Click on Execute.
+
+Step always recommends to maintain valuation at planned level, not at company code level Y, because
+
+for example, if you maintain that company code level OC valuation, if you maintain a company code
+
+level, let's say a plant is located at Hyderabad and Plant B is located at Bangalore, plant is be
+
+implanted, nothing but Hyderabad location.
+
+The users are buying so many phone calls and the revenue and profit is very good at Hyderabad.
+
+Okay then compared to Bangalore OC Bangalore the having buying very less cost and also the profits are
+
+not so good in Bangalore.
+
+Let's assume like this.
+
+If you maintain that valuation level at company code area, then it does not have the ability to check
+
+whether the Hyderabad having the better profits or Bangalore having the better profits.
+
+Right.
+
+So if you check the valuation here at company code level directly.
+
+When you maintain a plant level, then it will check individual plant and it will have that.
+
+Like the Bangladesh is having a less profits because nobody was buying so many cars.
+
+So we need to increase the advertisements over there or else we need to initiate to people like that.
+
+They will have some idea about it.
+
+If we maintain at the plant level.
+
+That is the reason why are separate commands to maintain.
+
+It really is at plant level.
+
+Okay.
+
+You got it right.
+
+Because every time I see it is in display mode.
+
+Now go back.
+
+And now we are going to create the plan.
+
+Now, here you can see.
+
+Define copy, delete.
+
+Click on execute.
+
+Here you can see that defined plan.
+
+Right.
+
+Select the country can choose.
+
+Here you can see so many plans available.
+
+So we need to create our new plants, right?
+
+So in ASAP, do not create every time the new entries, just copy the existing plant and change the
+
+names of the separate months.
+
+You need to copy the existing plant and change the description.
+
+What are the requirements you have?
+
+Because everything was interlinked inside the exhibition.
+
+That is the reason we do not create every time the new entries.
+
+I'm selecting this plan.
+
+Click on copy as I will change the example on the motors maintenance HPP LX one Honda Plant one OC.
+
+What is the planned name like on the manufacturing plant?
+
+It's okay.
+
+And.
+
+It would be asking that headdress.
+
+It is a plan.
+
+It is asking whether it is a plant, is a company or a single person.
+
+It is asking.
+
+It is a company.
+
+And on the.
+
+Manufacturing.
+
+Okay, that's giving us.
+
+Get inside.
+
+Tell us.
+
+So has a little bit.
+
+Candy.
+
+Okay.
+
+See, the plant was copied, and I'm going to create another plant.
+
+Let me select this plant and click on copy.
+
+I will change it to.
+
+But I do know, for example, it is something like.
+
+That's something that.
+
+But is the system.
+
+Let's make some.
+
+Bangladesh is not belong to Bangladesh.
+
+It's not a problem.
+
+It is a test purpose, right?
+
+It is in India.
+
+Okay, So we define plants here.
+
+One is manufacturing plant and another one is on the assembly plant.
+
+Once you.
+
+I saved you to the transport request.
+
+So data was saved.
+
+So we define complete, complete code controlling area plants.
+
+Now we are going to define storage location.
+
+Go back.
+
+Closest stores.
+
+General go to materials management here can see storage location, maintain storage location.
+
+Click on execute.
+
+It is asking under which plan you want to create the storage location.
+
+I want to create under one planet.
+
+Here, let me create a new story.
+
+Locations.
+
+Here you can see this is available on new entries.
+
+I maintain it as h11 on the storage location one.
+
+Okay.
+
+He's trying to do.
+
+On the start of.
+
+Okay.
+
+It's one of his it.
+
+All right, fine.
+
+Under plant one.
+
+Now we are going to define under plant.
+
+It's been an new.
+
+It's two one now.
+
+H1N1 is 4.1.
+
+It was a story location, but it sure understood that location.
+
+Now we define so the location and the plants.
+
+What is the next thing we need to define purchasing organization?
+
+Here you can see maintain purchasing organization.
+
+You can execute.
+
+Let us do one thing.
+
+We have a central purchasing system and the central purchasing system today.
+
+Let us create one central purchasing system.
+
+The countries.
+
+I think it was on the.
+
+But just.
+
+Okay.
+
+That meant an otherwise maintenance history.
+
+The partisan involved.
+
+See.
+
+See, we defined SDB rule as done on the budget information.
+
+So we defined all the individual organisation elements.
+
+Now we need to assign them.
+
+We define company.
+
+We define company called planned purchasing organization, controlling editorial.
+
+All these elements we define.
+
+Now we are going to connect all of them.
+
+Right.
+
+So now we configure down the definition, close this definition of go to assignment, go to financial
+
+accounting again.
+
+Here you can see assign company, go to company.
+
+We've got execute.
+
+What is our report?
+
+What?
+
+And.
+
+See, there's happy blank.
+
+On this button so that we can search for our company.
+
+What is our company?
+
+On the.
+
+Selected.
+
+So I just, you know, save it.
+
+So the company was assigned.
+
+Sorry, the company code is assigned to company.
+
+Of course, this financial accounting go to controlling the same company.
+
+Go to controlling area.
+
+You can't execute.
+
+What is our controlling area?
+
+H Mart.
+
+Selected.
+
+And here you can see small forwarded assignment of company code select Controlling area.
+
+Click on this assignment of complete code yet no entries available.
+
+Click on new entries.
+
+Here.
+
+We need to maintain our company.
+
+For months, it seemed that I was safe.
+
+So it was complicated.
+
+Now go to logic.
+
+General lesson plan to company execute.
+
+Here.
+
+We need to assign the plans to company or click on new entries.
+
+Why does our company call it more?
+
+And what is our brand?
+
+And it's smart where they find two plants right in it.
+
+End to end.
+
+This here.
+
+And see on action.
+
+Plan on Don't Save.
+
+So we assign plans to company.
+
+Go see?
+
+Yes.
+
+We assigned company to company code and controlling area to company code and plans to company code.
+
+Now what?
+
+We are going to do this to the location, the plan.
+
+But we are already assigned.
+
+We are ready.
+
+Sorry, Joseph, you are applicable?
+
+Yes.
+
+We are going to find the storage location under the plan so we do not need to assign.
+
+Again, we are during the creation of the location is the system.
+
+Ask under which plan we want to create the store of location.
+
+Right.
+
+So already the assignment was completed.
+
+We don't need to assign the storage location.
+
+I know we are going to do the partisan coordination assignment.
+
+Let us go with a central purchasing system for central purchasing.
+
+What is what we need to do?
+
+We need to assign the same partisan commission to Camp Nicole, same partisan coordination to the plans.
+
+This is the central purchasing system.
+
+If it is decentral means each plant will be having individual purchasing organizations.
+
+Right?
+
+Let us go with the central purchasing system.
+
+Tomatoes management here can see purchasing automation to accompany core purchasing automation to plan.
+
+And as we already discussed about it, reference purchasing automation and as we discussed about the
+
+standard purchasing mortgage, remember?
+
+Right.
+
+Yes, that is asset purchase information to company.
+
+First, we can execute.
+
+What is our purchasing organization?
+
+Steve Buell.
+
+I already told you about it.
+
+Single purchasing organization will be assigned to this single company.
+
+Right.
+
+So it is having only single entry.
+
+You don't have to enter multiple company codes.
+
+What is our company code?
+
+A smart.
+
+So best end outcome we could be involved.
+
+And again, that's important information to plants.
+
+But here.
+
+We can maintain forests in multiple purchasing organizations.
+
+I'm in the study.
+
+We can assign multiple plans to the single purchasing automation.
+
+Right.
+
+The countries that maintain its people.
+
+HBO.
+
+Keep people.
+
+Let's be.
+
+It is our plan.
+
+Okay.
+
+Nope.
+
+Same standard purchasing automation to plan.
+
+We can take one of the organization as the standard.
+
+I already told you about that.
+
+You.
+
+Right?
+
+What is our plan?
+
+It's PL1.
+
+We can make it as we are having only a single purchasing organization using so that purchasing automation
+
+can be used as a standard.
+
+If we are using an individual.
+
+Also, we can maintain that OC.
+
+To assign standard budget information?
+
+Depends.
+
+No.
+
+Asset purchase mortgage to refinance purchase.
+
+But it is a central system.
+
+We are having a single purchasing operation.
+
+We don't require to use a reference here because if you are using a multiple purchase equations, then
+
+we can use as a reference.
+
+Right.
+
+But we are using a central system.
+
+So not quite as going to friends.
+
+If you want the business requires, then you can use it.
+
+So this is how we do the configuration for and the power structure.
+
+And also we are left with the one thing like we will define one purchasing group.
+
+Right.
+
+Purchasing group is nothing but a group of people or a single person who is responsible to procure the
+
+materials from the external sources.
+
+Right.
+
+So we will define during the three months data or else if we want to go and create the purchasing group
+
+as well, we can do that.
+
+Go to metals management, the purchasing.
+
+Here you can see create purchasing groups.
+
+Here we can create the purchasing group so we can execute.
+
+Here you can see the partisan groups.
+
+Let me mention a new entry here.
+
+It's PG.
+
+Oak Island bipartisan group.
+
+But if it is having a telephone number or fax number, you can maintain order, an email address you
+
+can maintain, and all of the things you can't sell.
+
+It will not be assigned to any other organization or any other plant or something.
+
+It will be created at a client level.
+
+This is how we define the interface structure completely.
+
+Okay.
+
+If you want to see that structure by visualization, you can see this here.
+
+You can see the structure.
+
+So you can see like this structure.
+
+I will show you that we defined the company code.
+
+Right.
+
+Go to that company code.
+
+Its mission here can see the complete quote we define.
+
+We can execute copy.
+
+We have done some task copy here.
+
+You can see the small structure button on this structure and go to navigation.
+
+Continue.
+
+Here.
+
+You can see so many companies are available here.
+
+Let us search for our company.
+
+Click Control F in your keyboard.
+
+Simply control F or as you can see, this here fine button.
+
+Click on this fine button.
+
+Here, let me a Honda.
+
+What else gives each market what will be seen to be such a company code?
+
+Click on it.
+
+Here you can see that with the cursor.
+
+Here you can see small red color rectangle box is coming.
+
+It means selected.
+
+The details choose.
+
+This is a structure.
+
+What is what we define?
+
+This is a company.
+
+Company name is what?
+
+Honda.
+
+Honda is assigned to company code.
+
+If you click on this press button, it will show the company.
+
+See?
+
+Each one is assigned to each mode and thus controlling area.
+
+Each mode controlling area is assigned to company code.
+
+If you click on it, you can see the complete assembly and also.
+
+And as we define the plans OC plant is assigned to.
+
+Well plant is assigned to.
+
+That is a simple question and also complicated.
+
+It is linked to company code and it is linked to purchase and valuation, Right.
+
+Now, if you open this one, it will show you two entries.
+
+One is company code and another one is purchasing.
+
+See?
+
+And as it is are same story locations as well.
+
+Right.
+
+So so relocations company code purchasing ordinance.
+
+You can see right.
+
+So this is a structure we define.
+
+And but this information also assigned to company bought and plans.
+
+This is how we've done the configuration for enterprise structure.
+
+Any questions?

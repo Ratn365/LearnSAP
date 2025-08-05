@@ -1,0 +1,959 @@
+Today we are going to discuss about output type determination.
+
+Let me log into the supposition.
+
+Let me open on the table.
+
+Yeah.
+
+Yeah, this is the patches.
+
+We created a layer, but we created an escape system.
+
+Right.
+
+How the vendor will know about the purchase order.
+
+We need to send these people to vendor.
+
+Right.
+
+So that study is and what we need to do one configuration called output determination.
+
+Okay, head here.
+
+It will.
+
+We can send to fax or we can send through external send email.
+
+EDA I mean, like EDA means like a system to system transfer.
+
+Like that would have some kind of medium side.
+
+You can do a printout from the safe system and we can send it to physical document.
+
+We can do.
+
+We can use any of these medium to do output determination for sending this purchase order to vendor.
+
+It is called output determination.
+
+We need to do an integration for this output type.
+
+We're having different types of outputs.
+
+The standard output type is an EU.
+
+Okay.
+
+We're also having different types of standards, but we use only an EU as the standard one.
+
+But.
+
+But yes, but our request that we are having several documents that like request for quotation purchase,
+
+requisition, purchase order and as we have some contracts, these are all called purchasing documents.
+
+All these documents having this similar procedure for output determination.
+
+But purchase order is very important for them, right?
+
+So that is a reason why I will tell you about the procedure for purchase order remaining purchasing
+
+documents also similar to same as it is.
+
+But forgetting this output determination.
+
+We need to do some configuration activity.
+
+Let me show you the.
+
+What is that could be used for configuration?
+
+Spirit.
+
+Sparkle cep reference img.
+
+And go to Mattel's management.
+
+Output and determination.
+
+We are configuring for purchasing documents.
+
+So go to Parcheesi.
+
+An.
+
+At here.
+
+You can see messages, right?
+
+Go to messages because in purchasers, if you go to messages only, the output determination will show.
+
+We'll see.
+
+So go to messages.
+
+And here you can see output control.
+
+Go to output control.
+
+Here.
+
+We need to define condition tables at the sequence nurses types and assess determination schema.
+
+Okay, let me take.
+
+The safety.
+
+Already had the.
+
+Standard.
+
+Condition tables.
+
+C Condition Table four Requested Quotation Condition.
+
+Table four Purchase Order Condition Table for outline Outline Agreements Outline Agreement is nothing
+
+but contracts.
+
+We have a topic called our clinic.
+
+I will tell you on that how we are going to create contracts between vendor and the company.
+
+And as we are having some scheduling agreement between vendor and company.
+
+So now let's go and.
+
+See the what are the standard tables are available for purchase orders.
+
+You can execute.
+
+If you want to create new one, go to create.
+
+If you want to displace existing tables, go to display.
+
+I'm going for display.
+
+So click on the square bar.
+
+We can see the list of standard tables available.
+
+So you document a particular document.
+
+See, we defined some characteristics for release strategy, right?
+
+How the strategy will trigger based on the combination we assigned in classification as the same way.
+
+What are the combination we maintain in condition table?
+
+Based on this combination, the output will be triggered in purchase order.
+
+Okay.
+
+You understand?
+
+Did you remember how the strategy will trigger based on the combination?
+
+Right.
+
+Is the same way is the same way When the combination is matches the output that will be triggered in
+
+purchase orders.
+
+Let us take a few.
+
+Take document.
+
+The content you can see purchasing documentary.
+
+There's one field.
+
+Go back.
+
+Let's see another one.
+
+An autistic purchasing organization and a vendor, the contingency purchase automation vendor combination.
+
+Then this purchasing organism and recombination came in purchase order.
+
+Then the output that will be determined automatically go back.
+
+If you want to create any new condition tables we create from here create condition table.
+
+But let us use the standard one.
+
+If you want, you can simply create a new table.
+
+We already had the standard tables.
+
+Right.
+
+Let us use the same tables.
+
+Go back.
+
+So.
+
+In two different condition tables.
+
+Access sequence.
+
+Okay.
+
+Access sequence.
+
+Well.
+
+Close this condition tables.
+
+Go to access sequence.
+
+Define access sequencer.
+
+Purchase order.
+
+Execute.
+
+Here we can see some of the action sequences, right?
+
+But the standard as a sequence is to build your over selected go to access.
+
+And here we need to assign the tables in condition tables.
+
+We having some standard tables, right?
+
+The 0 to 7 is the table 0 to 5, 0 to 6 is the standard tables.
+
+See what is a 0 to 7 table.
+
+Having the combination of purchasing recognition render.
+
+We need to assign it here and document type.
+
+What is our vendor and document?
+
+We want to maintain another table so we can maintain here.
+
+It is a standard one, right?
+
+If you want to create a new access sequence also we can maintain.
+
+If you want to enter a new sequence, let us copy.
+
+On the tables it is having let's see, 2725265.
+
+Let me check any other table available.
+
+Have.
+
+With the condition of disorder display.
+
+So these three tables used.
+
+25.6 .76 files.
+
+Except fair or zero to.
+
+To see Prince.
+
+Let me copy this.
+
+Then the access sequence.
+
+Just.
+
+Copious.
+
+And just.
+
+It's copying the table entries.
+
+Entered 49 entries available selected for the access C, which is having 2526, 27.
+
+What are the tables we see?
+
+29 and 635 Let us send those also entries as a table.
+
+But let's take it off the table.
+
+029 29 table.
+
+And 35.
+
+Any number can give any serial number 31.
+
+It's not a problem.
+
+635.
+
+It is choosing gold and other combination also as.
+
+You can't save.
+
+And gas.
+
+And gas.
+
+It was there.
+
+Well, that's.
+
+Set up six different countries.
+
+And those.
+
+See those files are also signed automatically and just click on Save.
+
+See, by the standard 0001, it is having only three combinations.
+
+But I sent another two combinations to the our access sequence.
+
+I have to sequence for Stefan The HQ.
+
+Delphi sequence.
+
+So we defined one as the concert.
+
+We define condition tables.
+
+All these can be condition tables as assigned to.
+
+That's the sequence.
+
+Now, this access sequence needs to be assigned somewhere, right, to use these combinations.
+
+So.
+
+Clause.
+
+This condition labels go to message types.
+
+Message types means output types purchase order.
+
+Here.
+
+They can use the standard output type, right?
+
+Execute.
+
+Maintain message types for people.
+
+Go to my message types for people need you is the standard.
+
+We want to choose another output type so we can define a new one.
+
+They're testing the new available.
+
+Well, someone created the new look.
+
+No problem.
+
+Let us.
+
+A standard one.
+
+We use standard one selected.
+
+Click on details.
+
+See here.
+
+You can see access sequence, right?
+
+If we ascend our access to fence, then when our combinations will came up, this access sequence were
+
+defined by some other person.
+
+So let us remove the access sequence.
+
+Ask right into the queue.
+
+And just.
+
+Default values.
+
+We are having dispersed and each number having different functionality like output type sticker.
+
+After that, if you want to send a printout, I mean, like send the mail immediately.
+
+Or if you want to take the printout immediately, we can maintain this for.
+
+Not if you want to do it on transactions like after saving the people.
+
+We are having a transaction code called M.F..
+
+When you run that transaction, only then only we can take the print out of the platform or the mail
+
+will be sent to the vendor.
+
+These are all happen when we run the transaction.
+
+And also we are having some job of sort of a maintained in the background system.
+
+So then the background jobs are running, then the people will be sent to the vendor automatically.
+
+This is how we maintain the configuration output by getting maintain for adoption, send immediately
+
+and the let's take print out option.
+
+Now, if you want to maintain any other things because we don't have the functionality for the test,
+
+the test server to send the mail right, right now.
+
+So let us make it as a print.
+
+What are the partner functions?
+
+We need to send it to the vendor.
+
+That is what we maintain as a vendor.
+
+And remaining things are not much important for us now.
+
+We maintain and also we need to check this access to conditions because we are creating some condition
+
+records to get the output type that are mine in the people.
+
+I will show you that how to create the condition because that is the reason why we need to check this
+
+access to conditions and the multiple issuing multiple issuing means like you created a pool, right?
+
+You take the printer after the printer if you want to change anything in people.
+
+And we want to issue another plan after the changes, you need to select this multiple issue.
+
+And these are the standard programs and routines.
+
+You need to assign it here, like change output.
+
+Like if you do some changes in the people, the output will be determined again.
+
+So that's the reason we change party in the output.
+
+There will be one program, standard program.
+
+It needs to be sent here.
+
+Okay.
+
+No need to change anything.
+
+Just time.
+
+Change.
+
+That's the sequence here.
+
+Go to mail texts.
+
+While during Clinton we have some title, right?
+
+So the title is the standard title is New Purchase Order printout based on the language which it has
+
+maintained here you want to see the English see new purchase order or printer.
+
+It's a title longer processing retains.
+
+See it is something related to technical things like adapting will maintain the smartphone.
+
+What is smartphone means?
+
+Let me show you that.
+
+Click on print preview.
+
+We are getting some form, right?
+
+This is one form.
+
+This form form.
+
+It will be taken up by the above team.
+
+See, the address will be maintained at right set of the form and we need to have the logo of the company
+
+here.
+
+Like are some forms will be created by the technical team.
+
+So that form needs to be assigned here.
+
+Okay.
+
+Based on the business clients requirement, they will give some form to the amount people.
+
+So we need to guide the technical team like above team.
+
+Here we need to place the logo.
+
+Inside.
+
+Should be like a 4x4 or four button like that.
+
+We need to tell the above.
+
+So right said get here.
+
+We need to have a vendor address here.
+
+We need to have a company address like that.
+
+We need to tell to the technical team then.
+
+The technical team will create some smart forms and they will give it to us.
+
+Then we need to send it here.
+
+Okay.
+
+If you want to take a printout, we are having some fun.
+
+If you want to send through, fax, send to send the system to system transfer.
+
+If you want to go for mail on early processing.
+
+Different kinds of mediums are available.
+
+Based on that, we will define some smart forms and we will assign it here.
+
+Okay.
+
+Partner roles.
+
+Partner roles means we discussed in vendor master.
+
+They have some ordering address vendor, good supplier like that.
+
+We have some partner roles, right?
+
+So those partner roles, if we want to send anything we can maintain here.
+
+Okay.
+
+Do not change anything and just change the access sequence.
+
+Okay.
+
+I changed all that to see its combination.
+
+Go back.
+
+Then go to fine tune control.
+
+Okay.
+
+Here we are having new.
+
+Unchanged.
+
+Unchanged.
+
+What is our output?
+
+And you write.
+
+I created the people called New.
+
+So the print was formed here.
+
+But if I wanted a print again, what are the changes I done in people?
+
+I mean, if I change 100 to 200 in messages.
+
+We are getting another output by.
+
+Fanfic books that can see change, right?
+
+Change messes that another output will be data in mind here.
+
+Second, as a second line item.
+
+Second line and it will show you like change checkbox.
+
+And we are getting another print out here.
+
+That is the reason why we need to maintain one for new and.
+
+One for change.
+
+You can see two times it is available.
+
+And EU and EU.
+
+The go back.
+
+Was it?
+
+This is how you maintain these types.
+
+And go to message the determination schema.
+
+Go to Macy's came off a purchase order.
+
+Maintenance says recommendations came up Purchase order.
+
+The adhere.
+
+The standard procedure schema is odd and the.
+
+Selected go to control data at here.
+
+We need to maintain what are the top message types.
+
+We want to get in purchase order.
+
+Okay.
+
+The new.
+
+Where is the new artistic?
+
+See any of here.
+
+It's a requirement is print.
+
+We need to tell the system it is a print.
+
+Okay.
+
+This is God and you.
+
+If you are to find any customized message that we need to send in this procedure.
+
+R&B or if you want to go with the new procedure, you can create a new procedure and you need to send
+
+the.
+
+Condition type.
+
+Condition type is not input output and go back.
+
+What else?
+
+Do you have any confusion?
+
+Let me create a new one so that it is easy for you.
+
+If copy.
+
+C.
+
+I would.
+
+In fiscal.
+
+Well.
+
+Content is copied.
+
+No, Let us click on scale.
+
+Okay.
+
+So let it go to control letter.
+
+You don't want remaining.
+
+Things.
+
+Don't do it on us.
+
+We don't want to.
+
+Xenu.
+
+Let's remove it.
+
+I need only you.
+
+We even made.
+
+You don't want anything, just ignore it.
+
+And say, what are the output types you required you need to maintain here.
+
+Now we are confident only for a year.
+
+That is the reason why you maintain any reminding.
+
+These are standard.
+
+So let me keep it as this.
+
+Go back.
+
+Essence cannot purchase order adhering to us in our procedure.
+
+Yes, Hitch.
+
+Click on sale.
+
+Here.
+
+It means purchase order.
+
+Application of Miss.
+
+Purchase Order.
+
+Purchase order.
+
+Demon's output.
+
+See women's output.
+
+So we are saying our procedure here.
+
+Save it.
+
+Go back.
+
+Okay.
+
+This is the configuration for output type determination.
+
+See.
+
+No.
+
+I need to create the condition record first because we maintain the combination.
+
+But what are the formulations we want to trigger?
+
+We didn't maintain, right?
+
+Which one?
+
+That it needs to be triggered like that.
+
+We need to maintain it.
+
+We need to define the condition records for the output determination.
+
+There is a transaction code called amp zero for.
+
+Create conditions, records, output conditions, records.
+
+What is output type?
+
+And you write you're using.
+
+Under new.
+
+How many combinations we maintain access sequence.
+
+Does he want?
+
+What is our exit sequence?
+
+This is right.
+
+Is.
+
+One, two, three, four, five, five.
+
+Combinations.
+
+Remainder.
+
+Let us see.
+
+One, two, three, four.
+
+First combination is.
+
+But either way, when the second one is documented by porches or windows, see Windows Media.
+
+Next is documentary purchasing a documentary purchasing nationwide Wilmington company Portland, which
+
+is information for which combination you want to create the conditions for it is asking.
+
+So now let us go with the purchasing organization vendor.
+
+Okay.
+
+But she didn't want to continue.
+
+That here we need to give the document.
+
+What is the document that we are using?
+
+It's a document that.
+
+We get fined.
+
+I will be in Vegas.
+
+Denver, Right.
+
+Of any domain or DMV.
+
+What does the document we want to give?
+
+What is our purchasing or the.
+
+Beaver.
+
+If the was.
+
+The be repurchasing and let's take as it is, the vendor.
+
+I'm taking only for Hazzard, not for Bella.
+
+We tried to clear both of them.
+
+Let us see how the system works.
+
+Function.
+
+What is the function when under the android?
+
+Automatically taken.
+
+But as a medium we are using print out, right?
+
+So one aspirin to.
+
+And dispersion of the dispersion we're using for immediately.
+
+Languages.
+
+Yen.
+
+English.
+
+And that.
+
+Let us save it.
+
+Okay.
+
+Condition record was here.
+
+We want to display it.
+
+The transaction code 106.
+
+Display of poor condition reports.
+
+The second commissioner said it is a display for the Coalition.
+
+Let us go and create one.
+
+Let us see how it works.
+
+And I to give the.
+
+And that is the window.
+
+And but choosing Augusta only and choosing not to the people.
+
+DPG.
+
+Being locked.
+
+Delphi motors.
+
+And just given the data he here's.
+
+And these are.
+
+Mr..
+
+I'm not going to be on this one.
+
+Necklaces, yellow textile material, plus maintaining the commercial delicacy.
+
+500.
+
+These.
+
+That's good to hear.
+
+That's why.
+
+Okay, you can check.
+
+Let us go to messages now.
+
+See the new triggered automatically.
+
+Right?
+
+We do not send anything.
+
+It is.
+
+Determine automatically.
+
+No.
+
+Go and see it.
+
+I'm opening it for the naysayers.
+
+Still in one read because we need to mention some.
+
+Think all the.
+
+Go to change for.
+
+The messages.
+
+So go to communication method.
+
+And doing that.
+
+Let us at least.
+
+Then go to the crater.
+
+Or send an assistant immediately and go back.
+
+Oh, I think we created with envy document that that is the reason why it is not taking creating over.
+
+Industry standard.
+
+They're testing the material.
+
+Quantity.
+
+And the location.
+
+Check.
+
+This is.
+
+Right.
+
+Let me check the configuration once.
+
+But this changed once.
+
+Communication.
+
+Okay.
+
+So I look.
+
+Yes.
+
+Relevant.
+
+It is.
+
+I love them.
+
+Just like.
+
+Let us do it again.
+
+Could you could you please return again, guys?
+
+I think this session will end.
+
+Hello.
+
+Okay.
